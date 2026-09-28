@@ -176,6 +176,8 @@ Ordre de grandeur pour la base du réseau.
 > 💡 **L'objectif n'est pas de tout acheter maintenant :**
 > le matériel sera ajusté après validation du tracé et du principe de raccordement.
 
+---
+
 🌱 RÊVER UN PEU
 
 "Visuel du projet" (presSept2026/images/file_00000000b39881f4a3ef3c2869a761e1.png)
