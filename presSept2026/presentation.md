@@ -4,7 +4,7 @@ theme: default
 paginate: true
 ---
 
-# 🌱 Jardin partagé - Alfred-Roland
+# 🌱 Jardin partagé 
 
 ## Projet d'évolution de l'arrosage
 
@@ -178,7 +178,8 @@ Ordre de grandeur pour la base du réseau.
 
 ---
 
-# 🌱 Un peu plus loin ?
+# Une cible ?
 
-![width:600px](images/file_00000000b14c81f4b17f376079fc8a80.png)
-
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/file_00000000b14c81f4b17f376079fc8a80.png" width="600">
+</div>
