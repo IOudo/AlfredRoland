@@ -178,6 +178,11 @@ Ordre de grandeur pour la base du réseau.
 
 ---
 
-🌱 RÊVER UN PEU
+# 🌱 Un peu plus loin ?
 
+![width:600px](images/file_00000000b14c81f4b17f376079fc8a80.png)
+
+<<<<<<< HEAD
 ![width:800px](images/file_00000000b14c81f4b17f376079fc8a80.png)
+=======
+>>>>>>> 54f506f (pb image)
