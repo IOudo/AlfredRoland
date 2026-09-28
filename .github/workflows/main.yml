@@ -1,0 +1,62 @@
+name: Publier la présentation
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v6
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 20
+
+      - name: Générer la présentation Marp
+        run: |
+          npx @marp-team/marp-cli@latest \
+            presSept2026/presentation.md \
+            --html \
+            --allow-local-files \
+            -o site/index.html
+
+      - name: Copier les images
+        run: |
+          cp -r presSept2026/images site/images
+
+      - name: Configurer GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Préparer le site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Publier sur GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
