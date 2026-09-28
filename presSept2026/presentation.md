@@ -180,6 +180,21 @@ Ordre de grandeur pour la base du réseau.
 
 # Une cible ?
 
+---
+
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/file_00000000b14c81f4b17f376079fc8a80.png" width="600">
+  <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture1.png" >
 </div>
+
+---
+
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture2.png" >
+</div>
+
+---
+
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture3.png" >
+</div>
+
