@@ -178,4 +178,4 @@ Ordre de grandeur pour la base du réseau.
 
 🌱 RÊVER UN PEU
 
-"Visuel du projet" (images/file_00000000b39881f4a3ef3c2869a761e1.png)
+"Visuel du projet" (presSept2026/images/file_00000000b39881f4a3ef3c2869a761e1.png)
