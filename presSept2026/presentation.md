@@ -198,3 +198,22 @@ Ordre de grandeur pour la base du réseau.
   <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture3.png" >
 </div>
 
+---
+
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture4.png" >
+</div>
+
+---
+
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture5.png" >
+</div>
+
+---
+
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture6.png" >
+</div>
+
+---
