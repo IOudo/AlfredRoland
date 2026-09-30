@@ -132,23 +132,67 @@ Quelle profondeur ? Quel matériel ? Qui peut participer ?
 
 ---
 
-5 — La suite et visuel IA
-
----
-<div style="text-align: center;">
-  <img
-    src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/file_00000000b39881f4a3ef3c2869a761e1.png"
-    style="max-height: 650px; max-width: 100%; object-fit: contain;"
-  >
-</div>
+💧 Pistes de récupération d'eau
+Pistes à étudier : abri de jardin- auvent mural · serre adossée · gouttière · récupération d'eau de pluie · cuve
 
 ---
 
-<div style="text-align: center;">
-  <img
-    src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/7f968ba95c7b625b0019b16cdf101fedfd7de8235d4c9e5da336b2e873e19d55.png"
-    style="max-height: 650px; max-width: 100%; object-fit: contain;"
-  >
+<div style="display:grid; grid-template-columns:repeat(4, 1fr); gap:12px; align-items:center;"><a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/baache-recuperation.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/baache-recuperation.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/goutiere-suspendue.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/goutiere-suspendue.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/gouttiere-serre.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/gouttiere-serre.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/recuperation-pluie.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/recuperation-pluie.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/serre-jardin.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/serre-jardin.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/serre-recuperation-ex.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/serre-recuperation-ex.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/Screenshot%202026-09-30%2021.20.58.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/Screenshot%202026-09-30%2021.20.58.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/Screenshot%202026-09-30%2021.36.54.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/Screenshot%202026-09-30%2021.36.54.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/Screenshot%202026-09-30%2021.49.15.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/Screenshot%202026-09-30%2021.49.15.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/Screenshot%202026-09-30%2021.50.41.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/Screenshot%202026-09-30%2021.50.41.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/Screenshot%202026-09-30%2021.51.47.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/Screenshot%202026-09-30%2021.51.47.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/Screenshot%202026-09-30%2021.52.07.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/Screenshot%202026-09-30%2021.52.07.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/Screenshot%202026-09-30%2021.53.51.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/Screenshot%202026-09-30%2021.53.51.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/Screenshot%202026-09-30%2021.55.25.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/Screenshot%202026-09-30%2021.55.25.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/7f968ba95c7b625b0019b16cdf101fedfd7de8235d4c9e5da336b2e873e19d55.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/7f968ba95c7b625b0019b16cdf101fedfd7de8235d4c9e5da336b2e873e19d55.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture10.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture10.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture1.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture1.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture2.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture2.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture3.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture3.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture4.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture4.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture5.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture5.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture6.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture6.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture7.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture7.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture8.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture8.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture9.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture9.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/file_0000000060c0821089e86c4f77cf3858.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/file_0000000060c0821089e86c4f77cf3858.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/file_00000000b14c81f4b17f376079fc8a80.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/file_00000000b14c81f4b17f376079fc8a80.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/file_00000000b39881f4a3ef3c2869a761e1.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/file_00000000b39881f4a3ef3c2869a761e1.png" style="width:100%; height:110px; object-fit:contain;"></a>
+
 </div>
 
 
