@@ -1,9 +1,4 @@
-Marp Live
-Theme: 🌙
-📥 Export HTML
-➕ Slide
----
-
+--- 
 marp: true
 theme: default
 paginate: true
@@ -153,7 +148,7 @@ Pistes à étudier : abri de jardin- auvent mural · serre adossée · gouttièr
 
 <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/serre-recuperation-ex.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/serre-recuperation-ex.png" style="width:100%; height:110px; object-fit:contain;"></a>
 
-<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture1.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture1.png" style="width:100%; height:110px; object-fit:contain;"></a>
+<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/serre-recuperation-ex.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture1.png" style="width:100%; height:110px; object-fit:contain;"></a>
 
 <a href="https://www.18h39.fr/consommer-mieux-depenser-moins/economies-deau/methodes-alternatives-pour-collecter-leau-de-pluie.html">Article les méthodes alternatives pour collecter l'eau de pluie</a>
 
