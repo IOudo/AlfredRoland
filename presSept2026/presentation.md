@@ -59,35 +59,6 @@ Demain : plusieurs possibilités d'arrosage
 
 ---
 
-# LE RÉSEAU : DES COMPOSANTS SIMPLES
-
-## Une installation basée sur du PE Ø25
-
-### 🔵 LE TUYAU
-
-Un tuyau en polyéthylène (PE) 
-
-Tube destiné aux réseaux d'eau sous pression et adapté à une installation enterrée.
-
-👉 [Voir la référence du tube chez Gamm Vert](https://www.gammvert.fr/p/tube-pe-eau-50m-d25-bleu-16-bars-wavin-3025008-6798a3c104e072c2496cb340)
-
----
-
-# UN PREMIER ORDRE DE GRANDEUR DU BUDGET
-
-| Équipement | Qté | Prix indicatif |
-|---|---:|---:|
-| [Tube PE Ø25 — 50 m — 16 bars — Wavin](https://www.gammvert.fr/p/tube-pe-eau-50m-d25-bleu-16-bars-wavin-3025008-6798a3c104e072c2496cb340) | 1 | **119,50 €** |
-| [Raccord compression PE Ø25 × 1" M](https://www.gammvert.fr/p/raccord-droit-16b-1-m-d25-plymouth-6808b6b95bee32016cede3f8) | 3 | **≈ 10,50 €** |
-| [Vanne PE Ø25](https://www.gammvert.fr/p/vanne-pe-plastique-25-6984ad0d7a46d6b1dd036d24) | 5 | **≈ 96 €** |
-| [Té compression PE 25-20-25](https://www.gammvert.fr/p/raccord-a-compression-te-reduit-pn16-pour-tube-pe-25-20-25-mm-688cb6e25e166add6ce89034) | 2 | **≈ 11 €** |
-| [Collecteur 3 sorties](https://www.gammvert.fr/c/accessoires-de-culture?p=27) | 1 | **≈ 17 €** |
-| [Coupe-tube](https://www.gammvert.fr/p/coupe-tube-plastique-pc-32-mm-virax-215032-virax-67237f94491565482e9b9000) | 1 | **19,69 €** |
-
-### **TOTAL INDICATIF : ≈ 250/300 €**
-
----
-
 🕳️ Le chantier
 
 Le tube est simple à poser.
@@ -132,36 +103,23 @@ Quelle profondeur ?
 ---
 Plan du jardin
 
-<div  align-items:center;"><a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/baache-recuperation.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg" style="width:100%; height:100%; object-fit:contain;"></a>
+<div  align:center;"><a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/baache-recuperation.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg" style="width:500px; ; object-fit:contain;"></a>
 
 ---
 
-Voici la synthèse remise au propre, directement exploitable en Markdown :
-
 💧 Réseau d'arrosage — Synthèse du projet
 
-📐 Quantités calculées sur le plan
-
-En reprenant la géométrie du SVG et en complétant les deux quarts manquants par symétrie, le réseau comprend 12 parcelles / 12 robinets.
-
-Partie du réseau| Longueur calculée| Avec ~15 % de marge
-PE25 — arrivée → vanne| ~6,9 m| ~8 m
-Vanne → AQ1/AQ2/AQ3/AQ4| ~9,8 m| ~11,2 m
-Collecteurs → 12 robinets| ~20,5 m| ~23,6 m
-PE16 total| ~30,3 m| ~35 m
+Le réseau comprend 12 parcelles / 12 robinets.
 
 👉 Quantités à prévoir
 
 - PE25 : 10 m minimum
-- PE16 : 40 m minimum
 - PE16 : 50 m conseillé si achat en couronne
 
 Gamm Vert propose notamment :
 
-- "Tuyau PE Ø16 mm Jardibric — couronne de 50 m" (https://www.gammvert.fr/p/tuyau-goutte-a-goutte-polyethylene-noir-16-mm-l-50-m-jardibric-574460)
+- "Tuyau PE Ø16 mm Jardibric — couronne de 50 m" (https://www.gammvert.fr/p/tuyau-pe-rigide-16mm-en-rouleau-de-50-metres-682da44530c7590c6cbc9a0f)
 - "Tube PE-HD Ø25 mm — 25 m / 6 bars" (https://www.gammvert.fr/p/tube-pe-hd-d-25-mm-6-bars-20050049)
-
-«⚠️ Pour le PE16, prendre du tube plein, et non du tuyau goutte-à-goutte pré-percé.»
 
 ---
 
@@ -181,12 +139,9 @@ Principe retenu :
 
 🔴 Collecteurs / distribution
 
-Le réseau conserve les quatre points de distribution :
+Le réseau a quatre points de distribution :
 
-- AQ1
-- AQ2
-- AQ3
-- AQ4
+- AQ1, AQ2, AQ3, AQ4
 
 Pour les ramifications en Ø16 :
 
@@ -211,24 +166,6 @@ Prévoir :
 Position approximative sur le plan :
 
 ≈ X 850 / Y 850
-
-Architecture retenue :
-
-PE25
-  │
-  │
-  🔴 VANNE GÉNÉRALE
-  │
-  ▼
- FILTRE
-  │
-  ▼
-┌─┴──────────────────┐
-│                    │
-AQ1  AQ2  AQ3  AQ4
-│││  │││  │││  │││
-│││  │││  │││  │││
-P  P  P  P  P  P  P  P  P  P  P  P
 
 ---
 
@@ -282,53 +219,51 @@ Colliers / attaches Ø16| 30 à 40
 
 ---
 
-🌱 Parcelles
+🛒 Liste de courses — Réseau d'arrosage
 
-Les 12 parcelles sont maintenant prises en compte dans le calcul.
+Description| Quantité| Prix unitaire / lot| Référence Gamm Vert| Total
+"PE-HD Ø25 mm — 6 bars — couronne 25 m" (https://www.gammvert.fr/p/couronne-tuyau-polyethylene-haute-densite-25-mm-l-25-m-6-bars-jardibric-574446)| 1| 30,00 €| 574446| 30,00 €
+"PE Ø16 mm — couronne 50 m" (https://www.gammvert.fr/p/tuyau-pe-rigide-16mm-en-rouleau-de-50-metres-682da44530c7590c6cbc9a0fhttps://www.gammvert.fr/p/tuyau-pe-rigide-16mm-en-rouleau-de-50-metres-682da44530c7590c6cbc9a0fhttps://www.gammvert.fr/p/tuyau-pe-rigide-16mm-en-rouleau-de-50-metres-682da44530c7590c6cbc9a0f)| 1| **** €| 574460| 30 €
+"Vanne d'arrosage Ø16 mm Jardibric" (https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte)| 12| 4,99 €| —| 59,88 €
+"Té Ø16 mm — lot de 10" (https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte)| 1| 5,30 €| —| 5,30 €
+"Jonction Ø16 mm — lot de 10" (https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte)| 1| 3,50 €| —| 3,50 €
+"Coude Ø16 mm — lot de 10" (https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte)| 1| 5,20 €| —| 5,20 €
+"Bouchon Ø16 mm — lot de 5" (https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte)| 1| 3,50 €| 574489| 3,50 €
+"Vanne générale PE25" (https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte)| 1| ~8,50 €| —| 8,50 €
+"Filtre adapté au PE25" (https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte)| 1| ~17,00 €| —| 17,00 €
+Raccord compression PE25 → 20×27| 2| ~3,59 €| —| 7,18 €
+Colliers / attaches Ø16 — lot| 1| ~27,00 €| —| 27,00 €
+Compteur de débit d'eau Jardibric| 1| 25,00 €| 1441676| 25,00 €
+| | | TOTAL| 207,85 €
 
-Les parcelles ajoutées par rapport au premier modèle sont :
-
-- P0
-- P7
-- P8
-- P9
-- P10
-- P11
-
-Soit :
-
-12 parcelles → 12 robinets
+https://www.gammvert.fr/p/raccord-droit-16b-1-m-d25-plymouth-6808b6b95bee32016cede3f8
 
 ---
 
-📊 Synthèse générale
+💧 Compteur d'eau
 
-Catégorie| Quantité
-Parcelles| 12
-Robinets Ø16| 12
-Collecteurs| 4 — AQ1 à AQ4
-PE25| 10 m minimum
-PE16| 40 m minimum / 50 m conseillé
-Tés Ø16| 10
-Jonctions Ø16| 6
-Bouchons Ø16| 4
-Coudes Ø16| 4
-Vanne générale| 1
-Filtre| 1
-Attaches Ø16| 30–40
+"Compteur de débit d'eau Jardibric — Gamm Vert" (https://www.gammvert.fr/p/jardibric-compteur-de-debit-d-eau-1441676)
 
-📌 Prochaine étape
+25,00 € — Réf. 1441676
 
-Faire le tableau détaillé P0 → P11, avec pour chaque parcelle :
+Il possède :
 
-Parcelle| Collecteur| Longueur PE16| Robinet| Raccords
-P0| AQx| à calculer| Ø16| à définir
-P1| AQx| à calculer| Ø16| à définir
-P2| AQx| à calculer| Ø16| à définir
-…| …| …| …| …
-P11| AQx| à calculer| Ø16| à définir
+- un compteur journalier ;
+- un compteur total ;
+- une entrée femelle 20×27 ;
+- une sortie mâle 20×27 ;
+- une mesure du volume consommé.
 
-Ce tableau permettra ensuite de reporter les longueurs directement sur le SVG avec des repères métrés et de vérifier précisément les quantités avant achat.Si tu veux, je peux aussi te faire une version encore plus courte “liste de courses Gamm Vert”, sans toute la partie explicative.
+💰 Total avec compteur
+
+207,85 € environ
+
+«⚠️ Le prix final peut varier pour les produits vendus par des partenaires Gamm Vert et pour les raccords dont le modèle exact reste à déterminer. Le compteur Jardibric est actuellement affiché à 25 €.»
+
+🔧 Point à vérifier avant commande
+
+Le compteur Jardibric est en 20×27, donc il faudra bien conserver les deux raccords PE25 → 20×27 dans la liste.
+
 
 ---
 
