@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1389.00 1384.00" data-guides="{&quot;vertical&quot;:[],&quot;horizontal&quot;:[]}"><defs/><path fill="none" stroke="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" font-size-adjust="" pointer-events="none" title="Ellipse 2" id="tSvg114f3ac8fc0" d="M698 2C1079.0765 2 1388 310.9235 1388 692C1388 1073.0765 1079.0765 1382 698 1382C316.9235 1382 8 1073.0765 8 692C8 310.9235 316.9235 2 698 2Z" style="transform-origin: -8839px -8688px;"/><path fill="transparent" stroke="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" font-size-adjust="" pointer-events="none" id="tSvgdcd24356a9" title="Rectangle 1" d="M8 2C468 2 928 2 1388 2C1388 462 1388 922 1388 1382C928 1382 468 1382 8 1382C8 922 8 462 8 2Z" style="transform-origin: -4302px -4308px;"/><line fill="transparent" font-size-adjust="" pointer-events="none" stroke="#000000" fill-opacity="1" stroke-opacity="1" stroke-width="1" id="tSvge2f3c9027e" title="QUART2" x1="698.00" y1="692.00" x2="1388.00" y2="1382.00" transform="matrix(1 0 0 1 0 0)" style="transform-origin: 1043px 1037px;"/><line fill="transparent" font-size-adjust="" pointer-events="none" stroke="#000000" fill-opacity="1" stroke-opacity="1" stroke-width="1" id="tSvgdccaa349ec" title="QUART3" x1="698.00" y1="692.00" x2="1.00" y2="1383.00" transform="matrix(1 0 0 1 0 0)" style="transform-origin: 349.5px 1037.5px;"/><line fill="transparent" font-size-adjust="" pointer-events="none" stroke="#000000" fill-opacity="1" stroke-opacity="1" stroke-width="1" id="tSvg71ea931e4f" title="QUART4" x1="8.00" y1="2.00" x2="698.00" y2="692.00" transform="matrix(1 0 0 1 0 0)" style="transform-origin: 353px 347px;"/><line fill="transparent" font-size-adjust="" pointer-events="none" stroke="#000000" fill-opacity="1" stroke-opacity="1" stroke-width="1" id="tSvg160b4eea15c" title="QUART1" x1="1388.00" y1="2.00" x2="698.00" y2="692.00" transform="matrix(1 0 0 1 0 0)" style="transform-origin: 1043px 347px;"/><path fill="transparent" stroke="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" font-size-adjust="" pointer-events="none" id="tSvgd3f9ea660f" title="P0" d="M620 1C670 1 720 1 770 1C770 117.6667 770 234.3333 770 351C720 351 670 351 620 351C620 234.3333 620 117.6667 620 1Z" style="transform-origin: -4305px -4824px;"/><path fill="transparent" stroke="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" font-size-adjust="" pointer-events="none" id="tSvg8ec0c5e1ad" rx="0" ry="0" title="P1" d="M975.5481 54.9456C1018.8494 79.9456 1062.1506 104.9456 1105.4519 129.9456C1047.1186 230.9819 988.7852 332.0181 930.4519 433.0544C887.1506 408.0544 843.8494 383.0544 800.5481 358.0544C858.8814 257.0181 917.2148 155.9819 975.5481 54.9456Z" style="transform-origin: -4047px -4756px;"/><path fill="transparent" stroke="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" font-size-adjust="" pointer-events="none" id="tSvg7443e932ae" rx="0" ry="0" title="P11" d="M284.5481 132.9456C327.8494 107.9456 371.1506 82.9456 414.4519 57.9456C472.7852 158.9819 531.1186 260.0181 589.4519 361.0544C546.1506 386.0544 502.8494 411.0544 459.5481 436.0544C401.2148 335.0181 342.8814 233.9819 284.5481 132.9456Z" style="transform-origin: -4563px -4753px;"/><path fill="transparent" stroke="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" font-size-adjust="" pointer-events="none" id="tSvg18c064280a4" rx="0" ry="0" title="P8" d="M138.9456 1104.4519C113.9456 1061.1506 88.9456 1017.8494 63.9456 974.5481C164.9819 916.2148 266.0181 857.8814 367.0544 799.5481C392.0544 842.8494 417.0544 886.1506 442.0544 929.4519C341.0181 987.7852 239.9819 1046.1186 138.9456 1104.4519Z" style="transform-origin: -4747px -4048px;"/><path fill="transparent" stroke="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" font-size-adjust="" pointer-events="none" id="tSvg57b8662222" rx="0" ry="0" title="P10" d="M60.9456 414.4519C85.9456 371.1506 110.9456 327.8494 135.9456 284.5481C236.9819 342.8814 338.0181 401.2148 439.0544 459.5481C414.0544 502.8494 389.0544 546.1506 364.0544 589.4519C263.0181 531.1186 161.9819 472.7852 60.9456 414.4519Z" style="transform-origin: -4750px -4563px;"/><path fill="transparent" stroke="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" font-size-adjust="" pointer-events="none" id="tSvgd7ac58eff5" rx="0" ry="0" title="P7" d="M420.4519 1328.0544C377.1506 1303.0544 333.8494 1278.0544 290.5481 1253.0544C348.8814 1152.0181 407.2148 1050.9819 465.5481 949.9456C508.8494 974.9456 552.1506 999.9456 595.4519 1024.9456C537.1186 1125.9819 478.7852 1227.0181 420.4519 1328.0544Z" style="transform-origin: -4557px -3861px;"/><path fill="transparent" stroke="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" font-size-adjust="" pointer-events="none" id="tSvg10995cc969d" rx="0" ry="0" title="P5" d="M1110.4519 1250.0544C1067.1506 1275.0544 1023.8494 1300.0544 980.5481 1325.0544C922.2148 1224.0181 863.8814 1122.9819 805.5481 1021.9456C848.8494 996.9456 892.1506 971.9456 935.4519 946.9456C993.7852 1047.9819 1052.1186 1149.0181 1110.4519 1250.0544Z" style="transform-origin: -4042px -3864px;"/><path fill="transparent" stroke="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" font-size-adjust="" pointer-events="none" id="tSvgccd884f1ce" rx="0" ry="0" title="P4" d="M1334.0544 969.5481C1309.0544 1012.8494 1284.0544 1056.1506 1259.0544 1099.4519C1158.0181 1041.1186 1056.9819 982.7852 955.9456 924.4519C980.9456 881.1506 1005.9456 837.8494 1030.9456 794.5481C1131.9819 852.8814 1233.0181 911.2148 1334.0544 969.5481Z" style="transform-origin: -3855px -4053px;"/><path fill="transparent" stroke="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" font-size-adjust="" pointer-events="none" id="tSvg7b1d59572c" rx="0" ry="0" title="P2" d="M1255.0544 278.5481C1280.0544 321.8494 1305.0544 365.1506 1330.0544 408.4519C1229.0181 466.7852 1127.9819 525.1186 1026.9456 583.4519C1001.9456 540.1506 976.9456 496.8494 951.9456 453.5481C1052.9819 395.2148 1154.0181 336.8814 1255.0544 278.5481Z" style="transform-origin: -3859px -4569px;"/><path fill="transparent" stroke="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" font-size-adjust="" pointer-events="none" id="tSvg7acda4f5d7" rx="0" ry="0" title="P9" d="M8 617C124.6667 617 241.3333 617 358 617C358 667 358 717 358 767C241.3333 767 124.6667 767 8 767C8 717 8 667 8 617Z" style="transform-origin: -4817px -4308px;"/><path fill="transparent" stroke="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" font-size-adjust="" pointer-events="none" id="tSvg72eedf596c" rx="0" ry="0" title="P3" d="M1038 617C1154.6667 617 1271.3333 617 1388 617C1388 667 1388 717 1388 767C1271.3333 767 1154.6667 767 1038 767C1038 717 1038 667 1038 617Z" style="transform-origin: -3787px -4308px;"/><path fill="transparent" stroke="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" font-size-adjust="" pointer-events="none" id="tSvg123309966f4" rx="0" ry="0" title="P6" d="M620 1032C670 1032 720 1032 770 1032C770 1148.6667 770 1265.3333 770 1382C720 1382 670 1382 620 1382C620 1265.3333 620 1148.6667 620 1032Z" style="transform-origin: -4305px -3793px;"/><text font-size="46px" font-weight="400" font-style="normal" text-anchor="middle" letter-spacing="0px" word-spacing="normal" data-lh="1" data-tt="none" stroke="none" stroke-width="0" id="tSvg9d3665b40d" data-ff="Arial" x="322.00" y="114.50" width="221" height="259" title="P1T" fill="#000000" fill-opacity="1" stroke-opacity="1" data-valign="middle" data-fs="normal" data-text="P1" style="font-family: Arial; text-decoration: none; transform-origin: 432.5px 244px;"><tspan y="260.10" x="432.50">P1</tspan></text><text font-size="46px" font-weight="400" font-style="normal" text-anchor="middle" letter-spacing="0px" word-spacing="normal" data-lh="1" data-tt="none" stroke="none" stroke-width="0" id="tSvg1ad9f606c0" data-ff="Arial" x="584.50" y="46.50" width="221" height="259" title="P2T" fill="#000000" fill-opacity="1" stroke-opacity="1" data-valign="middle" data-fs="normal" data-text="P2" style="font-family: Arial; text-decoration: none; transform-origin: 695px 176px;"><tspan y="192.10" x="695.00">P2</tspan></text><text font-size="46px" font-weight="400" font-style="normal" text-anchor="middle" letter-spacing="0px" word-spacing="normal" data-lh="1" data-tt="none" stroke="none" stroke-width="0" id="tSvg14b8e3f710c" data-ff="Arial" x="1038.00" y="822.50" width="221" height="259" title="P6T" fill="#000000" fill-opacity="1" stroke-opacity="1" data-valign="middle" data-fs="normal" data-text="P6" style="font-family: Arial; text-decoration: none; transform-origin: 1148.5px 952px;"><tspan y="968.10" x="1148.50">P6</tspan></text><text font-size="46px" font-weight="400" font-style="normal" text-anchor="middle" letter-spacing="0px" word-spacing="normal" data-lh="1" data-tt="none" stroke="none" stroke-width="0" id="tSvg1289df6182" data-ff="Arial" x="1063.50" y="562.50" width="221" height="259" title="P5T" fill="#000000" fill-opacity="1" stroke-opacity="1" data-valign="middle" data-fs="normal" data-text="P5" style="font-family: Arial; text-decoration: none; transform-origin: 1174px 692px;"><tspan y="708.10" x="1174.00">P5</tspan></text><text font-size="46px" font-weight="400" font-style="normal" text-anchor="middle" letter-spacing="0px" word-spacing="normal" data-lh="1" data-tt="none" stroke="none" stroke-width="0" id="tSvgd115b5950" data-ff="Arial" x="1020.00" y="307.50" width="221" height="259" title="P4T" fill="#000000" fill-opacity="1" stroke-opacity="1" data-valign="middle" data-fs="normal" data-text="P4" style="font-family: Arial; text-decoration: none; transform-origin: 1130.5px 437px;"><tspan y="453.10" x="1130.50">P4</tspan></text><text font-size="46px" font-weight="400" font-style="normal" text-anchor="middle" letter-spacing="0px" word-spacing="normal" data-lh="1" data-tt="none" stroke="none" stroke-width="0" id="tSvg151a2514498" data-ff="Arial" x="842.50" y="134.50" width="221" height="259" title="P3T" fill="#000000" fill-opacity="1" stroke-opacity="1" data-valign="middle" data-fs="normal" data-text="P3" style="font-family: Arial; text-decoration: none; transform-origin: 953px 264px;"><tspan y="280.10" x="953.00">P3</tspan></text><path fill="transparent" stroke="#000000" fill-opacity="1" stroke-width="1" stroke-opacity="1" font-size-adjust="" pointer-events="none" id="tSvg167272cef4e" title="Ellipse 3" d="M698 592C753.2285 592 798 636.7715 798 692C798 747.2285 753.2285 792 698 792C642.7715 792 598 747.2285 598 692C598 636.7715 642.7715 592 698 592Z" style="transform-origin: -4302px -4308px;"/><path fill="none" stroke="rgb(33, 150, 243)" fill-opacity="1" stroke-width="8" stroke-opacity="1" font-size-adjust="" stroke-linecap="round" stroke-linejoin="round" id="tSvg1222e1afdf2" title="Path 4" d="M953 244C953 244 953 244 953 244"/><path fill="none" stroke="rgb(33, 150, 243)" fill-opacity="1" stroke-width="8" stroke-opacity="1" font-size-adjust="" stroke-linecap="round" stroke-linejoin="round" id="tSvga2d76ba5e5" title="Path 8" d="M1141 947C1142.3333 947 1143.6667 947 1145 947"/><path fill="none" stroke="rgb(33, 150, 243)" fill-opacity="1" stroke-width="8" stroke-opacity="1" font-size-adjust="" stroke-linecap="round" stroke-linejoin="round" id="tSvg60429485c3" title="Path 12" d="M443 1139C443 1139 443 1139 443 1139"/><path fill="none" stroke="rgb(33, 150, 243)" fill-opacity="1" stroke-width="8" stroke-opacity="1" font-size-adjust="" stroke-linecap="round" stroke-linejoin="round" id="tSvg85a5990df8" title="Path 16" d="M250 437C250 437 250 437 250 437"/><line fill="#0066cc" fill-opacity="1" stroke="#0066cc" stroke-opacity="1" stroke-width="25" id="tSvg278db11fa5" title="PE25 ARRIVEE" x1="1346.00" y1="1340.00" x2="860.00" y2="852.00" pointer-events="none" style="transform-origin: 1103px 1096px;"/><path fill="#CC0000" font-size-adjust="" stroke-width="2" stroke="#8B0000" cx="1098" cy="1275" r="10" id="tSvg5818e5dfcc" title="ENTREE1" fill-opacity="1" stroke-opacity="1" d="M1340 1330C1345.5228 1330 1350 1334.4772 1350 1340C1350 1345.5228 1345.5228 1350 1340 1350C1334.4772 1350 1330 1345.5228 1330 1340C1330 1334.4772 1334.4772 1330 1340 1330Z" style="transform-origin: 1340px 1340px;"/><path fill="#CC0000" font-size-adjust="" cx="850" cy="850" r="13" id="tSvgb92cb2bfcd" title="Vanne Generale" fill-opacity="1" stroke="none" stroke-opacity="1" d="M850 837C857.1797 837 863 842.8203 863 850C863 857.1797 857.1797 863 850 863C842.8203 863 837 857.1797 837 850C837 842.8203 842.8203 837 850 837Z" style="transform-origin: 850px 850px;"/><line fill="#0066cc" fill-opacity="1" stroke="#0066cc" stroke-opacity="1" stroke-width="16" id="tSvg16fa76fcf76" title="PE16AQ2" x1="861.00" y1="862.00" x2="874.00" y2="706.00" pointer-events="none" style="transform-origin: 867.5px 784px;"/><line fill="#0066cc" fill-opacity="1" stroke="#0066cc" stroke-opacity="1" stroke-width="16" id="tSvgf17b1e659f" title="PE16AQ4" x1="858.00" y1="851.00" x2="699.00" y2="514.00" pointer-events="none" style="transform-origin: 778.5px 682.5px;"/><line fill="#0066cc" fill-opacity="1" stroke="#0066cc" stroke-opacity="1" stroke-width="16" id="tSvg8cb7e6b6be" title="PE15AQ3" x1="833.00" y1="851.00" x2="711.00" y2="901.00" pointer-events="none" style="transform-origin: 772px 876px;"/><line fill="#0066cc" fill-opacity="1" stroke="#0066cc" stroke-opacity="1" stroke-width="16" id="tSvg3389fe7ecb" title="PE16AQ1" x1="850.00" y1="846.00" x2="503.00" y2="698.00" pointer-events="none" style="transform-origin: 676.5px 772px;"/><line fill="#0066cc" fill-opacity="1" stroke="#0066cc" stroke-opacity="1" stroke-width="16" id="tSvg310a822123" title="PE16P4" x1="984.00" y1="534.00" x2="882.00" y2="709.00" style="transform-origin: 933px 621.5px;"/><line fill="#0066cc" fill-opacity="1" stroke="#0066cc" stroke-opacity="1" stroke-width="16" id="tSvg160ea303430" title="PE16P5" x1="1038.00" y1="707.00" x2="880.00" y2="707.00" style="transform-origin: 959px 707px;"/><line fill="#0066cc" fill-opacity="1" stroke="#0066cc" stroke-opacity="1" stroke-width="16" id="tSvg1057a4ca9d8" title="PE16P6" x1="989.00" y1="862.00" x2="878.00" y2="711.00" style="transform-origin: 933.5px 786.5px;"/><line fill="#0066cc" fill-opacity="1" stroke="#0066cc" stroke-opacity="1" stroke-width="16" id="tSvg91af9e4f68" title="PE16P3" x1="888.00" y1="402.00" x2="701.00" y2="503.00" style="transform-origin: 794.5px 452.5px;"/><line fill="#0066cc" fill-opacity="1" stroke="#0066cc" stroke-opacity="1" stroke-width="16" id="tSvg152012403b5" title="PE16P2" x1="709.00" y1="362.00" x2="691.00" y2="495.19" style="transform-origin: 700px 428.59px;"/><line fill="#0066cc" fill-opacity="1" stroke="#0066cc" stroke-opacity="1" stroke-width="16" id="tSvg129eca0bd7c" title="PE16P1" x1="700.83" y1="512.38" x2="507.00" y2="416.75" style="transform-origin: 603.91px 464.56px;"/><path fill="#cc0000" stroke="#cc0000" fill-opacity="1" stroke-width="1" stroke-opacity="1" font-size-adjust="" pointer-events="none" id="tSvg16a0e4c0692" title="Arrivée d&amp;#39;eau" d="M849.5 802C852.6809 812.5947 855.8618 823.1893 859.0427 833.784C869.3351 833.7844 879.6275 833.7848 889.9199 833.7852C881.5934 840.3335 873.2669 846.8817 864.9404 853.43C868.1206 864.0249 871.3007 874.6199 874.4809 885.2148C866.1539 878.6672 857.827 872.1196 849.5 865.572C841.173 872.1196 832.8461 878.6672 824.5191 885.2148C827.6993 874.6199 830.8794 864.0249 834.0596 853.43C825.7331 846.8817 817.4066 840.3335 809.0801 833.7852C819.3725 833.7848 829.6649 833.7844 839.9573 833.784C843.1382 823.1893 846.3191 812.5947 849.5 802Z"/><path fill="rgb(204, 0, 0)" font-size-adjust="" stroke-width="3" stroke="rgb(139, 0, 0)" cx="648" cy="780" r="16" id="tSvg10d078e3970" title="AQ3" fill-opacity="1" stroke-opacity="1" d="M695 885.2148C703.8366 885.2148 711 892.3783 711 901.2148C711 910.0514 703.8366 917.2148 695 917.2148C686.1634 917.2148 679 910.0514 679 901.2148C679 892.3783 686.1634 885.2148 695 885.2148Z" style="transform-origin: 695px 901.21px;"/><path fill="rgb(204, 0, 0)" font-size-adjust="" stroke-width="3" stroke="rgb(139, 0, 0)" cx="786" cy="742" r="16" id="tSvg126306828b2" title="AQ2" fill-opacity="1" stroke-opacity="1" d="M873.9199 692C882.7565 692 889.9199 699.1634 889.9199 708C889.9199 716.8366 882.7565 724 873.9199 724C865.0834 724 857.9199 716.8366 857.9199 708C857.9199 699.1634 865.0834 692 873.9199 692Z" style="transform-origin: 873.92px 708px;"/><path fill="rgb(204, 0, 0)" font-size-adjust="" stroke-width="3" stroke="rgb(139, 0, 0)" cx="610" cy="642" r="16" id="tSvgc60705d02" title="AQ4" fill-opacity="1" stroke-opacity="1" d="M496.1729 676C505.0094 676 512.1729 683.1634 512.1729 692C512.1729 700.8366 505.0094 708 496.1729 708C487.3363 708 480.1729 700.8366 480.1729 692C480.1729 683.1634 487.3363 676 496.1729 676Z" style="transform-origin: 496.17px 692px;"/><path fill="rgb(204, 0, 0)" font-size-adjust="" stroke-width="3" stroke="rgb(139, 0, 0)" cx="748" cy="604" r="16" id="tSvg18097389707" title="AQ1" fill-opacity="1" stroke-opacity="1" d="M698 495.1875C706.8366 495.1875 714 502.3509 714 511.1875C714 520.0241 706.8366 527.1875 698 527.1875C689.1634 527.1875 682 520.0241 682 511.1875C682 502.3509 689.1634 495.1875 698 495.1875Z" style="transform-origin: 698px 511.19px;"/><path fill="#008000" stroke="#008000" fill-opacity="1" stroke-width="1" stroke-opacity="1" id="tSvg16ac3abe458" title="Robinet1" d="M516.5864 356C516.5864 356 516.5864 356 516.5864 356L543.0002 416.75C543.0002 416.75 543.0002 416.75 543.0002 416.75H490.1727C490.1727 416.75 490.1727 416.75 490.1727 416.75Z"/><path fill="#008000" stroke="#008000" fill-opacity="1" stroke-width="1" stroke-opacity="1" id="tSvg6f21b4e577" title="Robinet3" d="M873.9199 356C873.9199 356 873.9199 356 873.9199 356L900.3337 416.75C900.3337 416.75 900.3337 416.75 900.3337 416.75H847.5062C847.5062 416.75 847.5062 416.75 847.5062 416.75Z"/><path fill="#008000" stroke="#008000" fill-opacity="1" stroke-width="1" stroke-opacity="1" id="tSvgd69c6a66d6" title="Robinet2" d="M704.5864 316.625C704.5864 316.625 704.5864 316.625 704.5864 316.625L731.0002 377.375C731.0002 377.375 731.0002 377.375 731.0002 377.375H678.1727C678.1727 377.375 678.1727 377.375 678.1727 377.375Z"/><path fill="#008000" stroke="#008000" fill-opacity="1" stroke-width="1" stroke-opacity="1" id="tSvg567bf539a3" title="Robinet6" d="M993.5864 819.625C993.5864 819.625 993.5864 819.625 993.5864 819.625L1020.0002 880.375C1020.0002 880.375 1020.0002 880.375 1020.0002 880.375H967.1727C967.1727 880.375 967.1727 880.375 967.1727 880.375Z"/><path fill="#008000" stroke="#008000" fill-opacity="1" stroke-width="1" stroke-opacity="1" id="tSvgc62537df6c" title="Robinet5" d="M1043 663.25C1043 663.25 1043 663.25 1043 663.25L1069.4138 724C1069.4138 724 1069.4138 724 1069.4138 724H1016.5863C1016.5863 724 1016.5863 724 1016.5863 724Z"/><path fill="#008000" stroke="#008000" fill-opacity="1" stroke-width="1" stroke-opacity="1" title="Robinet4" d="M993.5864 486.75C993.5864 486.75 993.5864 486.75 993.5864 486.75L1020.0002 547.5C1020.0002 547.5 1020.0002 547.5 1020.0002 547.5H967.1727C967.1727 547.5 967.1727 547.5 967.1727 547.5Z" id="tSvg8f6f327480"/>
+
+
+<!-- LÉGENDES DES COMPOSANTS -->
+
+<!-- Robinet 1 -->
+<text x="550" y="405"
+      font-family="Arial"
+      font-size="24"
+      fill="#008000"
+      text-anchor="start">
+  Robinet P11
+</text>
+
+<!-- Robinet 2 -->
+<text x="735" y="370"
+      font-family="Arial"
+      font-size="24"
+      fill="#008000"
+      text-anchor="start">
+  Robinet P2
+</text>
+
+<!-- Robinet 3 -->
+<text x="905" y="410"
+      font-family="Arial"
+      font-size="24"
+      fill="#008000"
+      text-anchor="start">
+  Robinet P3
+</text>
+
+<!-- Robinet 4 -->
+<text x="1025" y="540"
+      font-family="Arial"
+      font-size="24"
+      fill="#008000"
+      text-anchor="start">
+  Robinet P4
+</text>
+
+<!-- Robinet 5 -->
+<text x="1075" y="720"
+      font-family="Arial"
+      font-size="24"
+      fill="#008000"
+      text-anchor="start">
+  Robinet P5
+</text>
+
+<!-- Robinet 6 -->
+<text x="1025" y="875"
+      font-family="Arial"
+      font-size="24"
+      fill="#008000"
+      text-anchor="start">
+  Robinet P6
+</text>
+
+<!-- Vanne générale -->
+<text x="870" y="845"
+      font-family="Arial"
+      font-size="24"
+      font-weight="bold"
+      fill="#CC0000"
+      text-anchor="start">
+  Vanne générale
+</text>
+
+<!-- Collecteur AQ1 -->
+<text x="720" y="505"
+      font-family="Arial"
+      font-size="22"
+      fill="#CC0000"
+      text-anchor="start">
+  Collecteur AQ1
+</text>
+
+<!-- Collecteur AQ2 -->
+<text x="900" y="700"
+      font-family="Arial"
+      font-size="22"
+      fill="#CC0000"
+      text-anchor="start">
+  Collecteur AQ2
+</text>
+
+<!-- Collecteur AQ3 -->
+<text x="620" y="900"
+      font-family="Arial"
+      font-size="22"
+      fill="#CC0000"
+      text-anchor="start">
+  Collecteur AQ3
+</text>
+
+<!-- Collecteur AQ4 -->
+<text x="410" y="685"
+      font-family="Arial"
+      font-size="22"
+      fill="#CC0000"
+      text-anchor="end">
+  Collecteur AQ4
+</text>
+
+<!-- Arrivée d'eau -->
+<text x="1170" y="1325"
+      font-family="Arial"
+      font-size="24"
+      font-weight="bold"
+      fill="#0066CC"
+      text-anchor="middle">
+  Arrivée d'eau
+</text>
+</svg>
