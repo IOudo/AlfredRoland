@@ -118,7 +118,7 @@ On pourrait ensuite envisager :
 
 ---
 
-🤔 Ce qu'il faut décider samedi
+🤔 Ce qu'il faut décider 
 
 
 Où faire passer la conduite ?
@@ -127,7 +127,7 @@ Où installer le collecteur ?
 
 Quel diamètre ? Combien de départs ?
 
-Quelle profondeur ? Quel matériel ? Qui peut participer ?
+Quelle profondeur ? 
 
 ---
 
