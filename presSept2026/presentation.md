@@ -204,7 +204,7 @@ Vanne générale sur PE25| 1| ~8,50 €|
 
 Elle sera placée avant le collecteur.
 
-Arrivée d'eau
+ Arrivée d'eau
      │
      ▼
   Compteur
@@ -227,8 +227,6 @@ Arrivée d'eau
 Filtre / régulateur adapté| 1| ~17,00 €|
 
 Le filtre/régulateur Jardibric en 20×27 est actuellement affiché à 17 €.
-
-⚠️ Il faut vérifier le raccordement côté PE25. Ne pas acheter le petit filtre Ø16 simplement parce qu'il est moins cher : il ne correspond pas directement au réseau principal.
 
 ---
 
