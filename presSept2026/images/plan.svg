@@ -9,7 +9,7 @@
       font-size="24"
       fill="#008000"
       text-anchor="start">
-  Robinet P11
+  Vanne P11
 </text>
 
 <!-- Robinet 2 -->
@@ -18,7 +18,7 @@
       font-size="24"
       fill="#008000"
       text-anchor="start">
-  Robinet P2
+  Vanne P2
 </text>
 
 <!-- Robinet 3 -->
@@ -27,7 +27,7 @@
       font-size="24"
       fill="#008000"
       text-anchor="start">
-  Robinet P3
+  Vanne P3
 </text>
 
 <!-- Robinet 4 -->
@@ -36,7 +36,7 @@
       font-size="24"
       fill="#008000"
       text-anchor="start">
-  Robinet P4
+  Vanne P4
 </text>
 
 <!-- Robinet 5 -->
@@ -45,7 +45,7 @@
       font-size="24"
       fill="#008000"
       text-anchor="start">
-  Robinet P5
+  Vanne P5
 </text>
 
 <!-- Robinet 6 -->
@@ -54,7 +54,7 @@
       font-size="24"
       fill="#008000"
       text-anchor="start">
-  Robinet P6
+  Vanne P6
 </text>
 
 <!-- Vanne générale -->
@@ -73,7 +73,8 @@
       font-size="22"
       fill="#CC0000"
       text-anchor="start">
-  Collecteur AQ1
+  
+  Regard/Collecteur AQ1
 </text>
 
 <!-- Collecteur AQ2 -->
@@ -82,7 +83,7 @@
       font-size="22"
       fill="#CC0000"
       text-anchor="start">
-  Collecteur AQ2
+  Regard/Collecteur AQ2
 </text>
 
 <!-- Collecteur AQ3 -->
@@ -91,7 +92,7 @@
       font-size="22"
       fill="#CC0000"
       text-anchor="start">
-  Collecteur AQ3
+  Regard/Collecteur AQ3
 </text>
 
 <!-- Collecteur AQ4 -->
@@ -100,7 +101,7 @@
       font-size="22"
       fill="#CC0000"
       text-anchor="end">
-  Collecteur AQ4
+  Regard/collecteur AQ4
 </text>
 
 <!-- Arrivée d'eau -->
@@ -111,5 +112,47 @@
       fill="#0066CC"
       text-anchor="middle">
   Arrivée d'eau
+</text>
+
+<!-- NOMS DES QUARTIERS -->
+
+<!-- Q1 -->
+<text x="1050" y="350"
+      font-family="Arial"
+      font-size="32"
+      font-weight="bold"
+      fill="#555555"
+      text-anchor="middle">
+  Q1 — Nord-Est
+</text>
+
+<!-- Q2 -->
+<text x="1050" y="1050"
+      font-family="Arial"
+      font-size="32"
+      font-weight="bold"
+      fill="#555555"
+      text-anchor="middle">
+  Q2 — Sud-Est
+</text>
+
+<!-- Q3 -->
+<text x="350" y="1050"
+      font-family="Arial"
+      font-size="32"
+      font-weight="bold"
+      fill="#555555"
+      text-anchor="middle">
+  Q3 — Sud-Ouest
+</text>
+
+<!-- Q4 -->
+<text x="350" y="350"
+      font-family="Arial"
+      font-size="32"
+      font-weight="bold"
+      fill="#555555"
+      text-anchor="middle">
+  Q4 — Nord-Ouest
 </text>
 </svg>
