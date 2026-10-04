@@ -103,7 +103,7 @@ Quelle profondeur ?
 ---
 Plan du jardin
 
-<div  align:center;"><a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/baache-recuperation.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg" style="width:500px; ; object-fit:contain;"></a>
+<div  align:center;"><a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/plan.svg"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg" style="width:500px; ; object-fit:contain;"></a>
 
 ---
 
