@@ -1,230 +1,653 @@
---- 
+---
 marp: true
 theme: default
 paginate: true
 
+<style>
+section {
+  background: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #174a2b;
+  font-size: 34px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: #333;
+  font-size: 22px;
+}
+
+/* =========================================================
+   STYLES DU PLAN
+   ========================================================= */
+
+.plan {
+  width: 100%;
+  height: 650px;
+}
+
+.terrain {
+  fill: none;
+  stroke: #777;
+  stroke-width: 2;
+}
+
+.parcelle {
+  fill: none;
+  stroke: #aaa;
+  stroke-width: 1.5;
+}
+
+.quartier {
+  fill: none;
+  stroke: #ddd;
+  stroke-width: 1;
+}
+
+.pe25 {
+  fill: none;
+  stroke: #0066cc;
+  stroke-width: 14;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.pe25-principal {
+  stroke-width: 20;
+}
+
+.vanne-generale {
+  fill: #d62828;
+  stroke: #fff;
+  stroke-width: 4;
+}
+
+.collecteur {
+  fill: #d62828;
+  stroke: #fff;
+  stroke-width: 3;
+}
+
+.vanne-parcelle {
+  fill: #36a64f;
+  stroke: #fff;
+  stroke-width: 3;
+}
+
+.label {
+  font-size: 18px;
+  font-weight: bold;
+  fill: #333;
+}
+
+.label-eau {
+  fill: #0066cc;
+}
+
+.label-vanne {
+  fill: #d62828;
+}
+
+.label-collecteur {
+  fill: #d62828;
+}
+
+.label-parcelle {
+  font-size: 16px;
+  fill: #555;
+}
+
+/* =========================================================
+   VISIBILITE DES ETAPES
+   ========================================================= */
+
+/* Par défaut, toutes les étapes sont masquées */
+.etape-1,
+.etape-2,
+.etape-3 {
+  display: none;
+}
+
+/* Slide étape 1 */
+.etape-1-visible .etape-1 {
+  display: inline;
+}
+
+/* Slide étape 2 */
+.etape-2-visible .etape-1,
+.etape-2-visible .etape-2 {
+  display: inline;
+}
+
+/* Slide étape 3 */
+.etape-3-visible .etape-1,
+.etape-3-visible .etape-2,
+.etape-3-visible .etape-3 {
+  display: inline;
+}
+
+/* =========================================================
+   LEGENDE
+   ========================================================= */
+
+.legende {
+  position: absolute;
+  right: 40px;
+  bottom: 35px;
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+.legende-ligne {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.legende-bleu {
+  width: 35px;
+  height: 8px;
+  background: #0066cc;
+  border-radius: 5px;
+}
+
+.legende-rouge {
+  width: 14px;
+  height: 14px;
+  background: #d62828;
+  border-radius: 50%;
+}
+
+.legende-vert {
+  width: 14px;
+  height: 14px;
+  background: #36a64f;
+  transform: rotate(45deg);
+}
+
+/* =========================================================
+   TITRE ET BADGE
+   ========================================================= */
+
+.etape {
+  display: inline-block;
+  padding: 5px 14px;
+  border-radius: 15px;
+  background: #174a2b;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.description {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  color: #555;
+}
+</style>
 ---
 
-🌱 Jardin partagé
+# Étape 1 — Arrivée du réseau principal
 
-Évolution de l'arrosage
+<span class="etape">ÉTAPE 1</span>
 
-Retour d'expérience — été 2026
+**Arrivée PE25 → vanne générale**
 
-<br>Objectif : étudier la mise en place d'une conduite d'eau enterrée
+<div class="description">
+On amène le PE25 jusqu'au regard central et on installe la vanne générale.
+</div>
+
+<div class="etape-1-visible">
+
+<svg class="plan"
+     viewBox="0 0 1389 1384"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- ================= TERRAIN ================= -->
+
+  <g class="terrain">
+
+    <!-- Cercle extérieur -->
+    <path d="M698 2
+             C1079.0765 2 1388 310.9235 1388 692
+             C1388 1073.0765 1079.0765 1382 698 1382
+             C316.9235 1382 8 1073.0765 8 692
+             C8 310.9235 316.9235 2 698 2Z"/>
+
+    <!-- Carré -->
+    <path d="M8 2
+             C468 2 928 2 1388 2
+             C1388 462 1388 922 1388 1382
+             C928 1382 468 1382 8 1382
+             C8 922 8 462 8 2Z"/>
+
+    <!-- Parcelles -->
+    <path class="parcelle" d="M620 1H770V351H620Z"/>
+    <path class="parcelle" d="M975.5481 54.9456
+             L1105.4519 129.9456
+             L930.4519 433.0544
+             L800.5481 358.0544Z"/>
+    <path class="parcelle" d="M1255.0544 278.5481
+             L1330.0544 408.4519
+             L1026.9456 583.4519
+             L951.9456 453.5481Z"/>
+    <path class="parcelle" d="M1038 617H1388V767H1038Z"/>
+    <path class="parcelle" d="M1038 819H1388V969H1038Z"/>
+    <path class="parcelle" d="M620 1032H770V1382H620Z"/>
+
+    <!-- Cercle central -->
+    <circle cx="698" cy="692" r="100"/>
+
+  </g>
+
+
+  <!-- ================= ÉTAPE 1 ================= -->
+
+  <g class="etape-1">
+
+    <!-- Arrivée PE25 -->
+    <line class="pe25 pe25-principal"
+          x1="1346" y1="1340"
+          x2="860" y2="852"/>
+
+    <!-- arrivée -->
+    <circle class="vanne-generale"
+            cx="1340" cy="1340" r="12"/>
+
+    <!-- vanne générale -->
+    <circle class="vanne-generale"
+            cx="850" cy="850" r="16"/>
+
+    <text class="label label-eau"
+          x="1160" y="1325">
+      ARRIVÉE PE25
+    </text>
+
+    <text class="label label-vanne"
+          x="870" y="845">
+      VANNE GÉNÉRALE
+    </text>
+
+  </g>
+
+</svg>
+
+</div>
+
+<div class="legende">
+
+<div class="legende-ligne">
+<span class="legende-bleu"></span>
+PE25
+</div>
+
+<div class="legende-ligne">
+<span class="legende-rouge"></span>
+Vanne
+</div>
+
+</div>
+
 
 ---
 
-💧 Pourquoi faire évoluer l'installation ?
+# Étape 2 — Distribution vers AQ1
 
-Le système actuel fonctionne…mais 
+<span class="etape">ÉTAPE 2</span>
 
-⏱️ ≈ 1 h d'arrosage
+**Vanne générale → collecteur AQ1**
 
-🚶 Longs déplacements avec les tuyaux
+<div class="description">
+Depuis la vanne générale, le PE25 rejoint le premier collecteur de quartier.
+</div>
 
-💪 Déroulage / rangement
+<div class="etape-2-visible">
 
-☀️ Jardin très exposé
+<svg class="plan"
+     viewBox="0 0 1389 1384"
+     xmlns="http://www.w3.org/2000/svg">
 
-📅 Difficile à assurer pendant les absences
+  <!-- TERRAIN -->
 
-<br>👉 L'idée
+  <g class="terrain">
 
-Amener l'eau au plus près des cultures.
+    <path d="M698 2
+             C1079.0765 2 1388 310.9235 1388 692
+             C1388 1073.0765 1079.0765 1382 698 1382
+             C316.9235 1382 8 1073.0765 8 692
+             C8 310.9235 316.9235 2 698 2Z"/>
+
+    <path d="M8 2
+             C468 2 928 2 1388 2
+             C1388 462 1388 922 1388 1382
+             C928 1382 468 1382 8 1382
+             C8 922 8 462 8 2Z"/>
+
+    <path class="parcelle"
+          d="M620 1H770V351H620Z"/>
+
+    <path class="parcelle"
+          d="M975.5481 54.9456
+             L1105.4519 129.9456
+             L930.4519 433.0544
+             L800.5481 358.0544Z"/>
+
+    <path class="parcelle"
+          d="M1255.0544 278.5481
+             L1330.0544 408.4519
+             L1026.9456 583.4519
+             L951.9456 453.5481Z"/>
+
+    <path class="parcelle"
+          d="M1038 617H1388V767H1038Z"/>
+
+    <path class="parcelle"
+          d="M1038 819H1388V969H1038Z"/>
+
+    <path class="parcelle"
+          d="M620 1032H770V1382H620Z"/>
+
+    <circle cx="698" cy="692" r="100"/>
+
+  </g>
+
+
+  <!-- ÉTAPE 1 -->
+
+  <g class="etape-1">
+
+    <line class="pe25 pe25-principal"
+          x1="1346" y1="1340"
+          x2="860" y2="852"/>
+
+    <circle class="vanne-generale"
+            cx="1340" cy="1340" r="12"/>
+
+    <circle class="vanne-generale"
+            cx="850" cy="850" r="16"/>
+
+    <text class="label label-eau"
+          x="1160" y="1325">
+      ARRIVÉE PE25
+    </text>
+
+    <text class="label label-vanne"
+          x="870" y="845">
+      VANNE GÉNÉRALE
+    </text>
+
+  </g>
+
+
+  <!-- ÉTAPE 2 -->
+
+  <g class="etape-2">
+
+    <!-- PE25 vers AQ1 -->
+    <line class="pe25"
+          x1="850" y1="846"
+          x2="698" y2="511"/>
+
+    <!-- Collecteur AQ1 -->
+    <circle class="collecteur"
+            cx="698" cy="511"
+            r="18"/>
+
+    <text class="label label-collecteur"
+          x="720" y="505">
+      AQ1
+    </text>
+
+  </g>
+
+</svg>
+
+</div>
+
+<div class="legende">
+
+<div class="legende-ligne">
+<span class="legende-bleu"></span>
+PE25
+</div>
+
+<div class="legende-ligne">
+<span class="legende-rouge"></span>
+Collecteur
+</div>
+
+</div>
+
 
 ---
 
-🕳️ La solution proposée
+# Étape 3 — Distribution aux parcelles
 
-Enterrer une conduite principale
+<span class="etape">ÉTAPE 3</span>
 
-       ARRIVÉE D'EAU
-             │
-             │
-             ▼
-     🔵 PE Ø25 enterré
-             │
-             │
-             ▼
-        COLLECTEUR
-          /  |  \
-         /   |   \
-        ▼    ▼    ▼
-      Zone 1 Zone 2 Zone 3
+**Collecteur AQ1 → P1 / P2 / P3**
 
-Aujourd'hui : alimentation en eau
+<div class="description">
+Trois départs PE25 alimentent les trois premières parcelles. Chaque parcelle reçoit sa propre vanne accessible.
+</div>
 
-Demain : plusieurs possibilités d'arrosage
+<div class="etape-3-visible">
 
----
+<svg class="plan"
+     viewBox="0 0 1389 1384"
+     xmlns="http://www.w3.org/2000/svg">
 
-🕳️ Le chantier
+  <!-- ================= TERRAIN ================= -->
 
-Le tube est simple à poser.
+  <g class="terrain">
 
-Le vrai travail sera probablemenr…le ⛏️ Terrassement
+    <path d="M698 2
+             C1079.0765 2 1388 310.9235 1388 692
+             C1388 1073.0765 1079.0765 1382 698 1382
+             C316.9235 1382 8 1073.0765 8 692
+             C8 310.9235 316.9235 2 698 2Z"/>
 
-À déterminer ensemble sur place
+    <path d="M8 2
+             C468 2 928 2 1388 2
+             C1388 462 1388 922 1388 1382
+             C928 1382 468 1382 8 1382
+             C8 922 8 462 8 2Z"/>
 
-Tracé · profondeur · longueur · nombre de départs
+    <path class="parcelle"
+          d="M620 1H770V351H620Z"/>
 
----
+    <path class="parcelle"
+          d="M975.5481 54.9456
+             L1105.4519 129.9456
+             L930.4519 433.0544
+             L800.5481 358.0544Z"/>
 
-🌱 Et après ?
+    <path class="parcelle"
+          d="M1255.0544 278.5481
+             L1330.0544 408.4519
+             L1026.9456 583.4519
+             L951.9456 453.5481Z"/>
 
-L'intérêt d'enterrer la conduite est aussi de ne pas figer la suite.
+    <path class="parcelle"
+          d="M1038 617H1388V767H1038Z"/>
 
-On pourrait ensuite envisager :
+    <path class="parcelle"
+          d="M1038 819H1388V969H1038Z"/>
 
-💧 Goutte-à-goutte
+    <path class="parcelle"
+          d="M620 1032H770V1382H620Z"/>
 
-🌱 Tuyau microporeux
+    <circle cx="698" cy="692" r="100"/>
 
-🏺 Oyas
-
-♻️ Récupération d'eau
-
-🪣 Réserve
-
----
-
-🤔 Ce qu'il faut décider 
+  </g>
 
 
-Où faire passer la conduite ?
+  <!-- ================= ÉTAPE 1 ================= -->
 
-Où installer le collecteur ?
+  <g class="etape-1">
 
-Quel diamètre ? Combien de départs ?
+    <line class="pe25 pe25-principal"
+          x1="1346" y1="1340"
+          x2="860" y2="852"/>
 
-Quelle profondeur ? 
+    <circle class="vanne-generale"
+            cx="1340" cy="1340" r="12"/>
 
----
+    <circle class="vanne-generale"
+            cx="850" cy="850" r="16"/>
 
-# Plan du jardin
+    <text class="label label-eau"
+          x="1160" y="1325">
+      ARRIVÉE PE25
+    </text>
 
-<div style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg">
-    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg"
-         style="width: 500px; object-fit: contain;">
-  </a>
+    <text class="label label-vanne"
+          x="870" y="845">
+      VANNE GÉNÉRALE
+    </text>
+
+  </g>
+
+
+  <!-- ================= ÉTAPE 2 ================= -->
+
+  <g class="etape-2">
+
+    <line class="pe25"
+          x1="850" y1="846"
+          x2="698" y2="511"/>
+
+    <circle class="collecteur"
+            cx="698" cy="511"
+            r="18"/>
+
+    <text class="label label-collecteur"
+          x="720" y="505">
+      AQ1
+    </text>
+
+  </g>
+
+
+  <!-- ================= ÉTAPE 3 ================= -->
+
+  <g class="etape-3">
+
+    <!-- AQ1 → P1 -->
+    <line class="pe25"
+          x1="698" y1="511"
+          x2="865" y2="396"/>
+
+    <!-- AQ1 → P2 -->
+    <line class="pe25"
+          x1="698" y1="511"
+          x2="989" y2="519"/>
+
+    <!-- AQ1 → P3 -->
+    <line class="pe25"
+          x1="698" y1="511"
+          x2="1038" y2="692"/>
+
+
+    <!-- Vannes de parcelles -->
+
+    <!-- P1 -->
+    <circle class="vanne-parcelle"
+            cx="865" cy="396"
+            r="13"/>
+
+    <text class="label"
+          x="885" y="390">
+      VANNE P1
+    </text>
+
+
+    <!-- P2 -->
+    <circle class="vanne-parcelle"
+            cx="989" cy="519"
+            r="13"/>
+
+    <text class="label"
+          x="1008" y="515">
+      VANNE P2
+    </text>
+
+
+    <!-- P3 -->
+    <circle class="vanne-parcelle"
+            cx="1038" cy="692"
+            r="13"/>
+
+    <text class="label"
+          x="1058" y="687">
+      VANNE P3
+    </text>
+
+  </g>
+
+</svg>
+
+</div>
+
+<div class="legende">
+
+<div class="legende-ligne">
+<span class="legende-bleu"></span>
+PE25
+</div>
+
+<div class="legende-ligne">
+<span class="legende-rouge"></span>
+Collecteur
+</div>
+
+<div class="legende-ligne">
+<span class="legende-vert"></span>
+Vanne parcelle
+</div>
+
 </div>
 
 ---
 
-💧 Réseau d'arrosage — schéma final
+# 🧾 Devis & liste des fournitures
 
-                         ARRIVÉE D'EAU
-                               │
-                               ▼
-                       ┌──────────────┐
-                       │VANNE GÉNÉRALE│
-                       └──────┬───────┘
-                              │
-                           COMPTEUR
-                              │
-        			🚰 Robinet   🔵 Filtre + régulateur
-                         ═══ PE Ø25 ═══
-                              │
-          ┌───────────────────┼───────────────────┐
-          │                   │                   │
-          ▼                   ▼                   ▼
-     📦 REGARD NORD      📦 REGARD EST      📦 REGARD SUD
-          │                   │                   │
-      COLLECTEUR          COLLECTEUR          COLLECTEUR
-       3 sorties           3 sorties           3 sorties
-       │  │  │             │  │  │             │  │  │
-      PE PE PE             PE PE PE             PE PE PE
-       │  │  │             │  │  │             │  │  │
-      🚿 🚿 🚿             🚿 🚿 🚿             🚿 🚿 🚿
-       Q1 Q2 Q3             Q4 Q5 Q6             Q7 Q8 Q9
+<div style="
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  height:520px;
+  text-align:center;
+">
 
-                         📦 REGARD OUEST
-                               │
-                          COLLECTEUR
-                           3 sorties
-                            │  │  │
-                           PE PE PE
-                            │  │  │
-                           🚿 🚿 🚿
-                           Q10 Q11 Q12
+<div style="font-size:70px;">🛒</div>
 
---- 
+<h2 style="font-size:34px; color:#174a2b;">
+Liste des fournitures et devis
+</h2>
 
-Architecture
+<p style="font-size:22px; color:#555;">
+Retrouver le détail des composants, quantités,<br>
+références et estimations de prix.
+</p>
 
-1 arrivée → 1 vanne → 1 réseau PE Ø25 → 4 regards → 4 collecteurs → 12 branches PE Ø25 → 12 robinets
-
----
-
-🛒 Liste des courses
-
-🛒 1. Arrivée d'eau
-
-Élément| Qté| Prix unitaire| Total| Référence / lien
-Vanne générale PE Ø25| 1| ~19,25 €| 19,25 €| "Gamm Vert — vanne PE Ø25" (https://www.gammvert.fr/p/vanne-pe-plastique-25-6984ad0d7a46d6b1dd036d24)
-Compteur de débit d'eau| 1| 25,00 €| 25,00 €| "Gamm Vert — réf. 1441676" (https://www.gammvert.fr/p/jardibric-compteur-de-debit-d-eau-1441676)
-Sous-total arrivée d'eau| | | 44,25 €| 
-
----
-
-🛒 2. Distribution principale
-
-Élément| Qté| Prix unitaire| Total| Référence / lien
-PE-HD Ø25 — 6 bars — 25 m| 2| 20,49 €| 40,98 €| "Gamm Vert — réf. 20050049" (https://www.gammvert.fr/p/tube-pe-hd-d-25-mm-6-bars-20050049)
-Regard 65 × 53 × 30 cm| 4| 39,00 €| 156,00 €| "Gamm Vert — réf. 1554455" (https://www.gammvert.fr/p/regard-rectangulaire-polypropylene-noir-l-65-cm-l-53-cm-h-30-cm-jardibric-1554455)
-Collecteur PVC 3 sorties 26/34| 4| 35,99 €| 143,96 €| "Gamm Vert — Hunter réf. 682543" (https://www.gammvert.fr/p/clarinette-collecteur-pvc-3-departs-entree-male-26x34-4-ecrous-tournants-hunter-682543)
-Té compression égal Ø25| 4| 5,00 €| 20,00 €| "Gamm Vert — réf. 574571" (https://www.gammvert.fr/p/te-compression-egal-25-mm-jardibric-574571)
-Raccord PE Ø25 → mâle 26/34| 4| 3,50 €| 14,00 €| "Gamm Vert — réf. 574576" (https://www.gammvert.fr/p/raccord-compression-25-mm-male-26x34-l-6-x-l-6-x-h-7-cm-jardibric-574576)
-Sous-total distribution principale| | | 374,94 €| 
-
----
-🛒 3. Réseau des 12 parcelles
-
-Élément| Qté| Prix unitaire| Total| Référence / lien
-Vanne de compression PE Ø25| 12| 8,50 €| 102,00 €| "Gamm Vert — Vanne Jardibric Ø25" (https://www.gammvert.fr/p/vanne-de-compression-jardibric-25-6984a601a3471c31911d3e40)
-Raccord mâle à compression Ø25 — 20/27 (3/4")| 12| ~3,59 €| 43,08 €| "Gamm Vert — raccord Ø25 / 20/27" (https://www.gammvert.fr/p/raccord-droit-16b-3-4m-d25-plymouth)
-Sous-total 12 parcelles| | | 145,08 €| 
-
----
-
-🛒 4. Raccords & consommables
-
-Élément| Qté| Prix unitaire| Total| Référence / lien
-Ruban PTFE 12 m| 1| 1,99 €| 1,99 €| "Gamm Vert — PTFE" (https://www.gammvert.fr/p/ruban-teflon-ptfe-12-m-x-12-mm-boutte-2047558)
-Manchon compression Ø25 × Ø25| 2| 3,90 €| 7,80 €| "Gamm Vert — réf. 574568" (https://www.gammvert.fr/p/manchon-compression-25x25-mm-jardibric-574568)
-Coude compression Ø25| 2| 4,40 €| 8,80 €| "Gamm Vert — réf. 574580" (https://www.gammvert.fr/p/coude-compression-25-mm-jardibric-574580)
-Bouchon compression Ø25| 2| 3,55 €| 7,10 €| "Gamm Vert — réf. 574583" (https://www.gammvert.fr/p/bouchon-de-compression-25-mm-h-5-5-cm-jardibric-574583)
-Sous-total raccords & consommables| | | 25,69 €| 
-
----
-
-🛒 TOTAL DES COURSES
-
-44,25 € + 374,94 € + 145,08 € + 25,69 € ~ 590 €
-
----
-
-💧 ANNEXE : Pistes de récupération d'eau
-Pistes à étudier : abri de jardin- auvent mural · serre adossée · gouttière · récupération d'eau de pluie · cuve
-
----
-
-<div style="display:grid; grid-template-columns:repeat(4, 1fr); gap:12px; align-items:center;"><a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/baache-recuperation.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/baache-recuperation.png" style="width:100%; height:110px; object-fit:contain;"></a>
-
-<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/goutiere-suspendue.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/goutiere-suspendue.png" style="width:100%; height:110px; object-fit:contain;"></a>
-
-<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/gouttiere-serre.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/gouttiere-serre.png" style="width:100%; height:110px; object-fit:contain;"></a>
-
-<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/recuperation-pluie.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/recuperation-pluie.png" style="width:100%; height:110px; object-fit:contain;"></a>
-
-<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/serre-jardin.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/serre-jardin.png" style="width:100%; height:110px; object-fit:contain;"></a>
-
-<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/serre-recuperation-ex.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/serre-recuperation-ex.png" style="width:100%; height:110px; object-fit:contain;"></a>
-
-<a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture1.png"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/capture1.png" style="width:100%; height:110px; object-fit:contain;"></a>
-
-<a href="https://www.18h39.fr/consommer-mieux-depenser-moins/economies-deau/methodes-alternatives-pour-collecter-leau-de-pluie.html">Article les méthodes alternatives pour collecter l'eau de pluie</a>
+<a href="https://docs.google.com/spreadsheets/d/1IG6-NwMydbvbAU9pFtlKcpi_Dn63J-0s70rrTP_EaZY/edit?usp=sharing"
+   style="
+     display:inline-block;
+     margin-top:25px;
+     padding:16px 32px;
+     background:#174a2b;
+     color:white;
+     text-decoration:none;
+     border-radius:10px;
+     font-size:22px;
+     font-weight:bold;
+   ">
+   Ouvrir le devis →
+</a>
 
 </div>
