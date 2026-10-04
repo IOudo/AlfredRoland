@@ -137,9 +137,9 @@ Quelle profondeur ?
              │               │
              │  COLLECTEUR   │
              │   3 départs   │
-             │    ├── PE16 ──────🚰 P0
              │    ├── PE16 ──────🚰 P1
-             │    └── PE16 ──────🚰 P2
+             │    ├── PE16 ──────🚰 P2
+             │    └── PE16 ──────🚰 P3
              │               │
              └───────────────┘
 
@@ -158,73 +158,60 @@ Principe
 
 🛒 Liste de courses complète 
 
+## 🛒 1. Arrivée d'eau
+
 | Élément | Qté | Référence / produit | Prix indicatif |
 |---|---:|---|---:|
 | Tube principal PE-HD Ø25 — 6 bars — 25 m | 1 | [Gamm Vert — réf. 20050049](https://www.gammvert.fr/p/tube-pe-hd-d-25-mm-6-bars-20050049) | ~20,49 € |
 | Vanne générale d'arrêt | 1 | [Gamm Vert — Vanne PE plastique Ø25 — vanne à compression Unidelta](https://www.gammvert.fr/p/vanne-pe-plastique-25-6984ad0d7a46d6b1dd036d24) | 19,25 € |
 | Compteur de débit d'eau | 1 | [Jardibric — réf. 1441676](https://www.gammvert.fr/p/jardibric-compteur-de-debit-d-eau-1441676) | ~25 € |
-
+| **Sous-total** | | | **~64,74 €** |
 ---
 
-🛒 Liste de courses complète
+## 🛒 2. Distribution principale
 
 | Élément | Qté | Référence / produit | Prix indicatif |
 |---|---:|---|---:|
 | Filtre + régulateur de pression | 1 | [Jardibric — M20/27 → M20/27](https://www.gammvert.fr/p/filtre-anti-calcaire-avec-regulateur-de-pression-jardibric-m-20x27-m-20x27-6967ba135d6a481989c853a1) | ~17 € |
-| Té de dérivation principal | 1 | [Té PE25 — Ø25 mm](https://www.gammvert.fr/c/raccords-pour-tuyaux-pe) — dérivation vers robinet central + réseau PE25 | À valider |
+| Té de dérivation principal | 1 | [Té PE25 — Ø25 mm](https://www.gammvert.fr/p/raccord-a-t-pour-pe-25-mm-filete-3-4-f-688cb6e25e166add6ce89044) — dérivation vers robinet central + réseau PE25 | 4,27 € |
+| Raccord PE25 → 26/34 | 1 | [Jardibric — compression mâle Ø25 × 26/34 PN16](https://www.gammvert.fr/p/jardibric-jardibric-raccord-compression-male-25-mm-x-26x34-1-pn16-raccord-tuyau-pe-25-mm-filetage-male-reseau-eau-irrigation) | 3,50 € |
 | Collecteur 3 départs | 4 | [Hunter — entrée M26/34](https://www.gammvert.fr/p/clarinette-collecteur-pvc-3-departs-entree-male-26x34-4-ecrous-tournants-hunter-682543) | ~35,99 €/u |
-| Regard enterré | 4 | [Jardibric — regard 65 × 53 × 30 cm](https://www.gammvert.fr/p/regard-rectangulaire-polypropylene-noir-l-65-cm-l-53-cm-h-30-cm-jardibric) | ~39 €/u |
-
+| Regard enterré | 4 | [Jardibric — regard 65 × 53 × 30 cm](https://www.gammvert.fr/p/regard-rectangulaire-polypropylene-noir-l-65-cm-l-53-cm-h-30-cm-jardibric-1554455) | ~39 €/u |
+| **Sous-total** | | | **~324,73 €** |
 ---
 
-🛒 Liste de courses complète
+## 🛒 3. Réseau des 12 parcelles
 
 | Élément | Qté | Référence / produit | Prix indicatif |
 |---|---:|---|---:|
 | Tuyau PE/PEBD Ø16 — 50 m — non perforé | 1 | [Gamm Vert — tuyau micro-irrigation Ø16 × 50 m](https://www.gammvert.fr/p/tuyau-micro-irrigation-16-mm-x-50-m-66601e94b9245c838c28d202) | ~26–28 € |
-| Raccord PE16 → F20/27 | 12 | [Jardibric — Ø16 mm / F20×27](https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte) | 2,59 €/u |
 | Mini-vanne Ø16 mm + filetage mâle 20/27 (3/4") | 12 | 3,30 € / pièce | [Mini vanne filetée 3/4" + raccord tube Ø16 mm — Réf. 5223-3416](https://www.gammvert.fr/p/mini-vanne-filetee-3-4-raccord-tube-basse-densite-16mm-670e642664798fd3643d799b) |
 | Robinet de puisage central | 1 | [Jardibric — robinet de jardin](https://www.gammvert.fr/c/arrosage-goutte-a-goutte) | ~18 € |
+| **Sous-total** | | | **~84,60 €** |
 
 ---
 
-🛒 Liste de courses complète
+## 🛒 4. Raccords & consommables
 
 | Élément | Qté | Référence / produit | Prix indicatif |
 |---|---:|---|---:|
-| Raccord PE25 → 26/34 | 1 | [Jardibric — compression mâle Ø25 × 26/34 PN16](https://www.gammvert.fr/p/jardibric-jardibric-raccord-compression-male-25-mm-x-26x34-1-pn16-raccord-tuyau-pe-25-mm-filetage-male-reseau-eau-irrigation) | 3,50 € |
 | Jonction PE16 de secours | 2–4 | [Jardibric — jonction Ø16](https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte) | ~3,50 € |
 | Ruban d'étanchéité PTFE 12 mm × 12 m | 1 | [Boutté — Ruban Téflon PTFE 12 m × 12 m](https://www.gammvert.fr/p/ruban-teflon-ptfe-12-m-x-12-mm-boutte-2047558) | 1,99 € |
 | Colliers de serrage inox 16–27 mm | 1 lot | [Ribiland — 2 colliers inox 16–27 mm](https://www.gammvert.fr/c/couverture-et-gouttiere?p=43) | 3,49 € |
 
 ---
 
-Budget 
+# 💰 Synthèse du budget
 
-Oui. En reprenant le dernier panier à ~263,54 € et en remplaçant les 12 vannes Ø16 à 4,99 € par les 12 mini-vannes Ø16 + mâle 20/27 à 3,30 €, on économise 20,28 €.
+| Groupe | Montant indicatif |
+|---|---:|
+| Arrivée d'eau | ~64,74 € |
+| Distribution principale | ~324,73 € |
+| Réseau des 12 parcelles | ~84,60 € |
+| Raccords & consommables | ~19,48 € |
+| **TOTAL ESTIMATIF** | **~493,55 €** |
 
-Nouveau total
-
-| Élément | Quantité | Prix unitaire | Total |
-|---|---:|---:|---:|
-| PE25 — 25 m | 1 | 20,49 € | 20,49 € |
-| PE16 — 50 m | 1 | 27,99 € | 27,99 € |
-| Collecteur 4 départs | 1 | ~35,80 € | 35,80 € |
-| Mini-vannes de branches | 4 | ~3,30 € | 13,20 € |
-| Mini-vanne Ø16 + mâle 20/27 | 12 | 3,30 € | 39,60 € |
-| Té Ø16 — lot | 1 | 5,30 € | 5,30 € |
-| Jonctions Ø16 — lot | 1 | 3,50 € | 3,50 € |
-| Coudes Ø16 — lot | 1 | 5,20 € | 5,20 € |
-| Bouchons — lot | 1 | 3,50 € | 3,50 € |
-| Vanne générale | 1 | 8,50 € | 8,50 € |
-| Filtre | 1 | 17,00 € | 17,00 € |
-| Raccords PE25 → 20/27 | 2 | 3,59 € | 7,18 € |
-| Colliers / fixations | 1 | 27,00 € | 27,00 € |
-| Compteur d'eau | 1 | 25,00 € | 25,00 € |
-| Joints | 1 | ~4,00 € | 4,00 € |
-| **TOTAL** | | | **243,26 €** |
-
-👉 : ~243,26 € avec compteur d'eau.
+> **Budget à prévoir : ~500 €**
 
 ---
 
