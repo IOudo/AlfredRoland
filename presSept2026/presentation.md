@@ -204,19 +204,21 @@ Vanne générale sur PE25| 1| ~8,50 €|
 
 Elle sera placée avant le collecteur.
 
- Arrivée d'eau
-     │
-     ▼
-  Compteur
-     │
-     ▼
-  Filtration
-     │
-     ▼
- Vanne générale
-     │
-     ▼
- Collecteur 4 × Ø16
+
+   Arrivée d'eau
+       │
+       ▼
+    Compteur
+       │
+       ▼
+    Filtration
+       │
+       ▼
+   Vanne générale
+       │
+       ▼
+   Collecteur 4 × Ø16
+
 
 ---
 
