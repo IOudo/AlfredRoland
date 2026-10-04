@@ -107,163 +107,221 @@ Plan du jardin
 
 ---
 
-💧 Réseau d'arrosage — Synthèse du projet
+🛒 Liste de courses  — Réseau d'arrosage
 
-Le réseau comprend 12 parcelles / 12 robinets.
+1. Tuyaux
 
-👉 Quantités à prévoir
+| Élément | Quantité | Prix indicatif | Référence / lien |
+|---|---:|---:|---|
+| PE-HD Ø25 mm — 6 bars — 25 m | 1 couronne | 20,49 € à partir de | [Gamm Vert — Tube PE-HD Ø25 mm](https://www.gammvert.fr/p/tube-pe-hd-d-25-mm-6-bars-20050049) |
+| PE Ø16 mm — couronne 50 m | 1 | 27,99 € | [Gamm Vert — Tuyau PE Ø16 mm 50 m](https://www.gammvert.fr/p/tuyau-pe-rigide-16mm-en-rouleau-de-50-metres-682da44530c7590c6cbc9a0f) |
+--- 
 
-- PE25 : 10 m minimum
-- PE16 : 50 m conseillé si achat en couronne
+Pourquoi 25 m de PE25 ?
 
-Gamm Vert propose notamment :
+Le besoin estimé est d'environ 10 m. La couronne de 25 m laisse donc une marge confortable pour le raccordement et les éventuels changements de tracé.
 
-- "Tuyau PE Ø16 mm Jardibric — couronne de 50 m" (https://www.gammvert.fr/p/tuyau-pe-rigide-16mm-en-rouleau-de-50-metres-682da44530c7590c6cbc9a0f)
-- "Tube PE-HD Ø25 mm — 25 m / 6 bars" (https://www.gammvert.fr/p/tube-pe-hd-d-25-mm-6-bars-20050049)
+Pourquoi 50 m de PE16 ?
 
----
+Le besoin estimé est d'environ 40 m. La couronne de 50 m permet de conserver une marge.
 
-🟢 Robinets
-
-Principe retenu :
-
-1 robinet par parcelle × 12 parcelles = 12 robinets
-
-À prévoir
-
-- 12 × vannes d'arrosage Ø16 mm Jardibric
-
-"Voir la gamme de raccords et vannes Ø16 mm Gamm Vert" (https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte)
+Le PE16 de la référence trouvée est prévu pour l'irrigation et fonctionne à 4 bars.
 
 ---
 
-🔴 Collecteurs / distribution
+2. Collecteur principal
 
-Le réseau a quatre points de distribution :
+| Élément | Quantité | Prix indicatif | Référence / lien |
+|---|---:|---:|---|
+| Collecteur 4 départs | 1 | ~35,80 € | À valider pour PE25 → 4×PE16 |
+---
 
-- AQ1, AQ2, AQ3, AQ4
+Le principe recherché est :
 
-Pour les ramifications en Ø16 :
+                    PE25
+                     │
+                     ▼
+              ┌─────────────┐
+              │ COLLECTEUR  │
+              │ 4 DÉPARTS   │
+              └─────────────┘
+                │ │ │ │
+                ▼ ▼ ▼ ▼
+               Ø16 Ø16 Ø16 Ø16
+                │ │ │ │
+               AQ1 AQ2 AQ3 AQ4
 
-Raccord| Quantité
-Té Ø16 mm| 10
-Jonction droite Ø16 mm| 6
-Bouchon Ø16 mm| 4
-Coude Ø16 mm| 4
-
-Les quantités comprennent une petite réserve pour les ajustements et éventuelles erreurs de montage.
-
-"Voir les raccords Ø16 mm Jardibric chez Gamm Vert" (https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte)
 
 ---
 
-🔴 Vanne générale
+3. Vannes des 4 branches
 
-Prévoir :
+| Élément | Quantité | Prix indicatif | Référence / lien |
+|---|---:|---:|---|
+Vanne d'arrêt sur départ Ø16| 4| ~3,30 € / unité
 
-- 1 × vanne générale sur le PE25
+Une mini-vanne avec raccord pour tube PE16 est référencée chez Gamm Vert à 3,30 €.
 
-Position approximative sur le plan :
+Total indicatif : ~13,20 €
 
-≈ X 850 / Y 850
+Ces quatre vannes permettent de couper indépendamment :
 
----
-
-💧 Filtration
-
-Ajouter 1 filtre en ligne immédiatement après la vanne générale.
-
-Fonction
-
-Le filtre permet de retenir les impuretés et de protéger :
-
-- les vannes Ø16 ;
-- les raccords ;
-- les éléments d'irrigation.
-
-Gamm Vert propose notamment un "filtre en ligne Jardibric" (https://www.gammvert.fr/p/filtre-en-ligne-anti-calcaire-jardibric-16-6967ba135d6a481989c8539d).
-
-«⚠️ Point important : le réseau principal étant en PE25, il faut choisir un filtre avec une entrée/sortie compatible avec le Ø25, ou prévoir les raccords/adaptateurs nécessaires. Le modèle Ø16 ne convient pas directement au PE25.»
+- AQ1
+- AQ2
+- AQ3
+- AQ4
 
 ---
 
-🛒 Liste de courses
+4. Robinets des 12 parcelles
 
-Tuyaux
+| Élément | Quantité | Prix indicatif | Référence / lien |
+|---|---:|---:|---|
+Vanne / robinet Ø16 mm pour chaque parcelle| 12| ~4,99 € / unité|
 
-Élément| Quantité
-PE-HD Ø25 mm — 6 bars| 10 m
-PE Ø16 mm plein| 40 m minimum
-PE Ø16 mm conseillé| 50 m
-
-Vannes et filtration
-
-Élément| Quantité
-Vanne générale PE25| 1
-Vanne d'arrosage Ø16 mm| 12
-Filtre adapté au PE25| 1
-
-Raccords Ø16
-
-Raccord| Quantité
-Té Ø16 mm| 10
-Jonction Ø16 mm| 6
-Bouchon Ø16 mm| 4
-Coude Ø16 mm| 4
-
-Raccords et fixation
-
-Élément| Quantité
-Raccords PE25 adaptés à la vanne générale| 2 environ
-Colliers / attaches Ø16| 30 à 40
+Total indicatif : ~59,88 €
 
 ---
 
-🛒 Liste de courses — Réseau d'arrosage
+5. Raccords Ø16
 
-Description| Quantité| Prix unitaire / lot| Référence Gamm Vert| Total
-"PE-HD Ø25 mm — 6 bars — couronne 25 m" (https://www.gammvert.fr/p/couronne-tuyau-polyethylene-haute-densite-25-mm-l-25-m-6-bars-jardibric-574446)| 1| 30,00 €| 574446| 30,00 €
-"PE Ø16 mm — couronne 50 m" (https://www.gammvert.fr/p/tuyau-pe-rigide-16mm-en-rouleau-de-50-metres-682da44530c7590c6cbc9a0fhttps://www.gammvert.fr/p/tuyau-pe-rigide-16mm-en-rouleau-de-50-metres-682da44530c7590c6cbc9a0fhttps://www.gammvert.fr/p/tuyau-pe-rigide-16mm-en-rouleau-de-50-metres-682da44530c7590c6cbc9a0f)| 1| **** €| 574460| 30 €
-"Vanne d'arrosage Ø16 mm Jardibric" (https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte)| 12| 4,99 €| —| 59,88 €
-"Té Ø16 mm — lot de 10" (https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte)| 1| 5,30 €| —| 5,30 €
-"Jonction Ø16 mm — lot de 10" (https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte)| 1| 3,50 €| —| 3,50 €
-"Coude Ø16 mm — lot de 10" (https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte)| 1| 5,20 €| —| 5,20 €
-"Bouchon Ø16 mm — lot de 5" (https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte)| 1| 3,50 €| 574489| 3,50 €
-"Vanne générale PE25" (https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte)| 1| ~8,50 €| —| 8,50 €
-"Filtre adapté au PE25" (https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte)| 1| ~17,00 €| —| 17,00 €
-Raccord compression PE25 → 20×27| 2| ~3,59 €| —| 7,18 €
-Colliers / attaches Ø16 — lot| 1| ~27,00 €| —| 27,00 €
-Compteur de débit d'eau Jardibric| 1| 25,00 €| 1441676| 25,00 €
-| | | TOTAL| 207,85 €
+| Élément | Quantité | Prix indicatif | Référence / lien |
+|---|---:|---:|---|
+Té Ø16 mm| 10| Dérivations vers les parcelles|
+Jonction droite Ø16 mm| 6| Raccordement de sections|
+Coude Ø16 mm| 4| Changements de direction|
+Bouchon Ø16 mm| 4| Extrémités des branches|
 
-https://www.gammvert.fr/p/raccord-droit-16b-1-m-d25-plymouth-6808b6b95bee32016cede3f8
+Ces quantités comprennent une petite marge pour les ajustements.
 
 ---
 
-💧 Compteur d'eau
+6. Vanne générale
 
-"Compteur de débit d'eau Jardibric — Gamm Vert" (https://www.gammvert.fr/p/jardibric-compteur-de-debit-d-eau-1441676)
+| Élément | Quantité | Prix indicatif | Référence / lien |
+|---|---:|---:|---|
+Vanne générale sur PE25| 1| ~8,50 €|
 
-25,00 € — Réf. 1441676
+Elle sera placée avant le collecteur.
 
-Il possède :
+Arrivée d'eau
+     │
+     ▼
+  Compteur
+     │
+     ▼
+  Filtration
+     │
+     ▼
+ Vanne générale
+     │
+     ▼
+ Collecteur 4 × Ø16
 
-- un compteur journalier ;
-- un compteur total ;
-- une entrée femelle 20×27 ;
-- une sortie mâle 20×27 ;
-- une mesure du volume consommé.
+---
 
-💰 Total avec compteur
+7. Filtration
 
-207,85 € environ
+| Élément | Quantité | Prix indicatif | Référence / lien |
+|---|---:|---:|---|
+Filtre / régulateur adapté| 1| ~17,00 €|
 
-«⚠️ Le prix final peut varier pour les produits vendus par des partenaires Gamm Vert et pour les raccords dont le modèle exact reste à déterminer. Le compteur Jardibric est actuellement affiché à 25 €.»
+Le filtre/régulateur Jardibric en 20×27 est actuellement affiché à 17 €.
 
-🔧 Point à vérifier avant commande
+⚠️ Il faut vérifier le raccordement côté PE25. Ne pas acheter le petit filtre Ø16 simplement parce qu'il est moins cher : il ne correspond pas directement au réseau principal.
 
-Le compteur Jardibric est en 20×27, donc il faudra bien conserver les deux raccords PE25 → 20×27 dans la liste.
+---
 
+8. Compteur de débit
+
+| Élément | Quantité | Prix indicatif | Référence / lien |
+|---|---:|---:|---|
+Compteur de débit d'eau Jardibric| 1| 25,00 €| 1441676|
+
+Il possède des raccordements en 20×27.
+
+Il faut donc prévoir les adaptateurs nécessaires entre le PE25 et le compteur.
+
+---
+
+9. Raccordement du compteur
+
+| Élément | Quantité | Prix indicatif | Référence / lien |
+|---|---:|---:|---|
+Raccord compression PE25 → 20×27| 2| ~3,59 €|
+Joints / étanchéité| 1 lot| ~3 à 5 €|
+
+Les deux raccords permettent de raccorder le compteur 20×27 au réseau PE25.
+
+---
+
+10. Fixation
+
+| Élément | Quantité | Prix indicatif | Référence / lien |
+|---|---:|---:|---|
+Colliers / attaches Ø16| 1 lot| ~27 €|
+
+Prévoir environ 30 à 40 attaches.
+
+---
+
+💰 Estimation
+
+| Poste | Montant | 
+|---|---:|
+PE25 — 25 m| 20,49 €|
+PE16 — 50 m| 27,99 €|
+Collecteur 4 départs| ~35,80 €|
+4 vannes de branches| ~13,20 €|
+12 robinets Ø16| ~59,88 €|
+Té Ø16 — lot| ~5,30 €|
+Jonctions Ø16 — lot| ~3,50 €|
+Coudes Ø16 — lot| ~5,20 €|
+Bouchons Ø16 — lot| ~3,50 €|
+Vanne générale| ~8,50 €|
+Filtre / régulateur| ~17,00 €|
+Raccords PE25 → 20×27| ~7,18 €|
+Colliers / attaches| ~27,00 €|
+Compteur| 25,00 €|
+Joints / petite fourniture| ~4,00 €|
+TOTAL INDICATIF| ≈ 263,54 €|
+
+---
+
+🔧 Architecture finale retenue
+
+                       ARRIVÉE D'EAU
+                            │
+                            ▼
+                       COMPTEUR
+                       20 × 27
+                            │
+                            ▼
+                         FILTRE
+                            │
+                            ▼
+--- 
+   
+                    VANNE GÉNÉRALE
+                         PE25
+                            │
+                            ▼
+                 ┌─────────────────┐
+                 │   COLLECTEUR    │
+                 │    4 DÉPARTS    │
+                 └─────────────────┘
+                    │   │   │   │
+                    │   │   │   │
+                   Ø16 Ø16 Ø16 Ø16
+                    │   │   │   │
+                   AQ1 AQ2 AQ3 AQ4
+                    │   │   │   │
+                    └───┴───┴───┘
+                       12 parcelles
+                       12 robinets
+---
+
+Budget à retenir pour l'instant : ~260–265 € avec le compteur, sous réserve du raccordement exact du collecteur.
 
 ---
 
