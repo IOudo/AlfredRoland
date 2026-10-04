@@ -146,13 +146,12 @@ Principe
 - 4 regards = AQ1 à AQ4
 - 4 collecteurs × 3 départs = 12 parcelles
 - PE16 souple = une ligne par parcelle
-- 12 robinets enterrés = un par parcelle
+- 12 Mini-vanne Ø16 mm + filetage mâle - raccord parcelle
 - 1 robinet central = puisage d'eau
-- Les robinets enterrés intègrent leur propre vanne
 
 ---
 
-🛒 Liste de courses complète
+🛒 Liste de courses complète 
 
 | Élément | Qté | Référence / produit | Prix indicatif |
 |---|---:|---|---:|
