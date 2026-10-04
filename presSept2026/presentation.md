@@ -28,11 +28,122 @@ h1 {
 }
 </style>
 
+
+---
+
+---
+
+🌱 Jardin partagé
+
+Évolution de l'arrosage
+
+Retour d'expérience — été 2026
+
+<br>Objectif : étudier la mise en place d'une conduite d'eau enterrée
+
+---
+
+💧 Pourquoi faire évoluer l'installation ?
+
+Le système actuel fonctionne…mais 
+
+⏱️ ≈ 1 h d'arrosage
+
+🚶 Longs déplacements avec les tuyaux
+
+💪 Déroulage / rangement
+
+☀️ Jardin très exposé
+
+📅 Difficile à assurer pendant les absences
+
+<br>👉 L'idée
+
+Amener l'eau au plus près des cultures.
+
+---
+
+🕳️ La solution proposée
+
+Enterrer une conduite principale
+
+       ARRIVÉE D'EAU
+             │
+             │
+             ▼
+     🔵 PE Ø25 enterré
+             │
+             │
+             ▼
+        COLLECTEUR
+          /  |  \
+         /   |   \
+        ▼    ▼    ▼
+      Zone 1 Zone 2 Zone 3
+
+Aujourd'hui : alimentation en eau
+
+Demain : plusieurs possibilités d'arrosage
+
+---
+
+🕳️ Le chantier
+
+Le tube est simple à poser.
+
+Le vrai travail sera probablemenr…le ⛏️ Terrassement
+
+À déterminer ensemble sur place
+
+Tracé · profondeur · longueur · nombre de départs
+
+---
+
+🌱 Et après ?
+
+L'intérêt d'enterrer la conduite est aussi de ne pas figer la suite.
+
+On pourrait ensuite envisager :
+
+💧 Goutte-à-goutte
+
+🌱 Tuyau microporeux
+
+🏺 Oyas
+
+♻️ Récupération d'eau
+
+🪣 Réserve
+
+---
+
+🤔 Ce qu'il faut décider 
+
+
+Où faire passer la conduite ?
+
+Où installer le collecteur ?
+
+Quel diamètre ? Combien de départs ?
+
+Quelle profondeur ? 
+
+---
+
+# Plan du jardin
+
+<div style="text-align: center;">
+  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg">
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg"
+         style="width: 500px; object-fit: contain;">
+  </a>
+</div>
+
+---
+
+
 # Réseau d'arrosage
 
-## Vue générale
-
-![width:500px](https://ioudo.github.io/AlfredRoland/images/plan.svg)
 
 ---
 
@@ -41,7 +152,12 @@ h1 {
 Arrivée PE25 → vanne générale - Robinet
 </div>
 
-![width:500px](https://ioudo.github.io/AlfredRoland/images/etape1.svg)
+<div style="text-align: center;">
+  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg">
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/etape1.svg"
+         style="width: 500px; object-fit: contain;">
+  </a>
+</div>
 
 
 ---
@@ -51,7 +167,12 @@ Arrivée PE25 → vanne générale - Robinet
 Vanne générale → 4 départs PE25 vers les quartiers
 </div>
 
-![width:500px](https://ioudo.github.io/AlfredRoland/images/etape2.svg)
+<div style="text-align: center;">
+  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg">
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/etape2.svg"
+         style="width: 500px; object-fit: contain;">
+  </a>
+</div>
 
 
 ---
@@ -62,7 +183,12 @@ Départs PE25 → vannes des parcelles * 4
 </div>
 
 
-![width:500px](https://ioudo.github.io/AlfredRoland/images/etape3.svg)
+<div style="text-align: center;">
+  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg">
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/etape3.svg"
+         style="width: 500px; object-fit: contain;">
+  </a>
+</div>
 
 
 ---
