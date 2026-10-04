@@ -158,6 +158,8 @@ Principe
 
 🛒 Liste de courses complète 
 
+---
+
 ## 🛒 1. Arrivée d'eau
 
 | Élément | Qté | Référence / produit | Prix indicatif |
@@ -172,8 +174,8 @@ Principe
 
 | Élément | Qté | Référence / produit | Prix indicatif |
 |---|---:|---|---:|
-| Filtre + régulateur de pression | 1 | [Jardibric — M20/27 → M20/27](https://www.gammvert.fr/p/filtre-anti-calcaire-avec-regulateur-de-pression-jardibric-m-20x27-m-20x27-6967ba135d6a481989c853a1) | ~17 € |
-| Té de dérivation principal | 1 | [Té PE25 — Ø25 mm](https://www.gammvert.fr/p/raccord-a-t-pour-pe-25-mm-filete-3-4-f-688cb6e25e166add6ce89044) — dérivation vers robinet central + réseau PE25 | 4,27 € |
+| Filtre + régulateur | 1 | [Jardibric — M20/27 → M20/27](https://www.gammvert.fr/p/filtre-anti-calcaire-avec-regulateur-de-pression-jardibric-m-20x27-m-20x27-6967ba135d6a481989c853a1) | ~17 € |
+| Té de dérivation principal | 1 | [Té PE25 — Ø25 mm](https://www.gammvert.fr/p/raccord-a-t-pour-pe-25-mm-filete-3-4-f-688cb6e25e166add6ce89044) | 4,27 € |
 | Raccord PE25 → 26/34 | 1 | [Jardibric — compression mâle Ø25 × 26/34 PN16](https://www.gammvert.fr/p/jardibric-jardibric-raccord-compression-male-25-mm-x-26x34-1-pn16-raccord-tuyau-pe-25-mm-filetage-male-reseau-eau-irrigation) | 3,50 € |
 | Collecteur 3 départs | 4 | [Hunter — entrée M26/34](https://www.gammvert.fr/p/clarinette-collecteur-pvc-3-departs-entree-male-26x34-4-ecrous-tournants-hunter-682543) | ~35,99 €/u |
 | Regard enterré | 4 | [Jardibric — regard 65 × 53 × 30 cm](https://www.gammvert.fr/p/regard-rectangulaire-polypropylene-noir-l-65-cm-l-53-cm-h-30-cm-jardibric-1554455) | ~39 €/u |
@@ -184,8 +186,8 @@ Principe
 
 | Élément | Qté | Référence / produit | Prix indicatif |
 |---|---:|---|---:|
-| Tuyau PE/PEBD Ø16 — 50 m — non perforé | 1 | [Gamm Vert — tuyau micro-irrigation Ø16 × 50 m](https://www.gammvert.fr/p/tuyau-micro-irrigation-16-mm-x-50-m-66601e94b9245c838c28d202) | ~26–28 € |
-| Mini-vanne Ø16 mm + filetage mâle 20/27 (3/4") | 12 | 3,30 € / pièce | [Mini vanne filetée 3/4" + raccord tube Ø16 mm — Réf. 5223-3416](https://www.gammvert.fr/p/mini-vanne-filetee-3-4-raccord-tube-basse-densite-16mm-670e642664798fd3643d799b) |
+| Tuyau PE/PEBD Ø16 — 50 m  | 1 | [Gamm Vert — tuyau micro-irrigation Ø16 × 50 m](https://www.gammvert.fr/p/tuyau-micro-irrigation-16-mm-x-50-m-66601e94b9245c838c28d202) | ~26–28 € |
+| Mini-vanne Ø16 mm  | 12 | [Mini vanne filetée 3/4" + raccord tube Ø16 mm — Réf. 5223-3416](https://www.gammvert.fr/p/mini-vanne-filetee-3-4-raccord-tube-basse-densite-16mm-670e642664798fd3643d799b) |3,30 € / pièce |
 | Robinet de puisage central | 1 | [Jardibric — robinet de jardin](https://www.gammvert.fr/c/arrosage-goutte-a-goutte) | ~18 € |
 | **Sous-total** | | | **~84,60 €** |
 
