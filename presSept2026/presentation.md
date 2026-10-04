@@ -173,7 +173,7 @@ Vanne générale → 4 départs PE25 vers les quartiers
 
 # Étape 3 — Distribution des parcelles
 <div class="caption">
-Départs PE25 → vannes des parcelles * 4
+Départs PE25 → vannes des parcelles
 </div>
 
 
@@ -205,7 +205,7 @@ Liste des fournitures et devis
 </h2>
 
 <p style="font-size:22px; color:#555;">
-Retrouver le détail des composants, quantités,<br>
+Détail des composants, quantités,<br>
 références et estimations de prix.
 </p>
 
