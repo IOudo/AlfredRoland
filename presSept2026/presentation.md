@@ -2,7 +2,6 @@
 marp: true
 theme: default
 paginate: true
----
 
 <style>
 section {
@@ -27,9 +26,6 @@ h1 {
   margin-top: 5px;
 }
 </style>
-
-
----
 
 ---
 
@@ -57,8 +53,7 @@ Le système actuel fonctionne…mais
 
 📅 Difficile à assurer pendant les absences
 
-<br>👉 L'idée
-
+👉 L'idée
 Amener l'eau au plus près des cultures.
 
 ---
@@ -82,7 +77,6 @@ Enterrer une conduite principale
       Zone 1 Zone 2 Zone 3
 
 Aujourd'hui : alimentation en eau
-
 Demain : plusieurs possibilités d'arrosage
 
 ---
