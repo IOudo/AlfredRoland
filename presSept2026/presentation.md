@@ -32,13 +32,13 @@ h1 {
 
 ## Vue générale
 
-![width:100%](https://ioudo.github.io/AlfredRoland/images/plan.svg)
+![width:500px](https://ioudo.github.io/AlfredRoland/images/plan.svg)
 
 ---
 
 # Étape 1 — Arrivée d'eau
 
-![width:100%](https://ioudo.github.io/AlfredRoland/images/etape1.svg)
+![width:500px](https://ioudo.github.io/AlfredRoland/images/etape1.svg)
 
 <div class="caption">
 Arrivée PE25 → vanne générale
@@ -48,7 +48,7 @@ Arrivée PE25 → vanne générale
 
 # Étape 2 — Distribution des quartiers
 
-![width:100%](https://ioudo.github.io/AlfredRoland/images/etape2.svg)
+![width:500px](https://ioudo.github.io/AlfredRoland/images/etape2.svg)
 
 <div class="caption">
 Vanne générale → 4 départs PE25 vers les quartiers
@@ -58,7 +58,7 @@ Vanne générale → 4 départs PE25 vers les quartiers
 
 # Étape 3 — Distribution des parcelles
 
-![width:100%](https://ioudo.github.io/AlfredRoland/images/etape3.svg)
+![width:500px](https://ioudo.github.io/AlfredRoland/images/etape3.svg)
 
 <div class="caption">
 Départs PE25 → vannes des parcelles
