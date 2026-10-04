@@ -286,8 +286,7 @@
 
   <g id="etape-1"
      data-etape="1"
-     data-description="Arrivée PE25 et vanne générale"
-      style="display:none">
+     data-description="Arrivée PE25 et vanne générale">
 
     <!-- Arrivée principale PE25 -->
     <line class="pe25-principal"

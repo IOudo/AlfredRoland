@@ -286,8 +286,7 @@
 
   <g id="etape-1"
      data-etape="1"
-     data-description="Arrivée PE25 et vanne générale"
-      style="display:none">
+     data-description="Arrivée PE25 et vanne générale">
 
     <!-- Arrivée principale PE25 -->
     <line class="pe25-principal"
@@ -333,7 +332,7 @@
   <g id="etape-2"
      data-etape="2"
      data-description="Départ PE25 vers le collecteur AQ1"
-      style="display:none">
+      >
 
     <!-- Liaison centrale → AQ1 -->
     <line class="pe25"
