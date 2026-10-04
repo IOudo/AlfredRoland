@@ -112,108 +112,97 @@ Quelle profondeur ?
 </div>
 
 ---
+
 💧 Réseau d'arrosage — schéma final
 
-                         🚰 ARRIVÉE D'EAU
+                         ARRIVÉE D'EAU
                                │
-                       🔴 Vanne générale
+                               ▼
+                       ┌──────────────┐
+                       │VANNE GÉNÉRALE│
+                       └──────┬───────┘
+                              │
+                           COMPTEUR
+                              │
+        			🚰 Robinet   🔵 Filtre + régulateur
+                         ═══ PE Ø25 ═══
+                              │
+          ┌───────────────────┼───────────────────┐
+          │                   │                   │
+          ▼                   ▼                   ▼
+     📦 REGARD NORD      📦 REGARD EST      📦 REGARD SUD
+          │                   │                   │
+      COLLECTEUR          COLLECTEUR          COLLECTEUR
+       3 sorties           3 sorties           3 sorties
+       │  │  │             │  │  │             │  │  │
+      PE PE PE             PE PE PE             PE PE PE
+       │  │  │             │  │  │             │  │  │
+      🚿 🚿 🚿             🚿 🚿 🚿             🚿 🚿 🚿
+       Q1 Q2 Q3             Q4 Q5 Q6             Q7 Q8 Q9
+
+                         📦 REGARD OUEST
                                │
-                       📏 Compteur d'eau
-							   T 
-                               │
-							
-			🚰 Robinet   🔵 Filtre + régulateur
-                               │
-                         ═══ PE25 ═══
-                               │
-                               
----                               
-                               
-					  ┌──── ...*4
-					  │                     
-				   📦 AQ1                 
-             ┌───────────────┐
-             │    REGARD     │
-             │               │
-             │  COLLECTEUR   │
-             │   3 départs   │
-             │    ├── PE16 ──────🚰 P1
-             │    ├── PE16 ──────🚰 P2
-             │    └── PE16 ──────🚰 P3
-             │               │
-             └───────────────┘
+                          COLLECTEUR
+                           3 sorties
+                            │  │  │
+                           PE PE PE
+                            │  │  │
+                           🚿 🚿 🚿
+                           Q10 Q11 Q12
+
+--- 
+
+Architecture
+
+1 arrivée → 1 vanne → 1 réseau PE Ø25 → 4 regards → 4 collecteurs → 12 branches PE Ø25 → 12 robinets
 
 ---
 
-Principe
+🛒 Liste des courses
 
-- PE25 enterré = réseau principal
-- 4 regards = AQ1 à AQ4
-- 4 collecteurs × 3 départs = 12 parcelles
-- PE16 souple = une ligne par parcelle
-- 12 Mini-vanne Ø16 mm + filetage mâle - raccord parcelle
-- 1 robinet central = puisage d'eau
+🛒 1. Arrivée d'eau
 
----
-
-🛒 Liste de courses complète 
+Élément| Qté| Prix unitaire| Total| Référence / lien
+Vanne générale PE Ø25| 1| ~19,25 €| 19,25 €| "Gamm Vert — vanne PE Ø25" (https://www.gammvert.fr/p/vanne-pe-plastique-25-6984ad0d7a46d6b1dd036d24)
+Compteur de débit d'eau| 1| 25,00 €| 25,00 €| "Gamm Vert — réf. 1441676" (https://www.gammvert.fr/p/jardibric-compteur-de-debit-d-eau-1441676)
+Sous-total arrivée d'eau| | | 44,25 €| 
 
 ---
 
-## 🛒 1. Arrivée d'eau
+🛒 2. Distribution principale
 
-| Élément | Qté | Référence / produit | Prix indicatif |
-|---|---:|---|---:|
-| Tube principal PE-HD Ø25 — 6 bars — 25 m | 1 | [Gamm Vert — réf. 20050049](https://www.gammvert.fr/p/tube-pe-hd-d-25-mm-6-bars-20050049) | ~20,49 € |
-| Vanne générale d'arrêt | 1 | [Gamm Vert — Vanne PE plastique Ø25 — vanne à compression Unidelta](https://www.gammvert.fr/p/vanne-pe-plastique-25-6984ad0d7a46d6b1dd036d24) | 19,25 € |
-| Compteur de débit d'eau | 1 | [Jardibric — réf. 1441676](https://www.gammvert.fr/p/jardibric-compteur-de-debit-d-eau-1441676) | ~25 € |
-| **Sous-total** | | | **~64,74 €** |
+Élément| Qté| Prix unitaire| Total| Référence / lien
+PE-HD Ø25 — 6 bars — 25 m| 2| 20,49 €| 40,98 €| "Gamm Vert — réf. 20050049" (https://www.gammvert.fr/p/tube-pe-hd-d-25-mm-6-bars-20050049)
+Regard 65 × 53 × 30 cm| 4| 39,00 €| 156,00 €| "Gamm Vert — réf. 1554455" (https://www.gammvert.fr/p/regard-rectangulaire-polypropylene-noir-l-65-cm-l-53-cm-h-30-cm-jardibric-1554455)
+Collecteur PVC 3 sorties 26/34| 4| 35,99 €| 143,96 €| "Gamm Vert — Hunter réf. 682543" (https://www.gammvert.fr/p/clarinette-collecteur-pvc-3-departs-entree-male-26x34-4-ecrous-tournants-hunter-682543)
+Té compression égal Ø25| 4| 5,00 €| 20,00 €| "Gamm Vert — réf. 574571" (https://www.gammvert.fr/p/te-compression-egal-25-mm-jardibric-574571)
+Raccord PE Ø25 → mâle 26/34| 4| 3,50 €| 14,00 €| "Gamm Vert — réf. 574576" (https://www.gammvert.fr/p/raccord-compression-25-mm-male-26x34-l-6-x-l-6-x-h-7-cm-jardibric-574576)
+Sous-total distribution principale| | | 374,94 €| 
+
 ---
+🛒 3. Réseau des 12 parcelles
 
-## 🛒 2. Distribution principale
-
-| Élément | Qté | Référence / produit | Prix indicatif |
-|---|---:|---|---:|
-| Filtre + régulateur | 1 | [Jardibric — M20/27 → M20/27](https://www.gammvert.fr/p/filtre-anti-calcaire-avec-regulateur-de-pression-jardibric-m-20x27-m-20x27-6967ba135d6a481989c853a1) | ~17 € |
-| Té de dérivation principal | 1 | [Té PE25 — Ø25 mm](https://www.gammvert.fr/p/raccord-a-t-pour-pe-25-mm-filete-3-4-f-688cb6e25e166add6ce89044) | 4,27 € |
-| Raccord PE25 → 26/34 | 1 | [Jardibric — compression mâle Ø25 × 26/34 PN16](https://www.gammvert.fr/p/jardibric-jardibric-raccord-compression-male-25-mm-x-26x34-1-pn16-raccord-tuyau-pe-25-mm-filetage-male-reseau-eau-irrigation) | 3,50 € |
-| Collecteur 3 départs | 4 | [Hunter — entrée M26/34](https://www.gammvert.fr/p/clarinette-collecteur-pvc-3-departs-entree-male-26x34-4-ecrous-tournants-hunter-682543) | ~35,99 €/u |
-| Regard enterré | 4 | [Jardibric — regard 65 × 53 × 30 cm](https://www.gammvert.fr/p/regard-rectangulaire-polypropylene-noir-l-65-cm-l-53-cm-h-30-cm-jardibric-1554455) | ~39 €/u |
-| **Sous-total** | | | **~324,73 €** |
----
-
-## 🛒 3. Réseau des 12 parcelles
-
-| Élément | Qté | Référence / produit | Prix indicatif |
-|---|---:|---|---:|
-| Tuyau PE/PEBD Ø16 — 50 m  | 1 | [Gamm Vert — tuyau micro-irrigation Ø16 × 50 m](https://www.gammvert.fr/p/tuyau-micro-irrigation-16-mm-x-50-m-66601e94b9245c838c28d202) | ~26–28 € |
-| Mini-vanne Ø16 mm  | 12 | [Mini vanne filetée 3/4" + raccord tube Ø16 mm — Réf. 5223-3416](https://www.gammvert.fr/p/mini-vanne-filetee-3-4-raccord-tube-basse-densite-16mm-670e642664798fd3643d799b) |3,30 € / pièce |
-| Robinet de puisage central | 1 | [Jardibric — robinet de jardin](https://www.gammvert.fr/c/arrosage-goutte-a-goutte) | ~18 € |
-| **Sous-total** | | | **~84,60 €** |
+Élément| Qté| Prix unitaire| Total| Référence / lien
+Vanne de compression PE Ø25| 12| 8,50 €| 102,00 €| "Gamm Vert — Vanne Jardibric Ø25" (https://www.gammvert.fr/p/vanne-de-compression-jardibric-25-6984a601a3471c31911d3e40)
+Raccord mâle à compression Ø25 — 20/27 (3/4")| 12| ~3,59 €| 43,08 €| "Gamm Vert — raccord Ø25 / 20/27" (https://www.gammvert.fr/p/raccord-droit-16b-3-4m-d25-plymouth)
+Sous-total 12 parcelles| | | 145,08 €| 
 
 ---
 
-## 🛒 4. Raccords & consommables
+🛒 4. Raccords & consommables
 
-| Élément | Qté | Référence / produit | Prix indicatif |
-|---|---:|---|---:|
-| Jonction PE16 de secours | 2–4 | [Jardibric — jonction Ø16](https://www.gammvert.fr/c/raccord-pour-tuyau-d-arrosage-goutte-a-goutte) | ~3,50 € |
-| Ruban d'étanchéité PTFE 12 mm × 12 m | 1 | [Boutté — Ruban Téflon PTFE 12 m × 12 m](https://www.gammvert.fr/p/ruban-teflon-ptfe-12-m-x-12-mm-boutte-2047558) | 1,99 € |
-| Colliers de serrage inox 16–27 mm | 1 lot | [Ribiland — 2 colliers inox 16–27 mm](https://www.gammvert.fr/c/couverture-et-gouttiere?p=43) | 3,49 € |
+Élément| Qté| Prix unitaire| Total| Référence / lien
+Ruban PTFE 12 m| 1| 1,99 €| 1,99 €| "Gamm Vert — PTFE" (https://www.gammvert.fr/p/ruban-teflon-ptfe-12-m-x-12-mm-boutte-2047558)
+Manchon compression Ø25 × Ø25| 2| 3,90 €| 7,80 €| "Gamm Vert — réf. 574568" (https://www.gammvert.fr/p/manchon-compression-25x25-mm-jardibric-574568)
+Coude compression Ø25| 2| 4,40 €| 8,80 €| "Gamm Vert — réf. 574580" (https://www.gammvert.fr/p/coude-compression-25-mm-jardibric-574580)
+Bouchon compression Ø25| 2| 3,55 €| 7,10 €| "Gamm Vert — réf. 574583" (https://www.gammvert.fr/p/bouchon-de-compression-25-mm-h-5-5-cm-jardibric-574583)
+Sous-total raccords & consommables| | | 25,69 €| 
 
 ---
 
-# 💰 Synthèse du budget
+🛒 TOTAL DES COURSES
 
-| Groupe | Montant indicatif |
-|---|---:|
-| Arrivée d'eau | ~64,74 € |
-| Distribution principale | ~324,73 € |
-| Réseau des 12 parcelles | ~84,60 € |
-| Raccords & consommables | ~19,48 € |
-| **TOTAL ESTIMATIF** | **~493,55 €** |
-
-> **Budget à prévoir : ~500 €**
+44,25 € + 374,94 € + 145,08 € + 25,69 € ~ 590 €
 
 ---
 
