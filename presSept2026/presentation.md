@@ -101,12 +101,17 @@ Quel diamètre ? Combien de départs ?
 Quelle profondeur ? 
 
 ---
-Plan du jardin
 
-<div  align:center;"><a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg"><img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg" style="width:500px; ; object-fit:contain;"></a>
+# Plan du jardin
+
+<div style="text-align: center;">
+  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg">
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg"
+         style="width: 500px; object-fit: contain;">
+  </a>
+</div>
 
 ---
-
 💧 Réseau d'arrosage — schéma final
 
                          🚰 ARRIVÉE D'EAU
