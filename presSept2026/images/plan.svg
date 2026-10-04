@@ -116,43 +116,47 @@
 
 <!-- NOMS DES QUARTIERS -->
 
-<!-- Q1 -->
-<text x="1050" y="350"
+<!-- NOMS DES QUARTIERS -->
+
+<!-- NOMS DES QUARTIERS -->
+
+<!-- NORD -->
+<text x="690" y="70"
       font-family="Arial"
       font-size="32"
       font-weight="bold"
-      fill="#555555"
+      fill="#FF8C00"
       text-anchor="middle">
-  Q1 — Nord-Est
+  NORD
 </text>
 
-<!-- Q2 -->
-<text x="1050" y="1050"
+<!-- EST -->
+<text x="1310" y="705"
       font-family="Arial"
       font-size="32"
       font-weight="bold"
-      fill="#555555"
+      fill="#FF8C00"
       text-anchor="middle">
-  Q2 — Sud-Est
+  EST
 </text>
 
-<!-- Q3 -->
-<text x="350" y="1050"
+<!-- SUD -->
+<text x="690" y="1310"
       font-family="Arial"
       font-size="32"
       font-weight="bold"
-      fill="#555555"
+      fill="#FF8C00"
       text-anchor="middle">
-  Q3 — Sud-Ouest
+  SUD
 </text>
 
-<!-- Q4 -->
-<text x="350" y="350"
+<!-- OUEST -->
+<text x="70" y="705"
       font-family="Arial"
       font-size="32"
       font-weight="bold"
-      fill="#555555"
+      fill="#FF8C00"
       text-anchor="middle">
-  Q4 — Nord-Ouest
+  OUEST
 </text>
 </svg>
