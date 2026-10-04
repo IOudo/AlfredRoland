@@ -32,13 +32,13 @@ h1 {
 
 ## Vue générale
 
-![width:100%](plan.png)
+![width:100%](https://ioudo.github.io/AlfredRoland/images/plan.svg)
 
 ---
 
 # Étape 1 — Arrivée d'eau
 
-![width:100%](etape1.png)
+![width:100%](https://ioudo.github.io/AlfredRoland/images/etape1.svg)
 
 <div class="caption">
 Arrivée PE25 → vanne générale
@@ -48,7 +48,7 @@ Arrivée PE25 → vanne générale
 
 # Étape 2 — Distribution des quartiers
 
-![width:100%](etape2.png)
+![width:100%](https://ioudo.github.io/AlfredRoland/images/etape2.svg)
 
 <div class="caption">
 Vanne générale → 4 départs PE25 vers les quartiers
@@ -58,7 +58,7 @@ Vanne générale → 4 départs PE25 vers les quartiers
 
 # Étape 3 — Distribution des parcelles
 
-![width:100%](etape3.png)
+![width:100%](https://ioudo.github.io/AlfredRoland/images/etape3.svg)
 
 <div class="caption">
 Départs PE25 → vannes des parcelles
@@ -68,15 +68,39 @@ Départs PE25 → vannes des parcelles
 
 # 🧾 Devis & liste des fournitures
 
-Le détail des fournitures, quantités et prix est disponible dans le devis.
+<div style="
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  height:520px;
+  text-align:center;
+">
 
-<br>
+<div style="font-size:70px;">🛒</div>
 
-<div style="text-align:center; margin-top:120px;">
+<h2 style="font-size:34px; color:#174a2b;">
+Liste des fournitures et devis
+</h2>
+
+<p style="font-size:22px; color:#555;">
+Retrouver le détail des composants, quantités,<br>
+références et estimations de prix.
+</p>
 
 <a href="https://docs.google.com/spreadsheets/d/1IG6-NwMydbvbAU9pFtlKcpi_Dn63J-0s70rrTP_EaZY/edit?usp=sharing"
-   style="font-size:1.4em; padding:15px 30px; border:2px solid #333; border-radius:8px; text-decoration:none;">
-Ouvrir le devis →
+   style="
+     display:inline-block;
+     margin-top:25px;
+     padding:16px 32px;
+     background:#174a2b;
+     color:white;
+     text-decoration:none;
+     border-radius:10px;
+     font-size:22px;
+     font-weight:bold;
+   ">
+   Ouvrir le devis →
 </a>
 
 </div>
