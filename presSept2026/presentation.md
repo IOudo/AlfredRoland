@@ -37,32 +37,33 @@ h1 {
 ---
 
 # Étape 1 — Arrivée d'eau
+<div class="caption">
+Arrivée PE25 → vanne générale - Robinet
+</div>
 
 ![width:500px](https://ioudo.github.io/AlfredRoland/images/etape1.svg)
 
-<div class="caption">
-Arrivée PE25 → vanne générale
-</div>
 
 ---
 
 # Étape 2 — Distribution des quartiers
-
-![width:500px](https://ioudo.github.io/AlfredRoland/images/etape2.svg)
-
 <div class="caption">
 Vanne générale → 4 départs PE25 vers les quartiers
 </div>
 
+![width:500px](https://ioudo.github.io/AlfredRoland/images/etape2.svg)
+
+
 ---
 
 # Étape 3 — Distribution des parcelles
+<div class="caption">
+Départs PE25 → vannes des parcelles * 4
+</div>
+
 
 ![width:500px](https://ioudo.github.io/AlfredRoland/images/etape3.svg)
 
-<div class="caption">
-Départs PE25 → vannes des parcelles
-</div>
 
 ---
 
