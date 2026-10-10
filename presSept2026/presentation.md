@@ -147,7 +147,7 @@ Arrivée PE25 → vanne générale - Robinet
 </div>
 
 <div style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg">
+  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/etape1.svg">
     <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/etape1.svg"
          style="width: 500px; object-fit: contain;">
   </a>
@@ -162,7 +162,7 @@ Vanne générale → 4 départs PE25 vers les quartiers
 </div>
 
 <div style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg">
+  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/etape2.svg">
     <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/etape2.svg"
          style="width: 500px; object-fit: contain;">
   </a>
@@ -178,7 +178,7 @@ Départs PE25 → vannes des parcelles
 
 
 <div style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg">
+  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/etape3.svg">
     <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/etape3.svg"
          style="width: 500px; object-fit: contain;">
   </a>
@@ -191,7 +191,7 @@ Départs PE25 → vannes des parcelles
 
 
 <div style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg">
+  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/piquettage1.svg">
     <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/piquettage1.svg"
          style="width: 500px; object-fit: contain;">
   </a>

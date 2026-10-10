@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1389 1384"
+   data-guides="{&quot;vertical&quot;:[],&quot;horizontal&quot;:[]}"
+   version="1.1"
+   id="svg1076"
+   sodipodi:docname="piquettage-reseau.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1078"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.4132948"
+     inkscape:cx="473.02797"
+     inkscape:cy="614.57342"
+     inkscape:window-width="1400"
+     inkscape:window-height="775"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <title
+     id="title919">Plan du terrain et réseau d'arrosage</title>
+  <desc
+     id="desc921">Terrain organisé en douze parcelles et quatre quartiers, avec réseau d'arrosage par étapes.</desc>
+  <defs
+     id="defs925">
+    <style
+       id="style923">
+      .terrain {
+        fill: none;
+        stroke: #000000;
+        stroke-width: 1;
+      }
+
+      .pe25 {
+        fill: none;
+        stroke: #0066CC;
+        stroke-width: 16;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .pe25-principal {
+        fill: none;
+        stroke: #0066CC;
+        stroke-width: 25;
+        stroke-linecap: round;
+      }
+
+      .vanne {
+        fill: none;
+        stroke: #CC0000;
+        stroke-width: 3;
+      }
+
+      .collecteur {
+        fill: none;
+        stroke: #8B0000;
+        stroke-width: 3;
+      }
+
+      .robinet {
+        fill: none;
+        stroke: #008000;
+        stroke-width: 3;
+        stroke-linejoin: round;
+      }
+
+      .label-vanne {
+        font-family: Arial, sans-serif;
+        font-size: 24px;
+        fill: #008000;
+      }
+
+      .label-collecteur {
+        font-family: Arial, sans-serif;
+        font-size: 22px;
+        fill: #CC0000;
+      }
+
+      .label-eau {
+        font-family: Arial, sans-serif;
+        font-size: 24px;
+        font-weight: bold;
+        fill: #0066CC;
+      }
+
+      .quartier {
+        font-family: Arial, sans-serif;
+        font-size: 32px;
+        font-weight: bold;
+        fill: #FF8C00;
+      }
+
+      .label-parcelle {
+        font-family: Arial, sans-serif;
+        font-size: 30px;
+        font-weight: bold;
+        fill: #000000;
+        text-anchor: middle;
+      }
+    </style>
+  </defs>
+  <g
+     id="piquetage"
+     inkscape:label="Piquetage"
+     inkscape:groupmode="layer">
+    <g
+       inkscape:groupmode="layer"
+       id="layer1"
+       inkscape:label="02 - Arrosage"
+       style="display:inline" />
+    <g
+       id="points-remarquables"
+       inkscape:label="01 - Points remarquables"
+       inkscape:groupmode="layer"
+       style="display:inline">
+      <!-- Axes de piquetage : origine au centre -->
+      <g
+         id="axes-piquetage"
+         inkscape:label="Axes Nord-Sud / Est-Ouest"
+         fill="none"
+         stroke="#7b61a8"
+         stroke-width="1.5"
+         stroke-dasharray="10, 5"
+         style="display:inline">
+        <path
+           id="axe-nord-sud"
+           d="M 698,2 V 1382" />
+        <path
+           id="axe-est-ouest"
+           d="M 8,692 H 1388" />
+      </g>
+      <!-- ====================================================== -->
+      <!-- COTES D'IMPLANTATION DU RESEAU D'ARROSAGE              -->
+      <!-- Référence : centre géométrique du viewBox              -->
+      <!-- Unités : unités SVG, conversion terrain à calibrer     -->
+      <!-- ====================================================== -->
+      <g
+         id="cotes-reseau-arrosage"
+         inkscape:label="Cotes — Réseau d'arrosage"
+         font-family="Arial, sans-serif"
+         font-size="16px"
+         fill="#333333"
+         stroke-linecap="round"
+         style="display:inline">
+        <!-- Centre géométrique du plan -->
+        <g
+           id="origine-cotes"
+           inkscape:label="Origine des cotes">
+          <circle
+             cx="694.5"
+             cy="692"
+             r="7"
+             fill="#1565c0"
+             stroke="#ffffff"
+             stroke-width="2"
+             id="circle1601" />
+          <line
+             x1="674.5"
+             y1="692"
+             x2="714.5"
+             y2="692"
+             stroke="#1565c0"
+             stroke-width="2"
+             id="line1603" />
+          <line
+             x1="694.5"
+             y1="672"
+             x2="694.5"
+             y2="712"
+             stroke="#1565c0"
+             stroke-width="2"
+             id="line1605" />
+          <text
+             x="710"
+             y="720"
+             fill="#1565c0"
+             stroke="none"
+             font-weight="bold"
+             id="text1607">O — Centre du plan</text>
+        </g>
+        <!-- Vanne générale : (850, 850) -->
+        <g
+           id="cotes-vanne-generale"
+           inkscape:label="Cotes — Vanne générale">
+          <path
+             d="M 694.5,692 H 850 v 158"
+             fill="none"
+             stroke="#d32f2f"
+             stroke-width="1.5"
+             stroke-dasharray="6, 4"
+             id="path1610" />
+          <circle
+             cx="850"
+             cy="850"
+             r="5"
+             fill="#d32f2f"
+             stroke="none"
+             id="circle1612" />
+          <text
+             x="755"
+             y="680"
+             fill="#d32f2f"
+             stroke="none"
+             id="text1614">E +155,5</text>
+          <text
+             x="858"
+             y="775"
+             fill="#d32f2f"
+             stroke="none"
+             id="text1616">S 158</text>
+          <text
+             x="865"
+             y="865"
+             fill="#d32f2f"
+             stroke="none"
+             font-weight="bold"
+             id="text1618">Vanne générale</text>
+        </g>
+        <!-- Collecteur AQ1 : (698, 511.19) -->
+        <g
+           id="cotes-collecteur-aq1"
+           inkscape:label="Cotes — Collecteur AQ1">
+          <path
+             d="M 694.5,692 H 698 V 511.19"
+             fill="none"
+             stroke="#00897b"
+             stroke-width="1.5"
+             stroke-dasharray="6, 4"
+             id="path1621" />
+          <circle
+             cx="698"
+             cy="511.19"
+             r="5"
+             fill="#00897b"
+             stroke="none"
+             id="circle1623" />
+          <text
+             x="710"
+             y="610"
+             fill="#00897b"
+             stroke="none"
+             id="text1625">N 180,81</text>
+          <text
+             x="708"
+             y="495"
+             fill="#00897b"
+             stroke="none"
+             font-weight="bold"
+             id="text1627">AQ1</text>
+        </g>
+        <!-- Vanne P1 : centre géométrique du symbole -->
+        <g
+           id="cotes-vanne-p1"
+           inkscape:label="Cotes — Vanne P1">
+          <path
+             d="M 694.5,692 H 516.5864 V 396.5"
+             fill="none"
+             stroke="#7b1fa2"
+             stroke-width="1.5"
+             stroke-dasharray="6, 4"
+             id="path1630" />
+          <circle
+             cx="516.58643"
+             cy="396.5"
+             r="5"
+             fill="#7b1fa2"
+             stroke="none"
+             id="circle1632" />
+          <text
+             x="535"
+             y="715"
+             fill="#7b1fa2"
+             stroke="none"
+             id="text1634">O 177,91</text>
+          <text
+             x="525"
+             y="570"
+             fill="#7b1fa2"
+             stroke="none"
+             id="text1636">N 295,5</text>
+          <text
+             x="445"
+             y="382"
+             fill="#7b1fa2"
+             stroke="none"
+             font-weight="bold"
+             id="text1638">Vanne P1</text>
+        </g>
+        <!-- Vanne P2 : centre géométrique du symbole -->
+        <g
+           id="cotes-vanne-p2"
+           inkscape:label="Cotes — Vanne P2">
+          <path
+             d="m 694.5,692 h 10.0864 V 357.125"
+             fill="none"
+             stroke="#ef6c00"
+             stroke-width="1.5"
+             stroke-dasharray="6, 4"
+             id="path1641" />
+          <circle
+             cx="704.58643"
+             cy="357.125"
+             r="5"
+             fill="#ef6c00"
+             stroke="none"
+             id="circle1643" />
+          <text
+             x="710"
+             y="675"
+             fill="#ef6c00"
+             stroke="none"
+             id="text1645">E 10,09</text>
+          <text
+             x="716"
+             y="450"
+             fill="#ef6c00"
+             stroke="none"
+             id="text1647">N 334,88</text>
+          <text
+             x="715"
+             y="345"
+             fill="#ef6c00"
+             stroke="none"
+             font-weight="bold"
+             id="text1649">Vanne P2</text>
+        </g>
+        <!-- Vanne P3 : centre géométrique du symbole -->
+        <g
+           id="cotes-vanne-p3"
+           inkscape:label="Cotes — Vanne P3">
+          <path
+             d="M 694.5,692 H 873.9199 V 396.5"
+             fill="none"
+             stroke="#1565c0"
+             stroke-width="1.5"
+             stroke-dasharray="6, 4"
+             id="path1652" />
+          <circle
+             cx="873.91992"
+             cy="396.5"
+             r="5"
+             fill="#1565c0"
+             stroke="none"
+             id="circle1654" />
+          <text
+             x="755"
+             y="715"
+             fill="#1565c0"
+             stroke="none"
+             id="text1656">E 179,42</text>
+          <text
+             x="884"
+             y="570"
+             fill="#1565c0"
+             stroke="none"
+             id="text1658">N 295,5</text>
+          <text
+             x="885"
+             y="382"
+             fill="#1565c0"
+             stroke="none"
+             font-weight="bold"
+             id="text1660">Vanne P3</text>
+        </g>
+        <!-- Point d'arrivée d'eau : (1340, 1340) -->
+        <g
+           id="cotes-arrivee-eau"
+           inkscape:label="Cotes — Arrivée d'eau">
+          <path
+             d="M 694.5,692 H 1340 v 648"
+             fill="none"
+             stroke="#616161"
+             stroke-width="1.5"
+             stroke-dasharray="6, 4"
+             id="path1663" />
+          <circle
+             cx="1340"
+             cy="1340"
+             r="5"
+             fill="#616161"
+             stroke="none"
+             id="circle1665" />
+          <text
+             x="1050"
+             y="680"
+             fill="#616161"
+             stroke="none"
+             id="text1667">E 645,5</text>
+          <text
+             x="1348"
+             y="1100"
+             fill="#616161"
+             stroke="none"
+             id="text1669">S 648</text>
+          <text
+             x="1110"
+             y="1370"
+             fill="#616161"
+             stroke="none"
+             font-weight="bold"
+             id="text1671">Arrivée d'eau</text>
+        </g>
+      </g>
+      <!-- Points remarquables -->
+      <g
+         id="points-cardinaux"
+         inkscape:label="Points cardinaux"
+         stroke="#d32f2f"
+         stroke-width="2"
+         fill="#ffffff"
+         style="display:inline">
+        <!-- Centre de référence -->
+        <circle
+           id="point-O"
+           cx="698"
+           cy="692"
+           r="7"
+           fill="#d32f2f" />
+        <!-- Nord -->
+        <circle
+           id="point-N"
+           cx="698"
+           cy="2"
+           r="5" />
+        <!-- Est -->
+        <circle
+           id="point-E"
+           cx="1388"
+           cy="692"
+           r="5" />
+        <!-- Sud -->
+        <circle
+           id="point-S"
+           cx="698"
+           cy="1382"
+           r="5" />
+        <!-- Ouest -->
+        <circle
+           id="point-W"
+           cx="8"
+           cy="692"
+           r="5" />
+      </g>
+      <!-- Étiquettes des points -->
+      <g
+         id="etiquettes-piquetage"
+         inkscape:label="Étiquettes"
+         font-family="sans-serif"
+         font-size="22px"
+         font-weight="bold"
+         fill="#d32f2f"
+         stroke="none"
+         style="display:none">
+        <text
+           x="712"
+           y="675"
+           id="text936">O — Origine</text>
+        <text
+           x="712"
+           y="32"
+           id="text938">N — Nord</text>
+        <text
+           x="1350"
+           y="670"
+           text-anchor="end"
+           id="text940">E — Est</text>
+        <text
+           x="712"
+           y="1360"
+           id="text942">S — Sud</text>
+        <text
+           x="28"
+           y="675"
+           id="text944">W — Ouest</text>
+      </g>
+      <!-- Cotes depuis le centre : 6,90 m par demi-axe -->
+      <g
+         id="cotes-piquetage"
+         inkscape:label="Cotes depuis le centre"
+         fill="#1565c0"
+         stroke="#1565c0"
+         stroke-width="1.5"
+         font-family="sans-serif"
+         font-size="20px"
+         style="display:none">
+        <!-- Nord : ligne de cote décalée à gauche de l'axe -->
+        <g
+           id="cote-nord">
+          <path
+             d="M 650,2 V 692 M 640,2 h 20 m -20,690 h 20"
+             fill="none"
+             id="path947" />
+          <text
+             x="638"
+             y="347"
+             text-anchor="middle"
+             transform="rotate(-90,638,347)"
+             stroke="none"
+             id="text949">6,90 m</text>
+        </g>
+        <!-- Sud : ligne de cote décalée à droite de l'axe -->
+        <g
+           id="cote-sud">
+          <path
+             d="m 670,692 v 690 M 660,692 h 20 m -20,690 h 20"
+             fill="none"
+             id="path952" />
+          <text
+             x="688"
+             y="1037"
+             text-anchor="middle"
+             transform="rotate(-90,688,1037)"
+             stroke="none"
+             id="text954">6,90 m</text>
+        </g>
+        <!-- Ouest : ligne de cote décalée au-dessus de l'axe -->
+        <g
+           id="cote-ouest">
+          <path
+             d="M 8,650 H 698 M 8,640 v 20 m 690,-20 v 20"
+             fill="none"
+             id="path957" />
+          <text
+             x="353"
+             y="642"
+             text-anchor="middle"
+             stroke="none"
+             id="text959">6,90 m</text>
+        </g>
+        <!-- Est : ligne de cote décalée sous l'axe -->
+        <g
+           id="cote-est">
+          <path
+             d="m 698,730 h 690 M 698,720 v 20 m 690,-20 v 20"
+             fill="none"
+             id="path962" />
+          <text
+             x="1043"
+             y="722"
+             text-anchor="middle"
+             stroke="none"
+             id="text964">6,90 m</text>
+        </g>
+      </g>
+    </g>
+    <!-- Parcelle P2 : piquetage du rectangle -->
+    <g
+       id="piquetage-P2"
+       inkscape:label="P2 - Rectangle et 4 piquets"
+       style="display:none">
+      <!-- Les quatre côtés du rectangle : rouge épais -->
+      <path
+         id="contour-piquetage-P2"
+         inkscape:label="Contour P2"
+         d="m 618.4674,2.8508 h 150 v 349.9999 h -150 z"
+         fill="none"
+         stroke="#ff0000"
+         stroke-width="4"
+         stroke-linejoin="round" />
+      <!-- Lignes de report depuis le centre O -->
+      <g
+         id="reports-centre-P2"
+         inkscape:label="Reports depuis O"
+         fill="none"
+         stroke="#1565c0"
+         stroke-width="1.5"
+         stroke-dasharray="6, 4">
+        <path
+           d="M 698,692 618.4674,2.8508"
+           id="path970" />
+        <path
+           d="M 698,692 768.4674,2.8508"
+           id="path972" />
+        <path
+           d="M 698,692 768.4674,352.8507"
+           id="path974" />
+        <path
+           d="M 698,692 618.4674,352.8507"
+           id="path976" />
+      </g>
+      <!-- Quatre gros points rouges matérialisant les piquets -->
+      <g
+         id="piquets-P2"
+         inkscape:label="Piquets P2"
+         fill="#ff0000"
+         stroke="#ffffff"
+         stroke-width="2">
+        <circle
+           id="P2-A"
+           cx="618.46741"
+           cy="2.8508"
+           r="8" />
+        <circle
+           id="P2-B"
+           cx="768.46741"
+           cy="2.8508"
+           r="8" />
+        <circle
+           id="P2-C"
+           cx="768.46741"
+           cy="352.85071"
+           r="8" />
+        <circle
+           id="P2-D"
+           cx="618.46741"
+           cy="352.85071"
+           r="8" />
+      </g>
+      <!-- Identification des piquets -->
+      <g
+         id="labels-piquets-P2"
+         inkscape:label="Noms des piquets"
+         font-family="sans-serif"
+         font-size="18px"
+         font-weight="bold"
+         fill="#ff0000"
+         stroke="none">
+        <text
+           x="606"
+           y="25"
+           text-anchor="end"
+           id="text984">P2-A</text>
+        <text
+           x="781"
+           y="25"
+           id="text986">P2-B</text>
+        <text
+           x="781"
+           y="348"
+           id="text988">P2-C</text>
+        <text
+           x="606"
+           y="348"
+           text-anchor="end"
+           id="text990">P2-D</text>
+      </g>
+      <!-- Cotes de position par rapport au centre -->
+      <g
+         id="coordonnees-P2"
+         inkscape:label="Coordonnées depuis O"
+         font-family="sans-serif"
+         font-size="15px"
+         fill="#1565c0"
+         stroke="none">
+        <text
+           x="600"
+           y="48"
+           text-anchor="end"
+           id="text993">X = -0,80 m ; Y = +6,89 m</text>
+        <text
+           x="785"
+           y="48"
+           id="text995">X = +0,70 m ; Y = +6,89 m</text>
+        <text
+           x="785"
+           y="375"
+           id="text997">X = +0,70 m ; Y = +3,39 m</text>
+        <text
+           x="600"
+           y="375"
+           text-anchor="end"
+           id="text999">X = -0,80 m ; Y = +3,39 m</text>
+      </g>
+    </g>
+  </g>
+  <!-- ====================================================== -->
+  <!-- TERRAIN                                                -->
+  <!-- ====================================================== -->
+  <g
+     id="terrain"
+     inkscape:label="Terrain"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <!-- LIMITES GENERALES -->
+    <g
+       id="limites-generales"
+       inkscape:label="Limites générales">
+      <path
+         class="terrain"
+         id="limite-terrain-circulaire"
+         inkscape:label="Contour extérieur circulaire"
+         d="m 698,2 c 381.0765,0 690,308.9235 690,690 0,381.0765 -308.9235,690 -690,690 C 316.9235,1382 8,1073.0765 8,692 8,310.9235 316.9235,2 698,2 Z" />
+      <path
+         class="terrain"
+         id="limite-terrain-carree"
+         inkscape:label="Contour extérieur carré"
+         d="m 8,2 c 460,0 920,0 1380,0 0,460 0,920 0,1380 -460,0 -920,0 -1380,0 C 8,922 8,462 8,2 Z" />
+    </g>
+    <!-- LIMITES DES QUARTIERS -->
+    <g
+       id="limites-quartiers"
+       inkscape:label="Limites des quartiers">
+      <line
+         class="terrain"
+         id="limite-quartier-sud-est"
+         inkscape:label="Séparation Sud-Est"
+         x1="698"
+         y1="692"
+         x2="1388"
+         y2="1382" />
+      <line
+         class="terrain"
+         id="limite-quartier-sud-ouest"
+         inkscape:label="Séparation Sud-Ouest"
+         x1="698"
+         y1="692"
+         x2="1"
+         y2="1383" />
+      <line
+         class="terrain"
+         id="limite-quartier-nord-ouest"
+         inkscape:label="Séparation Nord-Ouest"
+         x1="8"
+         y1="2"
+         x2="698"
+         y2="692" />
+      <line
+         class="terrain"
+         id="limite-quartier-nord-est"
+         inkscape:label="Séparation Nord-Est"
+         x1="1388"
+         y1="2"
+         x2="698"
+         y2="692" />
+    </g>
+    <!-- ================================================== -->
+    <!-- LES 12 PARCELLES                                   -->
+    <!-- ================================================== -->
+    <g
+       id="parcelles"
+       inkscape:label="Parcelles"
+       style="display:none">
+      <path
+         class="terrain"
+         id="parcelle-P0"
+         inkscape:label="P0 - Nord"
+         data-name="Parcelle P0 - Nord"
+         d="m 620,1 c 50,0 100,0 150,0 0,116.6667 0,233.3333 0,350 -50,0 -100,0 -150,0 0,-116.6667 0,-233.3333 0,-350 z"
+         style="display:inline" />
+      <path
+         class="terrain"
+         id="parcelle-P1"
+         inkscape:label="P1 - Nord-Est"
+         data-name="Parcelle P1 - Nord-Est"
+         d="m 975.5481,54.9456 c 43.3013,25 86.6025,50 129.9038,75 -58.3333,101.0363 -116.6667,202.0725 -175,303.1088 -43.3013,-25 -86.6025,-50 -129.9038,-75 58.3333,-101.0363 116.6667,-202.0725 175,-303.1088 z"
+         style="display:inline" />
+      <path
+         class="terrain"
+         id="parcelle-P2"
+         inkscape:label="P2 - Est-Nord"
+         data-name="Parcelle P2 - Est-Nord"
+         d="m 1255.0544,278.5481 c 25,43.3013 50,86.6025 75,129.9038 -101.0363,58.3333 -202.0725,116.6667 -303.1088,175 -25,-43.3013 -50,-86.6025 -75,-129.9038 101.0363,-58.3333 202.0725,-116.6667 303.1088,-175 z"
+         style="display:none" />
+      <path
+         class="terrain"
+         id="parcelle-P3"
+         inkscape:label="P3 - Est"
+         data-name="Parcelle P3 - Est"
+         d="m 1038,617 c 116.6667,0 233.3333,0 350,0 0,50 0,100 0,150 -116.6667,0 -233.3333,0 -350,0 0,-50 0,-100 0,-150 z"
+         style="display:none" />
+      <path
+         class="terrain"
+         id="parcelle-P4"
+         inkscape:label="P4 - Est-Sud"
+         data-name="Parcelle P4 - Est-Sud"
+         d="m 1334.0544,969.5481 c -25,43.3013 -50,86.6025 -75,129.9038 -101.0363,-58.3333 -202.0725,-116.6667 -303.1088,-175 25,-43.3013 50,-86.6025 75,-129.9038 101.0363,58.3333 202.0725,116.6667 303.1088,175 z"
+         style="display:none" />
+      <path
+         class="terrain"
+         id="parcelle-P5"
+         inkscape:label="P5 - Sud-Est"
+         data-name="Parcelle P5 - Sud-Est"
+         d="m 1110.4519,1250.0544 c -43.3013,25 -86.6025,50 -129.9038,75 -58.3333,-101.0363 -116.6667,-202.0725 -175,-303.1088 43.3013,-25 86.6025,-50 129.9038,-75 58.3333,101.0363 116.6667,202.0725 175,303.1088 z"
+         style="display:none" />
+      <path
+         class="terrain"
+         id="parcelle-P6"
+         inkscape:label="P6 - Sud"
+         data-name="Parcelle P6 - Sud"
+         d="m 620,1032 c 50,0 100,0 150,0 0,116.6667 0,233.3333 0,350 -50,0 -100,0 -150,0 0,-116.6667 0,-233.3333 0,-350 z"
+         style="display:none" />
+      <path
+         class="terrain"
+         id="parcelle-P7"
+         inkscape:label="P7 - Sud-Ouest"
+         data-name="Parcelle P7 - Sud-Ouest"
+         d="m 420.4519,1328.0544 c -43.3013,-25 -86.6025,-50 -129.9038,-75 58.3333,-101.0363 116.6667,-202.0725 175,-303.1088 43.3013,25 86.6025,50 129.9038,75 -58.3333,101.0363 -116.6667,202.0725 -175,303.1088 z"
+         style="display:none" />
+      <path
+         class="terrain"
+         id="parcelle-P8"
+         inkscape:label="P8 - Ouest-Sud"
+         data-name="Parcelle P8 - Ouest-Sud"
+         d="m 138.9456,1104.4519 c -25,-43.3013 -50,-86.6025 -75,-129.9038 101.0363,-58.3333 202.0725,-116.6667 303.1088,-175 25,43.3013 50,86.6025 75,129.9038 -101.0363,58.3333 -202.0725,116.6667 -303.1088,175 z"
+         style="display:none" />
+      <path
+         class="terrain"
+         id="parcelle-P9"
+         inkscape:label="P9 - Ouest"
+         data-name="Parcelle P9 - Ouest"
+         d="m 8,617 c 116.6667,0 233.3333,0 350,0 0,50 0,100 0,150 -116.6667,0 -233.3333,0 -350,0 0,-50 0,-100 0,-150 z"
+         style="display:none" />
+      <path
+         class="terrain"
+         id="parcelle-P10"
+         inkscape:label="P10 - Ouest-Nord"
+         data-name="Parcelle P10 - Ouest-Nord"
+         d="m 60.9456,414.4519 c 25,-43.3013 50,-86.6025 75,-129.9038 101.0363,58.3333 202.0725,116.6667 303.1088,175 -25,43.3013 -50,86.6025 -75,129.9038 -101.0363,-58.3333 -202.0725,-116.6667 -303.1088,-175 z"
+         style="display:none" />
+      <path
+         class="terrain"
+         id="parcelle-P11"
+         inkscape:label="P11 - Nord-Ouest"
+         data-name="Parcelle P11 - Nord-Ouest"
+         d="m 284.5481,132.9456 c 43.3013,-25 86.6025,-50 129.9038,-75 58.3333,101.0363 116.6667,202.0725 175,303.1088 -43.3013,25 -86.6025,50 -129.9038,75 -58.3333,-101.0363 -116.6667,-202.0725 -175,-303.1088 z" />
+    </g>
+    <!-- ETIQUETTES DES PARCELLES -->
+    <g
+       id="labels-parcelles"
+       inkscape:label="Étiquettes des parcelles"
+       class="label-parcelle">
+      <text
+         id="label-parcelle-P0"
+         inkscape:label="Étiquette P0"
+         x="695"
+         y="192"
+         style="display:none">P0</text>
+      <text
+         id="label-parcelle-P1"
+         inkscape:label="Étiquette P1"
+         x="950"
+         y="250"
+         style="display:none">P1</text>
+      <text
+         id="label-parcelle-P2"
+         inkscape:label="Étiquette P2"
+         x="1120"
+         y="430"
+         style="display:none">P2</text>
+      <text
+         id="label-parcelle-P3"
+         inkscape:label="Étiquette P3"
+         x="1210"
+         y="710"
+         style="display:none">P3</text>
+      <text
+         id="label-parcelle-P4"
+         inkscape:label="Étiquette P4"
+         x="1130"
+         y="920"
+         style="display:none">P4</text>
+      <text
+         id="label-parcelle-P5"
+         inkscape:label="Étiquette P5"
+         x="950"
+         y="1130"
+         style="display:none">P5</text>
+      <text
+         id="label-parcelle-P6"
+         inkscape:label="Étiquette P6"
+         x="695"
+         y="1220"
+         style="display:none">P6</text>
+      <text
+         id="label-parcelle-P7"
+         inkscape:label="Étiquette P7"
+         x="445"
+         y="1130"
+         style="display:none">P7</text>
+      <text
+         id="label-parcelle-P8"
+         inkscape:label="Étiquette P8"
+         x="250"
+         y="920"
+         style="display:none">P8</text>
+      <text
+         id="label-parcelle-P9"
+         inkscape:label="Étiquette P9"
+         x="180"
+         y="710"
+         style="display:none">P9</text>
+      <text
+         id="label-parcelle-P10"
+         inkscape:label="Étiquette P10"
+         x="250"
+         y="430"
+         style="display:none">P10</text>
+      <text
+         id="label-parcelle-P11"
+         inkscape:label="Étiquette P11"
+         x="445"
+         y="250"
+         style="display:none">P11</text>
+    </g>
+    <!-- ZONE CENTRALE -->
+    <g
+       id="zone-centrale"
+       inkscape:label="Zone centrale">
+      <path
+         class="terrain"
+         id="limite-cercle-central"
+         inkscape:label="Contour du cercle central"
+         d="m 698,592 c 55.2285,0 100,44.7715 100,100 0,55.2285 -44.7715,100 -100,100 -55.2285,0 -100,-44.7715 -100,-100 0,-55.2285 44.7715,-100 100,-100 z" />
+    </g>
+    <!-- ORIENTATIONS -->
+    <g
+       id="orientations"
+       inkscape:label="Points cardinaux"
+       class="quartier">
+      <text
+         id="orientation-nord"
+         inkscape:label="Nord"
+         x="690"
+         y="70"
+         text-anchor="middle">NORD</text>
+      <text
+         id="orientation-est"
+         inkscape:label="Est"
+         x="1310"
+         y="705"
+         text-anchor="middle">EST</text>
+      <text
+         id="orientation-sud"
+         inkscape:label="Sud"
+         x="690"
+         y="1310"
+         text-anchor="middle">SUD</text>
+      <text
+         id="orientation-ouest"
+         inkscape:label="Ouest"
+         x="70"
+         y="705"
+         text-anchor="middle">OUEST</text>
+    </g>
+  </g>
+  <!-- ====================================================== -->
+  <!-- RESEAU D'ARROSAGE                                      -->
+  <!-- ====================================================== -->
+  <g
+     id="reseau-arrosage"
+     inkscape:label="Réseau d'arrosage"
+     style="display:none">
+    <!-- ETAPE 1 -->
+    <g
+       id="etape-1"
+       inkscape:label="Étape 1 - Arrivée d'eau"
+       data-etape="1"
+       data-description="Arrivée PE25 et vanne générale"
+       style="display:inline">
+      <line
+         class="pe25-principal"
+         id="pe25-arrivee"
+         inkscape:label="Conduite principale PE25"
+         x1="1346"
+         y1="1340"
+         x2="860"
+         y2="852"
+         style="display:none" />
+      <circle
+         class="vanne"
+         id="point-entree-eau"
+         inkscape:label="Point d'entrée d'eau"
+         cx="1340"
+         cy="1340"
+         r="10" />
+      <circle
+         class="vanne"
+         id="vanne-generale"
+         inkscape:label="Vanne générale d'arrêt"
+         cx="850"
+         cy="850"
+         r="13" />
+      <text
+         id="label-arrivee-eau"
+         inkscape:label="Libellé arrivée d'eau"
+         x="1170"
+         y="1325"
+         class="label-eau"
+         text-anchor="middle">Arrivée d'eau PE25</text>
+      <text
+         id="label-vanne-generale"
+         inkscape:label="Libellé vanne générale"
+         x="870"
+         y="845"
+         font-family="Arial, sans-serif"
+         font-size="24px"
+         font-weight="bold"
+         fill="#cc0000">Vanne générale</text>
+    </g>
+    <!-- ETAPE 2 -->
+    <g
+       id="etape-2"
+       inkscape:label="Étape 2 - Collecteur AQ1"
+       data-etape="2"
+       data-description="Départ PE25 vers le collecteur AQ1"
+       style="display:inline">
+      <line
+         class="pe25"
+         id="pe25-vers-aq1"
+         inkscape:label="Conduite vers AQ1"
+         x1="850"
+         y1="846"
+         x2="698"
+         y2="511.19"
+         style="display:none" />
+      <circle
+         class="collecteur"
+         id="collecteur-aq1"
+         inkscape:label="Regard et collecteur AQ1"
+         cx="698"
+         cy="511.19"
+         r="16" />
+      <text
+         id="label-collecteur-aq1"
+         inkscape:label="Libellé collecteur AQ1"
+         x="720"
+         y="505"
+         class="label-collecteur">Regard / Collecteur AQ1</text>
+    </g>
+    <!-- ETAPE 3 -->
+    <g
+       id="etape-3"
+       inkscape:label="Étape 3 - Distribution P1 P2 P3"
+       data-etape="3"
+       data-description="Distribution PE25 vers P1, P2 et P3"
+       style="display:inline">
+      <g
+         id="distribution-aq1"
+         inkscape:label="Conduites de distribution AQ1"
+         style="display:none">
+        <line
+           class="pe25"
+           id="pe25-aq1-p1"
+           inkscape:label="Conduite AQ1 vers P1"
+           x1="698"
+           y1="511.19"
+           x2="507"
+           y2="416.75" />
+        <line
+           class="pe25"
+           id="pe25-aq1-p2"
+           inkscape:label="Conduite AQ1 vers P2"
+           x1="698"
+           y1="511.19"
+           x2="691"
+           y2="362" />
+        <line
+           class="pe25"
+           id="pe25-aq1-p3"
+           inkscape:label="Conduite AQ1 vers P3"
+           x1="698"
+           y1="511.19"
+           x2="888"
+           y2="402" />
+      </g>
+      <g
+         id="vannes-parcelles"
+         inkscape:label="Vannes des parcelles">
+        <g
+           id="vanne-groupe-P1"
+           inkscape:label="Vanne P1">
+          <path
+             class="robinet"
+             id="vanne-parcelle-P1"
+             inkscape:label="Symbole vanne P1"
+             d="m 516.5864,356 26.4138,60.75 h -52.8275 z" />
+          <text
+             id="label-vanne-P1"
+             inkscape:label="Libellé vanne P1"
+             x="550"
+             y="405"
+             class="label-vanne">Vanne P1</text>
+        </g>
+        <g
+           id="vanne-groupe-P2"
+           inkscape:label="Vanne P2">
+          <path
+             class="robinet"
+             id="vanne-parcelle-P2"
+             inkscape:label="Symbole vanne P2"
+             d="m 704.5864,316.625 26.4138,60.75 h -52.8275 z" />
+          <text
+             id="label-vanne-P2"
+             inkscape:label="Libellé vanne P2"
+             x="735"
+             y="370"
+             class="label-vanne">Vanne P2</text>
+        </g>
+        <g
+           id="vanne-groupe-P3"
+           inkscape:label="Vanne P3">
+          <path
+             class="robinet"
+             id="vanne-parcelle-P3"
+             inkscape:label="Symbole vanne P3"
+             d="m 873.9199,356 26.4138,60.75 h -52.8275 z" />
+          <text
+             id="label-vanne-P3"
+             inkscape:label="Libellé vanne P3"
+             x="905"
+             y="410"
+             class="label-vanne">Vanne P3</text>
+        </g>
+      </g>
+    </g>
+    <!-- ETAPES FUTURES -->
+    <g
+       id="etapes-futures"
+       inkscape:label="Étapes futures"
+       style="display:none">
+      <g
+         id="etape-4"
+         inkscape:label="Étape 4 - Distribution AQ2"
+         data-etape="4"
+         data-description="Distribution AQ2" />
+      <g
+         id="etape-5"
+         inkscape:label="Étape 5 - Distribution AQ3"
+         data-etape="5"
+         data-description="Distribution AQ3" />
+      <g
+         id="etape-6"
+         inkscape:label="Étape 6 - Distribution AQ4"
+         data-etape="6"
+         data-description="Distribution AQ4" />
+    </g>
+  </g>
+  <metadata
+     id="metadata1096">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Plan du terrain et réseau d'arrosage</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
