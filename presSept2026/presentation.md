@@ -127,8 +127,8 @@ Quelle profondeur ?
 # Plan du jardin
 
 <div style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg">
-    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg"
+  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan-main.svg">
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan-main.svg"
          style="width: 500px; object-fit: contain;">
   </a>
 </div>
@@ -184,6 +184,17 @@ Départs PE25 → vannes des parcelles
   </a>
 </div>
 
+---
+
+# Piquettage  - Reseau Eau
+
+
+<div style="text-align: center;">
+  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/piquettage-reseau.svg">
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/piquettage-reseau.svg"
+         style="width: 500px; object-fit: contain;">
+  </a>
+</div>
 
 ---
 
