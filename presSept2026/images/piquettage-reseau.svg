@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.4132948"
-     inkscape:cx="473.02797"
-     inkscape:cy="614.57342"
+     inkscape:zoom="2"
+     inkscape:cx="714"
+     inkscape:cy="359"
      inkscape:window-width="1400"
      inkscape:window-height="775"
      inkscape:window-x="26"
@@ -161,7 +161,8 @@
         <!-- Centre géométrique du plan -->
         <g
            id="origine-cotes"
-           inkscape:label="Origine des cotes">
+           inkscape:label="Origine des cotes"
+           style="display:none">
           <circle
              cx="694.5"
              cy="692"
