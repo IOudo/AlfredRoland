@@ -187,6 +187,20 @@ Départs PE25 → vannes des parcelles
 
 ---
 
+# Piquettage  - Parcelle 0
+
+
+<div style="text-align: center;">
+  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan.svg">
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/piquettage1.svg"
+         style="width: 500px; object-fit: contain;">
+  </a>
+</div>
+
+
+---
+
+
 # 🧾 Devis & liste des fournitures
 
 <div style="
