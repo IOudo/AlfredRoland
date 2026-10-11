@@ -202,6 +202,20 @@ Départs PE25 → vannes des parcelles
 
 
 <div style="text-align: center;">
+  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/piquettage1.svg">
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/piquettage1.svg"
+         style="width: 500px; object-fit: contain;">
+  </a>
+</div>
+
+
+---
+
+---
+
+# Piquettage  - WIP(Work In Progress)
+
+<div style="text-align: center;">
   <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-develop.svg">
     <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-develop.svg"
          style="width: 500px; object-fit: contain;">
@@ -210,6 +224,7 @@ Départs PE25 → vannes des parcelles
 
 
 ---
+
 
 
 # 🧾 Devis & liste des fournitures
