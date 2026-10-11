@@ -211,21 +211,6 @@ Départs PE25 → vannes des parcelles
 
 ---
 
----
-
-# Piquettage  - WIP(Work In Progress)
-
-<div style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-develop.svg">
-    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-develop.svg"
-         style="width: 500px; object-fit: contain;">
-  </a>
-</div>
-
-
----
-
-
 
 # 🧾 Devis & liste des fournitures
 
@@ -263,5 +248,37 @@ références et estimations de prix.
    ">
    Ouvrir le devis →
 </a>
+
+---
+
+# Piquettage  - WIP(Work In Progress)
+
+<div style="text-align: center;">
+  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP0.svg">
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP0.svg"
+         style="width: 500px; object-fit: contain;">
+  </a>
+</div>
+
+
+---
+
+<div style="text-align: center;">
+  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP1.svg">
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP1.svg"
+         style="width: 500px; object-fit: contain;">
+  </a>
+</div>
+
+
+---
+<div style="text-align: center;">
+  <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP2.svg">
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP2.svg"
+         style="width: 500px; object-fit: contain;">
+  </a>
+</div>
+
+
 
 </div>
