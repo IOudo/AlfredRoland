@@ -1,0 +1,1163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?><svg
+   width="1389"
+   height="1384"
+   viewBox="0 0 1389 1384"
+   version="1.1"
+   id="svg1363"
+   sodipodi:docname="plan-main-develop.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1365"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.45086705"
+     inkscape:cx="695.32692"
+     inkscape:cy="692"
+     inkscape:window-width="1536"
+     inkscape:window-height="827"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1363" />
+  <title
+     id="title937">Cotations de piquetage — 11 parcelles</title>
+  <desc
+     id="desc939">
+    Piquets aux quatre sommets de chaque parcelle.
+    Origine O=(698,692). Hypothèse : 100 unités SVG = 1 m.
+    X positif vers l'est, Y positif vers le nord.
+  </desc>
+  <defs
+     id="defs948">
+    <style
+       id="style941">
+      .contour {
+        fill: none;
+        stroke: #e53935;
+        stroke-width: 2;
+        stroke-linejoin: round;
+      }
+      .cote {
+        fill: none;
+        stroke: #1976d2;
+        stroke-width: 1.2;
+        stroke-dasharray: 5 3;
+      }
+      .axe {
+        fill: none;
+        stroke: #777;
+        stroke-width: 1;
+        stroke-dasharray: 3 5;
+      }
+      .piquet {
+        fill: #e53935;
+        stroke: #fff;
+        stroke-width: 1;
+      }
+      .etiquette {
+        font-family: sans-serif;
+        font-size: 12px;
+        fill: #b71c1c;
+        font-weight: bold;
+      }
+      .coord {
+        font-family: sans-serif;
+        font-size: 10px;
+        fill: #1565c0;
+      }
+      .titre {
+        font-family: sans-serif;
+        font-size: 18px;
+        font-weight: bold;
+        fill: #222;
+      }
+      .note {
+        font-family: sans-serif;
+        font-size: 11px;
+        fill: #555;
+      }
+    </style>
+    <g
+       id="piquet">
+      <circle
+         class="piquet"
+         r="4"
+         id="circle943" />
+      <path
+         d="M-7,0 H7 M0,-7 V7"
+         stroke="#e53935"
+         stroke-width="1"
+         id="path945" />
+    </g>
+  </defs>
+  <!-- Référence du plan -->
+  <g
+     id="reference"
+     inkscape:label="Référence"
+     style="display:inline">
+    <path
+       class="axe"
+       d="M 698,0 V 1384 M 0,692 h 1389"
+       id="path950" />
+    <circle
+       cx="698"
+       cy="692"
+       r="5"
+       fill="#222222"
+       id="circle952" />
+    <text
+       x="706"
+       y="684"
+       class="etiquette"
+       id="text954">O (698,692)</text>
+    <text
+       x="708"
+       y="18"
+       class="note"
+       id="text956">Nord (+Y)</text>
+    <text
+       x="1290"
+       y="684"
+       class="note"
+       id="text958">Est (+X)</text>
+    <text
+       x="20"
+       y="25"
+       class="titre"
+       id="text960">PIQUETAGE — COTATIONS DES PARCELLES</text>
+    <text
+       x="20"
+       y="44"
+       class="note"
+       id="text962">Coordonnées locales : X=(x−698)/100 ; Y=(692−y)/100</text>
+    <text
+       x="20"
+       y="60"
+       class="note"
+       id="text964">Attention : échelle indicative à vérifier avant piquetage réel.</text>
+  </g>
+  <!-- P0 -->
+  <g
+     id="cotes-P0"
+     inkscape:label="P0 — Cotations">
+    <path
+       class="contour"
+       d="M620,1 H770 V351 H620 Z"
+       id="path967" />
+    <path
+       class="cote"
+       d="M695,176 L620,1 M695,176 L770,1                           M695,176 L770,351 M695,176 L620,351"
+       id="path969" />
+    <circle
+       cx="695"
+       cy="176"
+       r="3"
+       fill="#1976d2"
+       id="circle971" />
+    <use
+       href="#piquet"
+       x="620"
+       y="1"
+       id="use973" />
+    <use
+       href="#piquet"
+       x="770"
+       y="1"
+       id="use975" />
+    <use
+       href="#piquet"
+       x="770"
+       y="351"
+       id="use977" />
+    <use
+       href="#piquet"
+       x="620"
+       y="351"
+       id="use979" />
+    <text
+       class="etiquette"
+       x="610"
+       y="-7"
+       id="text981">A</text>
+    <text
+       class="etiquette"
+       x="775"
+       y="-7"
+       id="text983">B</text>
+    <text
+       class="etiquette"
+       x="775"
+       y="367"
+       id="text985">C</text>
+    <text
+       class="etiquette"
+       x="605"
+       y="367"
+       id="text987">D</text>
+    <text
+       class="coord"
+       x="570"
+       y="85"
+       id="text989">A X=-0,78 Y=6,91</text>
+    <text
+       class="coord"
+       x="775"
+       y="85"
+       id="text991">B X=0,72 Y=6,91</text>
+    <text
+       class="coord"
+       x="775"
+       y="285"
+       id="text993">C X=0,72 Y=3,41</text>
+    <text
+       class="coord"
+       x="495"
+       y="285"
+       id="text995">D X=-0,78 Y=3,41</text>
+    <text
+       class="etiquette"
+       x="674"
+       y="170"
+       id="text997">P0</text>
+  </g>
+  <!-- P1 -->
+  <g
+     id="cotes-P1"
+     inkscape:label="P1 — Cotations">
+    <path
+       class="contour"
+       d="M975.5481,54.9456 L1105.4519,129.9456       L930.4519,433.0544 L800.5481,358.0544 Z"
+       id="path1000" />
+    <path
+       class="cote"
+       d="M950,244 L975.5481,54.9456       M950,244 L1105.4519,129.9456       M950,244 L930.4519,433.0544       M950,244 L800.5481,358.0544"
+       id="path1002" />
+    <circle
+       cx="950"
+       cy="244"
+       r="3"
+       fill="#1976d2"
+       id="circle1004" />
+    <use
+       href="#piquet"
+       x="975.5481"
+       y="54.9456"
+       id="use1006" />
+    <use
+       href="#piquet"
+       x="1105.4519"
+       y="129.9456"
+       id="use1008" />
+    <use
+       href="#piquet"
+       x="930.4519"
+       y="433.0544"
+       id="use1010" />
+    <use
+       href="#piquet"
+       x="800.5481"
+       y="358.0544"
+       id="use1012" />
+    <text
+       class="etiquette"
+       x="963"
+       y="48"
+       id="text1014">A</text>
+    <text
+       class="etiquette"
+       x="1110"
+       y="126"
+       id="text1016">B</text>
+    <text
+       class="etiquette"
+       x="935"
+       y="450"
+       id="text1018">C</text>
+    <text
+       class="etiquette"
+       x="780"
+       y="372"
+       id="text1020">D</text>
+    <text
+       class="coord"
+       x="980"
+       y="43"
+       id="text1022">A X=2,78 Y=6,37</text>
+    <text
+       class="coord"
+       x="1110"
+       y="113"
+       id="text1024">B X=4,07 Y=5,62</text>
+    <text
+       class="coord"
+       x="935"
+       y="465"
+       id="text1026">C X=2,32 Y=2,59</text>
+    <text
+       class="coord"
+       x="725"
+       y="380"
+       id="text1028">D X=1,03 Y=3,34</text>
+    <text
+       class="etiquette"
+       x="936"
+       y="239"
+       id="text1030">P1</text>
+  </g>
+  <!-- P2 -->
+  <g
+     id="cotes-P2"
+     inkscape:label="P2 — Cotations">
+    <!-- Contour réel de la parcelle -->
+    <path
+       class="contour"
+       d="M1255.0544,278.5481              L1330.0544,408.4519              L1026.9456,583.4519              L951.9456,453.5481 Z"
+       id="path1033" />
+    <!-- Centre et reports de cotation -->
+    <path
+       class="cote"
+       d="M1141,431              L1255.0544,278.5481              M1141,431              L1330.0544,408.4519              M1141,431              L1026.9456,583.4519              M1141,431              L951.9456,453.5481"
+       id="path1035" />
+    <circle
+       cx="1141"
+       cy="431"
+       r="3"
+       fill="#1976d2"
+       id="circle1037" />
+    <!-- Piquets aux sommets -->
+    <use
+       href="#piquet"
+       x="1255.0544"
+       y="278.5481"
+       id="use1039" />
+    <use
+       href="#piquet"
+       x="1330.0544"
+       y="408.4519"
+       id="use1041" />
+    <use
+       href="#piquet"
+       x="1026.9456"
+       y="583.4519"
+       id="use1043" />
+    <use
+       href="#piquet"
+       x="951.9456"
+       y="453.5481"
+       id="use1045" />
+    <!-- Repères -->
+    <text
+       class="etiquette"
+       x="1260"
+       y="273"
+       id="text1047">A</text>
+    <text
+       class="etiquette"
+       x="1335"
+       y="405"
+       id="text1049">B</text>
+    <text
+       class="etiquette"
+       x="1030"
+       y="600"
+       id="text1051">C</text>
+    <text
+       class="etiquette"
+       x="930"
+       y="460"
+       id="text1053">D</text>
+    <!-- Coordonnées depuis O = (698,692) -->
+    <text
+       class="coord"
+       x="1260"
+       y="255"
+       id="text1055">A X=5,57 Y=4,13</text>
+    <text
+       class="coord"
+       x="1190"
+       y="400"
+       id="text1057">B X=6,32 Y=2,84</text>
+    <text
+       class="coord"
+       x="1030"
+       y="615"
+       id="text1059">C X=3,29 Y=1,09</text>
+    <text
+       class="coord"
+       x="800"
+       y="465"
+       id="text1061">D X=2,54 Y=2,38</text>
+    <text
+       class="etiquette"
+       x="1125"
+       y="425"
+       id="text1063">P2</text>
+  </g>
+  <!-- P3 -->
+  <g
+     id="cotes-P3"
+     inkscape:label="P3 — Cotations">
+    <path
+       class="contour"
+       d="M1038,617 H1388 V767 H1038 Z"
+       id="path1066" />
+    <path
+       class="cote"
+       d="M1213,692 L1038,617 M1213,692 L1388,617       M1213,692 L1388,767 M1213,692 L1038,767"
+       id="path1068" />
+    <circle
+       cx="1213"
+       cy="692"
+       r="3"
+       fill="#1976d2"
+       id="circle1070" />
+    <use
+       href="#piquet"
+       x="1038"
+       y="617"
+       id="use1072" />
+    <use
+       href="#piquet"
+       x="1388"
+       y="617"
+       id="use1074" />
+    <use
+       href="#piquet"
+       x="1388"
+       y="767"
+       id="use1076" />
+    <use
+       href="#piquet"
+       x="1038"
+       y="767"
+       id="use1078" />
+    <text
+       class="etiquette"
+       x="1020"
+       y="612"
+       id="text1080">A</text>
+    <text
+       class="etiquette"
+       x="1373"
+       y="612"
+       id="text1082">B</text>
+    <text
+       class="etiquette"
+       x="1373"
+       y="784"
+       id="text1084">C</text>
+    <text
+       class="etiquette"
+       x="1020"
+       y="784"
+       id="text1086">D</text>
+    <text
+       class="coord"
+       x="980"
+       y="600"
+       id="text1088">A X=3,40 Y=0,75</text>
+    <text
+       class="coord"
+       x="1260"
+       y="600"
+       id="text1090">B X=6,90 Y=0,75</text>
+    <text
+       class="coord"
+       x="1260"
+       y="800"
+       id="text1092">C X=6,90 Y=-0,75</text>
+    <text
+       class="coord"
+       x="980"
+       y="800"
+       id="text1094">D X=3,40 Y=-0,75</text>
+    <text
+       class="etiquette"
+       x="1200"
+       y="686"
+       id="text1096">P3</text>
+  </g>
+  <!-- P4 -->
+  <g
+     id="cotes-P4"
+     inkscape:label="P4 — Cotations">
+    <path
+       class="contour"
+       d="M1334.0544,969.5481 L1259.0544,1099.4519       L955.9456,924.4519 L1030.9456,794.5481 Z"
+       id="path1099" />
+    <path
+       class="cote"
+       d="M1145,947 L1334.0544,969.5481       M1145,947 L1259.0544,1099.4519       M1145,947 L955.9456,924.4519       M1145,947 L1030.9456,794.5481"
+       id="path1101" />
+    <circle
+       cx="1145"
+       cy="947"
+       r="3"
+       fill="#1976d2"
+       id="circle1103" />
+    <use
+       href="#piquet"
+       x="1334.0544"
+       y="969.5481"
+       id="use1105" />
+    <use
+       href="#piquet"
+       x="1259.0544"
+       y="1099.4519"
+       id="use1107" />
+    <use
+       href="#piquet"
+       x="955.9456"
+       y="924.4519"
+       id="use1109" />
+    <use
+       href="#piquet"
+       x="1030.9456"
+       y="794.5481"
+       id="use1111" />
+    <text
+       class="etiquette"
+       x="1340"
+       y="966"
+       id="text1113">A</text>
+    <text
+       class="etiquette"
+       x="1265"
+       y="1115"
+       id="text1115">B</text>
+    <text
+       class="etiquette"
+       x="938"
+       y="929"
+       id="text1117">C</text>
+    <text
+       class="etiquette"
+       x="1010"
+       y="790"
+       id="text1119">D</text>
+    <text
+       class="coord"
+       x="1245"
+       y="955"
+       id="text1121">A X=6,36 Y=-2,78</text>
+    <text
+       class="coord"
+       x="1265"
+       y="1130"
+       id="text1123">B X=5,61 Y=-4,07</text>
+    <text
+       class="coord"
+       x="825"
+       y="940"
+       id="text1125">C X=2,58 Y=-2,32</text>
+    <text
+       class="coord"
+       x="900"
+       y="785"
+       id="text1127">D X=3,33 Y=-1,03</text>
+    <text
+       class="etiquette"
+       x="1130"
+       y="942"
+       id="text1129">P4</text>
+  </g>
+  <!-- P5 -->
+  <g
+     id="cotes-P5"
+     inkscape:label="P5 — Cotations">
+    <path
+       class="contour"
+       d="M1110.4519,1250.0544 L980.5481,1325.0544       L805.5481,1021.9456 L935.4519,946.9456 Z"
+       id="path1132" />
+    <path
+       class="cote"
+       d="M958,1136 L1110.4519,1250.0544       M958,1136 L980.5481,1325.0544       M958,1136 L805.5481,1021.9456       M958,1136 L935.4519,946.9456"
+       id="path1134" />
+    <circle
+       cx="958"
+       cy="1136"
+       r="3"
+       fill="#1976d2"
+       id="circle1136" />
+    <use
+       href="#piquet"
+       x="1110.4519"
+       y="1250.0544"
+       id="use1138" />
+    <use
+       href="#piquet"
+       x="980.5481"
+       y="1325.0544"
+       id="use1140" />
+    <use
+       href="#piquet"
+       x="805.5481"
+       y="1021.9456"
+       id="use1142" />
+    <use
+       href="#piquet"
+       x="935.4519"
+       y="946.9456"
+       id="use1144" />
+    <text
+       class="etiquette"
+       x="1115"
+       y="1245"
+       id="text1146">A</text>
+    <text
+       class="etiquette"
+       x="985"
+       y="1340"
+       id="text1148">B</text>
+    <text
+       class="etiquette"
+       x="788"
+       y="1027"
+       id="text1150">C</text>
+    <text
+       class="etiquette"
+       x="920"
+       y="942"
+       id="text1152">D</text>
+    <text
+       class="coord"
+       x="1118"
+       y="1230"
+       id="text1154">A X=4,12 Y=-5,58</text>
+    <text
+       class="coord"
+       x="985"
+       y="1355"
+       id="text1156">B X=2,83 Y=-6,33</text>
+    <text
+       class="coord"
+       x="680"
+       y="1040"
+       id="text1158">C X=1,08 Y=-3,30</text>
+    <text
+       class="coord"
+       x="830"
+       y="935"
+       id="text1160">D X=2,37 Y=-2,55</text>
+    <text
+       class="etiquette"
+       x="944"
+       y="1130"
+       id="text1162">P5</text>
+  </g>
+  <!-- P6 -->
+  <g
+     id="cotes-P6"
+     inkscape:label="P6 — Cotations">
+    <path
+       class="contour"
+       d="M620,1032 H770 V1382 H620 Z"
+       id="path1165" />
+    <path
+       class="cote"
+       d="M695,1207 L620,1032 M695,1207 L770,1032       M695,1207 L770,1382 M695,1207 L620,1382"
+       id="path1167" />
+    <circle
+       cx="695"
+       cy="1207"
+       r="3"
+       fill="#1976d2"
+       id="circle1169" />
+    <use
+       href="#piquet"
+       x="620"
+       y="1032"
+       id="use1171" />
+    <use
+       href="#piquet"
+       x="770"
+       y="1032"
+       id="use1173" />
+    <use
+       href="#piquet"
+       x="770"
+       y="1382"
+       id="use1175" />
+    <use
+       href="#piquet"
+       x="620"
+       y="1382"
+       id="use1177" />
+    <text
+       class="etiquette"
+       x="605"
+       y="1027"
+       id="text1179">A</text>
+    <text
+       class="etiquette"
+       x="775"
+       y="1027"
+       id="text1181">B</text>
+    <text
+       class="etiquette"
+       x="775"
+       y="1375"
+       id="text1183">C</text>
+    <text
+       class="etiquette"
+       x="605"
+       y="1375"
+       id="text1185">D</text>
+    <text
+       class="coord"
+       x="500"
+       y="1050"
+       id="text1187">A X=-0,78 Y=-3,40</text>
+    <text
+       class="coord"
+       x="775"
+       y="1050"
+       id="text1189">B X=0,72 Y=-3,40</text>
+    <text
+       class="coord"
+       x="775"
+       y="1360"
+       id="text1191">C X=0,72 Y=-6,90</text>
+    <text
+       class="coord"
+       x="480"
+       y="1360"
+       id="text1193">D X=-0,78 Y=-6,90</text>
+    <text
+       class="etiquette"
+       x="674"
+       y="1201"
+       id="text1195">P6</text>
+  </g>
+  <!-- P7 -->
+  <g
+     id="cotes-P7"
+     inkscape:label="P7 — Cotations">
+    <path
+       class="contour"
+       d="M420.4519,1328.0544 L290.5481,1253.0544       L465.5481,949.9456 L595.4519,1024.9456 Z"
+       id="path1198" />
+    <path
+       class="cote"
+       d="M443,1139 L420.4519,1328.0544       M443,1139 L290.5481,1253.0544       M443,1139 L465.5481,949.9456       M443,1139 L595.4519,1024.9456"
+       id="path1200" />
+    <circle
+       cx="443"
+       cy="1139"
+       r="3"
+       fill="#1976d2"
+       id="circle1202" />
+    <use
+       href="#piquet"
+       x="420.4519"
+       y="1328.0544"
+       id="use1204" />
+    <use
+       href="#piquet"
+       x="290.5481"
+       y="1253.0544"
+       id="use1206" />
+    <use
+       href="#piquet"
+       x="465.5481"
+       y="949.9456"
+       id="use1208" />
+    <use
+       href="#piquet"
+       x="595.4519"
+       y="1024.9456"
+       id="use1210" />
+    <text
+       class="etiquette"
+       x="425"
+       y="1345"
+       id="text1212">A</text>
+    <text
+       class="etiquette"
+       x="275"
+       y="1258"
+       id="text1214">B</text>
+    <text
+       class="etiquette"
+       x="450"
+       y="945"
+       id="text1216">C</text>
+    <text
+       class="etiquette"
+       x="600"
+       y="1020"
+       id="text1218">D</text>
+    <text
+       class="coord"
+       x="425"
+       y="1360"
+       id="text1220">A X=-2,78 Y=-6,36</text>
+    <text
+       class="coord"
+       x="175"
+       y="1260"
+       id="text1222">B X=-4,07 Y=-5,61</text>
+    <text
+       class="coord"
+       x="330"
+       y="935"
+       id="text1224">C X=-2,32 Y=-2,58</text>
+    <text
+       class="coord"
+       x="600"
+       y="1005"
+       id="text1226">D X=-1,03 Y=-3,33</text>
+    <text
+       class="etiquette"
+       x="430"
+       y="1133"
+       id="text1228">P7</text>
+  </g>
+  <!-- P8 -->
+  <g
+     id="cotes-P8"
+     inkscape:label="P8 — Cotations">
+    <path
+       class="contour"
+       d="M138.9456,1104.4519 L63.9456,974.5481       L367.0544,799.5481 L442.0544,929.4519 Z"
+       id="path1231" />
+    <path
+       class="cote"
+       d="M253,952 L138.9456,1104.4519       M253,952 L63.9456,974.5481       M253,952 L367.0544,799.5481       M253,952 L442.0544,929.4519"
+       id="path1233" />
+    <circle
+       cx="253"
+       cy="952"
+       r="3"
+       fill="#1976d2"
+       id="circle1235" />
+    <use
+       href="#piquet"
+       x="138.9456"
+       y="1104.4519"
+       id="use1237" />
+    <use
+       href="#piquet"
+       x="63.9456"
+       y="974.5481"
+       id="use1239" />
+    <use
+       href="#piquet"
+       x="367.0544"
+       y="799.5481"
+       id="use1241" />
+    <use
+       href="#piquet"
+       x="442.0544"
+       y="929.4519"
+       id="use1243" />
+    <text
+       class="etiquette"
+       x="143"
+       y="1120"
+       id="text1245">A</text>
+    <text
+       class="etiquette"
+       x="45"
+       y="978"
+       id="text1247">B</text>
+    <text
+       class="etiquette"
+       x="370"
+       y="795"
+       id="text1249">C</text>
+    <text
+       class="etiquette"
+       x="445"
+       y="925"
+       id="text1251">D</text>
+    <text
+       class="coord"
+       x="145"
+       y="1135"
+       id="text1253">A X=-5,59 Y=-4,12</text>
+    <text
+       class="coord"
+       x="10"
+       y="965"
+       id="text1255">B X=-6,34 Y=-2,83</text>
+    <text
+       class="coord"
+       x="370"
+       y="780"
+       id="text1257">C X=-3,31 Y=-1,08</text>
+    <text
+       class="coord"
+       x="445"
+       y="910"
+       id="text1259">D X=-2,56 Y=-2,37</text>
+    <text
+       class="etiquette"
+       x="240"
+       y="946"
+       id="text1261">P8</text>
+  </g>
+  <!-- P9 -->
+  <g
+     id="cotes-P9"
+     inkscape:label="P9 — Cotations">
+    <path
+       class="contour"
+       d="M8,617 H358 V767 H8 Z"
+       id="path1264" />
+    <path
+       class="cote"
+       d="M183,692 L8,617 M183,692 L358,617       M183,692 L358,767 M183,692 L8,767"
+       id="path1266" />
+    <circle
+       cx="183"
+       cy="692"
+       r="3"
+       fill="#1976d2"
+       id="circle1268" />
+    <use
+       href="#piquet"
+       x="8"
+       y="617"
+       id="use1270" />
+    <use
+       href="#piquet"
+       x="358"
+       y="617"
+       id="use1272" />
+    <use
+       href="#piquet"
+       x="358"
+       y="767"
+       id="use1274" />
+    <use
+       href="#piquet"
+       x="8"
+       y="767"
+       id="use1276" />
+    <text
+       class="etiquette"
+       x="10"
+       y="610"
+       id="text1278">A</text>
+    <text
+       class="etiquette"
+       x="360"
+       y="610"
+       id="text1280">B</text>
+    <text
+       class="etiquette"
+       x="360"
+       y="785"
+       id="text1282">C</text>
+    <text
+       class="etiquette"
+       x="10"
+       y="785"
+       id="text1284">D</text>
+    <text
+       class="coord"
+       x="10"
+       y="600"
+       id="text1286">A X=-6,90 Y=0,75</text>
+    <text
+       class="coord"
+       x="245"
+       y="600"
+       id="text1288">B X=-3,40 Y=0,75</text>
+    <text
+       class="coord"
+       x="245"
+       y="800"
+       id="text1290">C X=-3,40 Y=-0,75</text>
+    <text
+       class="coord"
+       x="10"
+       y="800"
+       id="text1292">D X=-6,90 Y=-0,75</text>
+    <text
+       class="etiquette"
+       x="170"
+       y="686"
+       id="text1294">P9</text>
+  </g>
+  <!-- P10 -->
+  <g
+     id="cotes-P10"
+     inkscape:label="P10 — Cotations">
+    <path
+       class="contour"
+       d="M60.9456,414.4519 L135.9456,284.5481       L439.0544,459.5481 L364.0544,589.4519 Z"
+       id="path1297" />
+    <path
+       class="cote"
+       d="M250,437 L60.9456,414.4519       M250,437 L135.9456,284.5481       M250,437 L439.0544,459.5481       M250,437 L364.0544,589.4519"
+       id="path1299" />
+    <circle
+       cx="250"
+       cy="437"
+       r="3"
+       fill="#1976d2"
+       id="circle1301" />
+    <use
+       href="#piquet"
+       x="60.9456"
+       y="414.4519"
+       id="use1303" />
+    <use
+       href="#piquet"
+       x="135.9456"
+       y="284.5481"
+       id="use1305" />
+    <use
+       href="#piquet"
+       x="439.0544"
+       y="459.5481"
+       id="use1307" />
+    <use
+       href="#piquet"
+       x="364.0544"
+       y="589.4519"
+       id="use1309" />
+    <text
+       class="etiquette"
+       x="42"
+       y="418"
+       id="text1311">A</text>
+    <text
+       class="etiquette"
+       x="140"
+       y="280"
+       id="text1313">B</text>
+    <text
+       class="etiquette"
+       x="442"
+       y="455"
+       id="text1315">C</text>
+    <text
+       class="etiquette"
+       x="367"
+       y="605"
+       id="text1317">D</text>
+    <text
+       class="coord"
+       x="5"
+       y="405"
+       id="text1319">A X=-6,37 Y=2,78</text>
+    <text
+       class="coord"
+       x="140"
+       y="265"
+       id="text1321">B X=-5,62 Y=4,07</text>
+    <text
+       class="coord"
+       x="442"
+       y="440"
+       id="text1323">C X=-2,59 Y=2,32</text>
+    <text
+       class="coord"
+       x="367"
+       y="620"
+       id="text1325">D X=-3,34 Y=1,03</text>
+    <text
+       class="etiquette"
+       x="235"
+       y="431"
+       id="text1327">P10</text>
+  </g>
+  <!-- P11 -->
+  <g
+     id="cotes-P11"
+     inkscape:label="P11 — Cotations">
+    <path
+       class="contour"
+       d="M284.5481,132.9456 L414.4519,57.9456       L589.4519,361.0544 L459.5481,436.0544 Z"
+       id="path1330" />
+    <path
+       class="cote"
+       d="M437,247 L284.5481,132.9456       M437,247 L414.4519,57.9456       M437,247 L589.4519,361.0544       M437,247 L459.5481,436.0544"
+       id="path1332" />
+    <circle
+       cx="437"
+       cy="247"
+       r="3"
+       fill="#1976d2"
+       id="circle1334" />
+    <use
+       href="#piquet"
+       x="284.5481"
+       y="132.9456"
+       id="use1336" />
+    <use
+       href="#piquet"
+       x="414.4519"
+       y="57.9456"
+       id="use1338" />
+    <use
+       href="#piquet"
+       x="589.4519"
+       y="361.0544"
+       id="use1340" />
+    <use
+       href="#piquet"
+       x="459.5481"
+       y="436.0544"
+       id="use1342" />
+    <text
+       class="etiquette"
+       x="265"
+       y="135"
+       id="text1344">A</text>
+    <text
+       class="etiquette"
+       x="415"
+       y="52"
+       id="text1346">B</text>
+    <text
+       class="etiquette"
+       x="595"
+       y="360"
+       id="text1348">C</text>
+    <text
+       class="etiquette"
+       x="462"
+       y="452"
+       id="text1350">D</text>
+    <text
+       class="coord"
+       x="215"
+       y="125"
+       id="text1352">A X=-4,13 Y=5,59</text>
+    <text
+       class="coord"
+       x="415"
+       y="35"
+       id="text1354">B X=-2,84 Y=6,34</text>
+    <text
+       class="coord"
+       x="595"
+       y="345"
+       id="text1356">C X=-1,09 Y=3,31</text>
+    <text
+       class="coord"
+       x="462"
+       y="470"
+       id="text1358">D X=-2,38 Y=2,56</text>
+    <text
+       class="etiquette"
+       x="420"
+       y="241"
+       id="text1360">P11</text>
+  </g>
+</svg>
