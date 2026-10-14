@@ -261,7 +261,6 @@ références et estimations de prix.
   </a>
 </div>
 
-
 ---
 
 <div style="text-align: center;">
@@ -271,8 +270,8 @@ références et estimations de prix.
   </a>
 </div>
 
-
 ---
+
 <div style="text-align: center;">
   <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP2.svg">
     <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP2.svg"
@@ -281,188 +280,188 @@ références et estimations de prix.
 </div>
 
 ---
+
 <div style="text-align: center;">
   <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP3.svg">
-    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP2.svg"
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP3.svg"
          style="width: 500px; object-fit: contain;">
   </a>
 </div>
+
 ---
+
 <div style="text-align: center;">
   <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP4.svg">
-    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP2.svg"
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP4.svg"
          style="width: 500px; object-fit: contain;">
   </a>
 </div>
+
 ---
+
 <div style="text-align: center;">
   <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP5.svg">
-    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP2.svg"
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP5.svg"
          style="width: 500px; object-fit: contain;">
   </a>
 </div>
+
 ---
+
 <div style="text-align: center;">
   <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP6.svg">
-    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP2.svg"
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP6.svg"
          style="width: 500px; object-fit: contain;">
   </a>
 </div>
+
 ---
+
 <div style="text-align: center;">
   <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP7.svg">
-    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP2.svg"
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP7.svg"
          style="width: 500px; object-fit: contain;">
   </a>
 </div>
+
 ---
+
 <div style="text-align: center;">
   <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP8.svg">
-    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP2.svg"
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP8.svg"
          style="width: 500px; object-fit: contain;">
   </a>
 </div>
+
 ---
+
 <div style="text-align: center;">
   <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP9.svg">
-    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP2.svg"
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP9.svg"
          style="width: 500px; object-fit: contain;">
   </a>
 </div>
+
 ---
+
 <div style="text-align: center;">
   <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP10.svg">
-    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP2.svg"
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP10.svg"
          style="width: 500px; object-fit: contain;">
   </a>
 </div>
+
 ---
+
 <div style="text-align: center;">
   <a href="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP11.svg">
-    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP2.svg"
+    <img src="https://raw.githubusercontent.com/IOudo/AlfredRoland/main/presSept2026/images/plan/plan-base-cotationP11.svg"
          style="width: 500px; object-fit: contain;">
   </a>
 </div>
 
+---
+
+# Carnet de piquetage — Jardin
+
+## Référentiel de chantier
+
+| Paramètre | Valeur |
+| --- | --- |
+| Origine O | Centre du carré |
+| Axe X | Positif vers l'Est |
+| Axe Y | Positif vers le Nord |
+| Unité | Mètre |
+| Dimensions parcelles | 1,50 × 3,50 m |
+| Nombre de parcelles | 12 : P0 à P11 |
+
+**Méthode :** matérialiser l'origine O, mesurer X puis Y pour chaque point et planter un piquet. Contrôler ensuite les dimensions des parcelles.
+
+---
+| Fait | Parcelle | Point | X (m) | Y (m) |
+| --- | --- | --- | ---: | ---: |
+| ☐ | P0 | A | -0,7500 | +6,9000 |
+| ☐ | P0 | B | +0,7500 | +6,9000 |
+| ☐ | P0 | C | +0,7500 | +3,4000 |
+| ☐ | P0 | D | -0,7500 | +3,4000 |
+| ☐ | P1 | A | +2,8555 | +6,3505 |
+| ☐ | P1 | B | +4,1545 | +5,6054 |
+| ☐ | P1 | C | +2,4045 | +2,5695 |
+| ☐ | P1 | D | +1,1055 | +3,3195 |
+
+---
+| Fait | Parcelle | Point | X (m) | Y (m) |
+| --- | --- | --- | ---: | ---: |
+| ☐ | P2 | A | +5,5705 | +4,1345 |
+| ☐ | P2 | B | +6,3205 | +2,8355 |
+| ☐ | P2 | C | +3,2895 | +1,0855 |
+| ☐ | P2 | D | +2,5395 | +2,3845 |
+| ☐ | P3 | A | +6,9000 | +0,7500 |
+| ☐ | P3 | B | +6,9000 | -0,7500 |
+| ☐ | P3 | C | +3,4000 | -0,7500 |
+| ☐ | P3 | D | +3,4000 | +0,7500 |
+
+---
+| Fait | Parcelle | Point | X (m) | Y (m) |
+| --- | --- | --- | ---: | ---: |
+| ☐ | P4 | A | +6,3506 | -2,8005 |
+| ☐ | P4 | B | +5,6006 | -4,0995 |
+| ☐ | P4 | C | +2,5695 | -2,3495 |
+| ☐ | P4 | D | +3,3195 | -1,0505 |
+| ☐ | P5 | A | +4,0995 | -5,6006 |
+| ☐ | P5 | B | +2,8005 | -6,3506 |
+| ☐ | P5 | C | +1,0505 | -3,3195 |
+| ☐ | P5 | D | +2,3495 | -2,5695 |
+
+---
+| Fait | Parcelle | Point | X (m) | Y (m) |
+| --- | --- | --- | ---: | ---: |
+| ☐ | P6 | A | +0,7500 | -6,9000 |
+| ☐ | P6 | B | -0,7500 | -6,9000 |
+| ☐ | P6 | C | -0,7500 | -3,4000 |
+| ☐ | P6 | D | +0,7500 | -3,4000 |
+| ☐ | P7 | A | -2,8005 | -6,3506 |
+| ☐ | P7 | B | -4,0995 | -5,6006 |
+| ☐ | P7 | C | -2,3495 | -2,5695 |
+| ☐ | P7 | D | -1,0505 | -3,3195 |
+
+---
+| Fait | Parcelle | Point | X (m) | Y (m) |
+| --- | --- | --- | ---: | ---: |
+| ☐ | P8 | A | -5,6006 | -4,0995 |
+| ☐ | P8 | B | -6,3506 | -2,8005 |
+| ☐ | P8 | C | -3,3195 | -1,0505 |
+| ☐ | P8 | D | -2,5695 | -2,3495 |
+| ☐ | P9 | A | -6,9000 | -0,7500 |
+| ☐ | P9 | B | -6,9000 | +0,7500 |
+| ☐ | P9 | C | -3,4000 | +0,7500 |
+| ☐ | P9 | D | -3,4000 | -0,7500 |
+
+---
+| Fait | Parcelle | Point | X (m) | Y (m) |
+| --- | --- | --- | ---: | ---: |
+| ☐ | P10 | A | -6,3506 | +2,8005 |
+| ☐ | P10 | B | -5,6006 | +4,0995 |
+| ☐ | P10 | C | -2,5695 | +2,3495 |
+| ☐ | P10 | D | -3,3195 | +1,0505 |
+| ☐ | P11 | A | -4,0995 | +5,6006 |
+| ☐ | P11 | B | -2,8005 | +6,3506 |
+| ☐ | P11 | C | -1,0505 | +3,3195 |
+| ☐ | P11 | D | -2,3495 | +2,5695 |
 
 ---
 
-Carnet de piquetage — Jardin
+# 5. Réseau d'arrosage
 
-Paramètre| Valeur
-Origine O| Centre du carré
-Axe X| Positif vers l'Est
-Axe Y| Positif vers le Nord
-Unité| Mètre
-Dimensions parcelles| 1,50 × 3,50 m
-Nombre de parcelles| 12 : P0 à P11
+| Fait | Point à implanter | X (m) | Y (m) | Remarque |
+| --- | --- | ---: | ---: | --- |
+| ☐ | Origine O | 0,0000 | 0,0000 | 
+| ☐ | Vanne générale | +1,6000 | -1,6000 | 
+| ☐ | Collecteur AQ1 | +0,0800 | +1,7881 | 
+| ☐ | Vanne P1 | -1,7341 | +2,9350 | 
+| ☐ | Vanne P2 | +0,1459 | +3,3288 | 
+| ☐ | Vanne P3 | +1,8392 | +2,9350 | 
+| ☐ | Arrivée d'eau | +6,5000 | -6,5000 | 
 
-Méthode : matérialiser l'origine O, mesurer X puis Y pour chaque point et planter un piquet. Contrôler ensuite les dimensions des parcelles.
-
-Date du chantier : __________________
-
----
-
-1. Parcelles P0 à P2
-
-Cocher chaque sommet après implantation.
-
-Fait| Parcelle| Point| X (m)| Y (m)
-☐| P0| A| -0,7500| +6,9000
-☐| P0| B| +0,7500| +6,9000
-☐| P0| C| +0,7500| +3,4000
-☐| P0| D| -0,7500| +3,4000
-☐| P1| A| +2,8555| +6,3505
-☐| P1| B| +4,1545| +5,6054
-☐| P1| C| +2,4045| +2,5695
-☐| P1| D| +1,1055| +3,3195
-☐| P2| A| +5,5705| +4,1345
-☐| P2| B| +6,3205| +2,8355
-☐| P2| C| +3,2895| +1,0855
-☐| P2| D| +2,5395| +2,3845
-
-
----
-
-2. Parcelles P3 à P5
-
-Fait| Parcelle| Point| X (m)| Y (m)
-☐| P3| A| +6,9000| +0,7500
-☐| P3| B| +6,9000| -0,7500
-☐| P3| C| +3,4000| -0,7500
-☐| P3| D| +3,4000| +0,7500
-☐| P4| A| +6,3506| -2,8005
-☐| P4| B| +5,6006| -4,0995
-☐| P4| C| +2,5695| -2,3495
-☐| P4| D| +3,3195| -1,0505
-☐| P5| A| +4,0995| -5,6006
-☐| P5| B| +2,8005| -6,3506
-☐| P5| C| +1,0505| -3,3195
-☐| P5| D| +2,3495| -2,5695
-
----
-
-3. Parcelles P6 à P8
-
-Fait| Parcelle| Point| X (m)| Y (m)
-☐| P6| A| +0,7500| -6,9000
-☐| P6| B| -0,7500| -6,9000
-☐| P6| C| -0,7500| -3,4000
-☐| P6| D| +0,7500| -3,4000
-☐| P7| A| -2,8005| -6,3506
-☐| P7| B| -4,0995| -5,6006
-☐| P7| C| -2,3495| -2,5695
-☐| P7| D| -1,0505| -3,3195
-☐| P8| A| -5,6006| -4,0995
-☐| P8| B| -6,3506| -2,8005
-☐| P8| C| -3,3195| -1,0505
-☐| P8| D| -2,5695| -2,3495
-
----
-
-4. Parcelles P9 à P11
-
-Fait| Parcelle| Point| X (m)| Y (m)
-☐| P9| A| -6,9000| -0,7500
-☐| P9| B| -6,9000| +0,7500
-☐| P9| C| -3,4000| +0,7500
-☐| P9| D| -3,4000| -0,7500
-☐| P10| A| -6,3506| +2,8005
-☐| P10| B| -5,6006| +4,0995
-☐| P10| C| -2,5695| +2,3495
-☐| P10| D| -3,3195| +1,0505
-☐| P11| A| -4,0995| +5,6006
-☐| P11| B| -2,8005| +6,3506
-☐| P11| C| -1,0505| +3,3195
-☐| P11| D| -2,3495| +2,5695
-
-
----
-
-5. Réseau d'arrosage — Points remarquables
-
-Fait| Point à implanter| X (m)| Y (m)| Remarque
-☐| Origine O| 0,0000| 0,0000| Référence générale
-☐| Vanne générale| +1,6000| -1,6000| Position (850 ; 850)
-☐| Collecteur AQ1| +0,0800| +1,7881| Position (698 ; 511,19)
-☐| Vanne P1| -1,7341| +2,9350| Centre du symbole
-☐| Vanne P2| +0,1459| +3,3288| Centre du symbole
-☐| Vanne P3| +1,8392| +2,9350| Centre du symbole
-☐| Arrivée d'eau| +6,5000| -6,5000| Position (1340 ; 1340)
-
----
-
-6. Validation finale du piquetage
-
-Vérification| Fait
-Origine O matérialisée| ☐
-Axes Nord–Sud et Est–Ouest matérialisés| ☐
-48 sommets des parcelles implantés| ☐
-Dimensions des parcelles contrôlées| ☐
-Position de la vanne générale contrôlée| ☐
-Position du collecteur AQ1 contrôlée| ☐
-Vannes P1, P2 et P3 contrôlées| ☐
-Arrivée d'eau contrôlée| ☐
-Réseau vérifié avant creusement| ☐
 
 </div>
