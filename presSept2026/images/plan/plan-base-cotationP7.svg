@@ -1,0 +1,1799 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1380"
+   height="1380"
+   viewBox="0 0 1380 1380"
+   version="1.1"
+   id="plan-jardin"
+   sodipodi:docname="plan-base-cotationP7.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1979"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.45217391"
+     inkscape:cx="299.66346"
+     inkscape:cy="690"
+     inkscape:window-width="1536"
+     inkscape:window-height="827"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="points-remarquables" />
+  <title
+     id="title1919">Plan de jardin — Base géométrique</title>
+  <desc
+     id="desc1921">
+    Carré de référence de 13,80 m par 13,80 m.
+    Origine au centre O = (0,0) m.
+    Échelle : 100 unités SVG = 1 m.
+    X positif vers l'est, Y positif vers le nord.
+  </desc>
+  <defs
+     id="defs1925">
+    <style
+       id="style1923">
+      .limite {
+        fill: none;
+        stroke: #333333;
+        stroke-width: 2;
+      }
+      .axe {
+        fill: none;
+        stroke: #999999;
+        stroke-width: 1;
+        stroke-dasharray: 6 5;
+      }
+      .texte {
+        font-family: sans-serif;
+        fill: #333333;
+      }
+      .origine {
+        fill: #111111;
+      }
+    </style>
+  </defs>
+  <!-- 1.0 CARRE DE REFERENCE -->
+  <g
+     id="reference-terrain"
+     inkscape:label="01.0 - Carré de référence"
+     inkscape:groupmode="layer">
+    <rect
+       id="carre-1380"
+       x="0"
+       y="0"
+       width="1380"
+       height="1380"
+       class="limite" />
+  </g>
+  <!-- 1.1 Cercle de référence : D 13,80 m -->
+  <g
+     id="cercle-reference"
+     inkscape:label="01.1 - Cercle rouge R 6,40 m"
+     inkscape:groupmode="layer">
+    <ellipse
+       id="cercle-D1380"
+       cx="690"
+       cy="690"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="2.15288"
+       rx="688.92352"
+       ry="688.92358" />
+  </g>
+  <!-- ====================================================== -->
+  <!-- 1.2 CERCLE DES AROMATES : RAYON 1,00 m                 -->
+  <!-- ====================================================== -->
+  <g
+     id="cercle-aromates"
+     inkscape:label="01.2 - Aromates - R 1,00 m"
+     inkscape:groupmode="layer">
+    <circle
+       id="cercle-aromates-r100"
+       cx="690"
+       cy="690"
+       r="100"
+       fill="#0080ff"
+       fill-opacity="0.08"
+       stroke="#0080ff"
+       stroke-width="2" />
+  </g>
+  <!-- 2. AXES -->
+  <g
+     id="axes"
+     inkscape:label="02 - Axes"
+     inkscape:groupmode="layer">
+    <path
+       id="axe-x"
+       class="axe"
+       d="M 0,690 H 1380" />
+    <path
+       id="axe-y"
+       class="axe"
+       d="M 690,0 V 1380" />
+    <text
+       class="texte"
+       x="1320"
+       y="675"
+       font-size="18"
+       id="text1933">Est (+X)</text>
+    <text
+       class="texte"
+       x="705"
+       y="25"
+       font-size="18"
+       id="text1935">Nord (+Y)</text>
+  </g>
+  <!-- 3. ORIGINE -->
+  <g
+     id="origine"
+     inkscape:label="03 - Origine O"
+     inkscape:groupmode="layer">
+    <circle
+       id="point-origine"
+       class="origine"
+       cx="690"
+       cy="690"
+       r="5" />
+    <text
+       class="texte"
+       x="702"
+       y="680"
+       font-size="18"
+       font-weight="bold"
+       id="text1939">O (0,00 ; 0,00 m)</text>
+  </g>
+  <!-- 4. PARCELLES : A REMPLIR PROGRESSIVEMENT -->
+  <g
+     id="g1951"
+     inkscape:label="04 - Parcelles"
+     inkscape:groupmode="layer">
+    <!-- P0 : géométrie définie en mètres -->
+    <g
+       id="parcelles"
+       inkscape:label="04 - Parcelles"
+       inkscape:groupmode="layer">
+      <g
+         id="parcelle-P0"
+         inkscape:label="P0 - 1,50 x 3,50 m">
+        <!-- Contour de la parcelle -->
+        <path
+           id="contour-P0"
+           d="M 615,0              H 765              V 350              H 615              Z"
+           fill="#e53935"
+           fill-opacity="0.08"
+           stroke="#e53935"
+           stroke-width="2" />
+        <!-- Sommets -->
+        <g
+           id="sommets-P0"
+           fill="#e53935"
+           stroke="#ffffff"
+           stroke-width="1">
+          <circle
+             id="P0-A"
+             cx="615"
+             cy="0"
+             r="4"
+             data-x="-0.75"
+             data-y="6.90" />
+          <circle
+             id="P0-B"
+             cx="765"
+             cy="0"
+             r="4"
+             data-x="0.75"
+             data-y="6.90" />
+          <circle
+             id="P0-C"
+             cx="765"
+             cy="350"
+             r="4"
+             data-x="0.75"
+             data-y="3.40" />
+          <circle
+             id="P0-D"
+             cx="615"
+             cy="350"
+             r="4"
+             data-x="-0.75"
+             data-y="3.40" />
+        </g>
+        <!-- Identification -->
+        <text
+           id="etiquette-P0"
+           x="690"
+           y="175"
+           text-anchor="middle"
+           font-family="sans-serif"
+           font-size="18"
+           font-weight="bold"
+           fill="#b71c1c">P0</text>
+      </g>
+      <g
+         id="parcelle-P1"
+         inkscape:label="P1 - 1,50 x 3,50 m">
+        <!-- Contour de la parcelle -->
+        <path
+           id="contour-P1"
+           d="M 975.5481,54.9456             L 1105.4519,129.9456             L 930.4519,433.0544             L 800.5481,358.0544             Z"
+           fill="#e53935"
+           fill-opacity="0.08"
+           stroke="#e53935"
+           stroke-width="2" />
+        <!-- Sommets -->
+        <g
+           id="sommets-P1"
+           fill="#e53935"
+           stroke="#ffffff"
+           stroke-width="1">
+          <circle
+             id="P1-A"
+             cx="975.5481"
+             cy="54.9456"
+             r="4"
+             data-x="2.8555"
+             data-y="6.3505" />
+          <circle
+             id="P1-B"
+             cx="1105.4519"
+             cy="129.9456"
+             r="4"
+             data-x="4.1545"
+             data-y="5.6054" />
+          <circle
+             id="P1-C"
+             cx="930.4519"
+             cy="433.0544"
+             r="4"
+             data-x="2.4045"
+             data-y="2.5695" />
+          <circle
+             id="P1-D"
+             cx="800.5481"
+             cy="358.0544"
+             r="4"
+             data-x="1.1055"
+             data-y="3.3195" />
+        </g>
+        <!-- Identification -->
+        <text
+           id="etiquette-P1"
+           x="953"
+           y="244"
+           text-anchor="middle"
+           font-family="sans-serif"
+           font-size="18"
+           font-weight="bold"
+           fill="#b71c1c">P1</text>
+      </g>
+      <g
+         id="parcelle-P2"
+         inkscape:label="P2 - 1,50 x 3,50 m">
+        <!-- Contour de la parcelle -->
+        <path
+           id="contour-P2"
+           d="M 1247.0544,276.5481               L 1322.0544,406.4519               L 1018.9456,581.4519               L 943.9456,451.5481               Z"
+           fill="#e53935"
+           fill-opacity="0.08"
+           stroke="#e53935"
+           stroke-width="2" />
+        <!-- Sommets -->
+        <g
+           id="sommets-P2"
+           fill="#e53935"
+           stroke="#ffffff"
+           stroke-width="1">
+          <circle
+             id="P2-A"
+             cx="1247.0544"
+             cy="276.5481"
+             r="4"
+             data-x="5.5705"
+             data-y="4.1345" />
+          <circle
+             id="P2-B"
+             cx="1322.0544"
+             cy="406.4519"
+             r="4"
+             data-x="6.3205"
+             data-y="2.8355" />
+          <circle
+             id="P2-C"
+             cx="1018.9456"
+             cy="581.4519"
+             r="4"
+             data-x="3.2895"
+             data-y="1.0855" />
+          <circle
+             id="P2-D"
+             cx="943.9456"
+             cy="451.5481"
+             r="4"
+             data-x="2.5395"
+             data-y="2.3845" />
+        </g>
+        <!-- Identification -->
+        <text
+           id="etiquette-P2"
+           x="1133"
+           y="431"
+           text-anchor="middle"
+           font-family="sans-serif"
+           font-size="18"
+           font-weight="bold"
+           fill="#b71c1c">P2</text>
+      </g>
+      <!-- P3 -->
+      <g
+         id="parcelle-P3"
+         inkscape:label="P3 - 1,50 x 3,50 m">
+        <path
+           id="contour-P3"
+           d="M 1380,615 L 1380,765 L 1030,765 L 1030,615 Z"
+           fill="#e53935"
+           fill-opacity="0.08"
+           stroke="#e53935"
+           stroke-width="2" />
+        <g
+           id="sommets-P3"
+           fill="#e53935"
+           stroke="#ffffff"
+           stroke-width="1">
+          <circle
+             id="P3-A"
+             cx="1380"
+             cy="615"
+             r="4"
+             data-x="6.90"
+             data-y="0.75" />
+          <circle
+             id="P3-B"
+             cx="1380"
+             cy="765"
+             r="4"
+             data-x="6.90"
+             data-y="-0.75" />
+          <circle
+             id="P3-C"
+             cx="1030"
+             cy="765"
+             r="4"
+             data-x="3.40"
+             data-y="-0.75" />
+          <circle
+             id="P3-D"
+             cx="1030"
+             cy="615"
+             r="4"
+             data-x="3.40"
+             data-y="0.75" />
+        </g>
+        <text
+           id="etiquette-P3"
+           x="1205"
+           y="690"
+           text-anchor="middle"
+           font-family="sans-serif"
+           font-size="18"
+           font-weight="bold"
+           fill="#b71c1c">P3</text>
+      </g>
+      <!-- P4 -->
+      <g
+         id="parcelle-P4"
+         inkscape:label="P4 - 1,50 x 3,50 m">
+        <path
+           id="contour-P4"
+           d="M 1325.0575,970.0481 L 1250.0575,1099.9519 L 946.9486,924.9519 L 1021.9486,795.0481 Z"
+           fill="#e53935"
+           fill-opacity="0.08"
+           stroke="#e53935"
+           stroke-width="2" />
+        <g
+           id="sommets-P4"
+           fill="#e53935"
+           stroke="#ffffff"
+           stroke-width="1">
+          <circle
+             id="P4-A"
+             cx="1325.0575"
+             cy="970.0481"
+             r="4"
+             data-x="6.3506"
+             data-y="-2.8005" />
+          <circle
+             id="P4-B"
+             cx="1250.0575"
+             cy="1099.9519"
+             r="4"
+             data-x="5.6006"
+             data-y="-4.0995" />
+          <circle
+             id="P4-C"
+             cx="946.9486"
+             cy="924.9519"
+             r="4"
+             data-x="2.5695"
+             data-y="-2.3495" />
+          <circle
+             id="P4-D"
+             cx="1021.9486"
+             cy="795.0481"
+             r="4"
+             data-x="3.3195"
+             data-y="-1.0505" />
+        </g>
+        <text
+           id="etiquette-P4"
+           x="1136"
+           y="947"
+           text-anchor="middle"
+           font-family="sans-serif"
+           font-size="18"
+           font-weight="bold"
+           fill="#b71c1c">P4</text>
+      </g>
+      <!-- P5 -->
+      <g
+         id="parcelle-P5"
+         inkscape:label="P5 - 1,50 x 3,50 m">
+        <path
+           id="contour-P5"
+           d="M 1099.9519,1250.0575 L 970.0481,1325.0575 L 795.0481,1021.9486 L 924.9519,946.9486 Z"
+           fill="#e53935"
+           fill-opacity="0.08"
+           stroke="#e53935"
+           stroke-width="2" />
+        <g
+           id="sommets-P5"
+           fill="#e53935"
+           stroke="#ffffff"
+           stroke-width="1">
+          <circle
+             id="P5-A"
+             cx="1099.9519"
+             cy="1250.0575"
+             r="4"
+             data-x="4.0995"
+             data-y="-5.6006" />
+          <circle
+             id="P5-B"
+             cx="970.0481"
+             cy="1325.0575"
+             r="4"
+             data-x="2.8005"
+             data-y="-6.3506" />
+          <circle
+             id="P5-C"
+             cx="795.0481"
+             cy="1021.9486"
+             r="4"
+             data-x="1.0505"
+             data-y="-3.3195" />
+          <circle
+             id="P5-D"
+             cx="924.9519"
+             cy="946.9486"
+             r="4"
+             data-x="2.3495"
+             data-y="-2.5695" />
+        </g>
+        <text
+           id="etiquette-P5"
+           x="947.5"
+           y="1136"
+           text-anchor="middle"
+           font-family="sans-serif"
+           font-size="18"
+           font-weight="bold"
+           fill="#b71c1c">P5</text>
+      </g>
+      <!-- P6 -->
+      <g
+         id="parcelle-P6"
+         inkscape:label="P6 - 1,50 x 3,50 m">
+        <path
+           id="contour-P6"
+           d="M 765,1380 L 615,1380 L 615,1030 L 765,1030 Z"
+           fill="#e53935"
+           fill-opacity="0.08"
+           stroke="#e53935"
+           stroke-width="2" />
+        <g
+           id="sommets-P6"
+           fill="#e53935"
+           stroke="#ffffff"
+           stroke-width="1">
+          <circle
+             id="P6-A"
+             cx="765"
+             cy="1380"
+             r="4"
+             data-x="0.75"
+             data-y="-6.90" />
+          <circle
+             id="P6-B"
+             cx="615"
+             cy="1380"
+             r="4"
+             data-x="-0.75"
+             data-y="-6.90" />
+          <circle
+             id="P6-C"
+             cx="615"
+             cy="1030"
+             r="4"
+             data-x="-0.75"
+             data-y="-3.40" />
+          <circle
+             id="P6-D"
+             cx="765"
+             cy="1030"
+             r="4"
+             data-x="0.75"
+             data-y="-3.40" />
+        </g>
+        <text
+           id="etiquette-P6"
+           x="690"
+           y="1205"
+           text-anchor="middle"
+           font-family="sans-serif"
+           font-size="18"
+           font-weight="bold"
+           fill="#b71c1c">P6</text>
+      </g>
+      <!-- P7 -->
+      <g
+         id="parcelle-P7"
+         inkscape:label="P7 - 1,50 x 3,50 m">
+        <path
+           id="contour-P7"
+           d="M 409.9519,1325.0575 L 280.0481,1250.0575 L 455.0481,946.9486 L 584.9519,1021.9486 Z"
+           fill="#e53935"
+           fill-opacity="0.08"
+           stroke="#e53935"
+           stroke-width="2" />
+        <g
+           id="sommets-P7"
+           fill="#e53935"
+           stroke="#ffffff"
+           stroke-width="1">
+          <circle
+             id="P7-A"
+             cx="409.9519"
+             cy="1325.0575"
+             r="4"
+             data-x="-2.8005"
+             data-y="-6.3506" />
+          <circle
+             id="P7-B"
+             cx="280.0481"
+             cy="1250.0575"
+             r="4"
+             data-x="-4.0995"
+             data-y="-5.6006" />
+          <circle
+             id="P7-C"
+             cx="455.0481"
+             cy="946.9486"
+             r="4"
+             data-x="-2.3495"
+             data-y="-2.5695" />
+          <circle
+             id="P7-D"
+             cx="584.9519"
+             cy="1021.9486"
+             r="4"
+             data-x="-1.0505"
+             data-y="-3.3195" />
+        </g>
+        <text
+           id="etiquette-P7"
+           x="432.5"
+           y="1136"
+           text-anchor="middle"
+           font-family="sans-serif"
+           font-size="18"
+           font-weight="bold"
+           fill="#b71c1c">P7</text>
+      </g>
+      <!-- P8 -->
+      <g
+         id="parcelle-P8"
+         inkscape:label="P8 - 1,50 x 3,50 m">
+        <path
+           id="contour-P8"
+           d="M 129.9425,1099.9519 L 54.9425,970.0481 L 358.0514,795.0481 L 433.0514,924.9519 Z"
+           fill="#e53935"
+           fill-opacity="0.08"
+           stroke="#e53935"
+           stroke-width="2" />
+        <g
+           id="sommets-P8"
+           fill="#e53935"
+           stroke="#ffffff"
+           stroke-width="1">
+          <circle
+             id="P8-A"
+             cx="129.9425"
+             cy="1099.9519"
+             r="4"
+             data-x="-5.6006"
+             data-y="-4.0995" />
+          <circle
+             id="P8-B"
+             cx="54.9425"
+             cy="970.0481"
+             r="4"
+             data-x="-6.3506"
+             data-y="-2.8005" />
+          <circle
+             id="P8-C"
+             cx="358.0514"
+             cy="795.0481"
+             r="4"
+             data-x="-3.3195"
+             data-y="-1.0505" />
+          <circle
+             id="P8-D"
+             cx="433.0514"
+             cy="924.9519"
+             r="4"
+             data-x="-2.5695"
+             data-y="-2.3495" />
+        </g>
+        <text
+           id="etiquette-P8"
+           x="244"
+           y="947.5"
+           text-anchor="middle"
+           font-family="sans-serif"
+           font-size="18"
+           font-weight="bold"
+           fill="#b71c1c">P8</text>
+      </g>
+      <!-- P9 -->
+      <g
+         id="parcelle-P9"
+         inkscape:label="P9 - 1,50 x 3,50 m">
+        <path
+           id="contour-P9"
+           d="M 0,765 L 0,615 L 350,615 L 350,765 Z"
+           fill="#e53935"
+           fill-opacity="0.08"
+           stroke="#e53935"
+           stroke-width="2" />
+        <g
+           id="sommets-P9"
+           fill="#e53935"
+           stroke="#ffffff"
+           stroke-width="1">
+          <circle
+             id="P9-A"
+             cx="0"
+             cy="765"
+             r="4"
+             data-x="-6.90"
+             data-y="-0.75" />
+          <circle
+             id="P9-B"
+             cx="0"
+             cy="615"
+             r="4"
+             data-x="-6.90"
+             data-y="0.75" />
+          <circle
+             id="P9-C"
+             cx="350"
+             cy="615"
+             r="4"
+             data-x="-3.40"
+             data-y="0.75" />
+          <circle
+             id="P9-D"
+             cx="350"
+             cy="765"
+             r="4"
+             data-x="-3.40"
+             data-y="-0.75" />
+        </g>
+        <text
+           id="etiquette-P9"
+           x="175"
+           y="690"
+           text-anchor="middle"
+           font-family="sans-serif"
+           font-size="18"
+           font-weight="bold"
+           fill="#b71c1c">P9</text>
+      </g>
+      <!-- P10 -->
+      <g
+         id="parcelle-P10"
+         inkscape:label="P10 - 1,50 x 3,50 m">
+        <path
+           id="contour-P10"
+           d="M 54.9425,409.9519 L 129.9425,280.0481 L 433.0514,455.0481 L 358.0514,584.9519 Z"
+           fill="#e53935"
+           fill-opacity="0.08"
+           stroke="#e53935"
+           stroke-width="2" />
+        <g
+           id="sommets-P10"
+           fill="#e53935"
+           stroke="#ffffff"
+           stroke-width="1">
+          <circle
+             id="P10-A"
+             cx="54.9425"
+             cy="409.9519"
+             r="4"
+             data-x="-6.3506"
+             data-y="2.8005" />
+          <circle
+             id="P10-B"
+             cx="129.9425"
+             cy="280.0481"
+             r="4"
+             data-x="-5.6006"
+             data-y="4.0995" />
+          <circle
+             id="P10-C"
+             cx="433.0514"
+             cy="455.0481"
+             r="4"
+             data-x="-2.5695"
+             data-y="2.3495" />
+          <circle
+             id="P10-D"
+             cx="358.0514"
+             cy="584.9519"
+             r="4"
+             data-x="-3.3195"
+             data-y="1.0505" />
+        </g>
+        <text
+           id="etiquette-P10"
+           x="244"
+           y="432.5"
+           text-anchor="middle"
+           font-family="sans-serif"
+           font-size="18"
+           font-weight="bold"
+           fill="#b71c1c">P10</text>
+      </g>
+      <!-- P11 -->
+      <g
+         id="parcelle-P11"
+         inkscape:label="P11 - 1,50 x 3,50 m">
+        <path
+           id="contour-P11"
+           d="M 280.0481,129.9425 L 409.9519,54.9425 L 584.9519,358.0514 L 455.0481,433.0514 Z"
+           fill="#e53935"
+           fill-opacity="0.08"
+           stroke="#e53935"
+           stroke-width="2" />
+        <g
+           id="sommets-P11"
+           fill="#e53935"
+           stroke="#ffffff"
+           stroke-width="1">
+          <circle
+             id="P11-A"
+             cx="280.0481"
+             cy="129.9425"
+             r="4"
+             data-x="-4.0995"
+             data-y="5.6006" />
+          <circle
+             id="P11-B"
+             cx="409.9519"
+             cy="54.9425"
+             r="4"
+             data-x="-2.8005"
+             data-y="6.3506" />
+          <circle
+             id="P11-C"
+             cx="584.9519"
+             cy="358.0514"
+             r="4"
+             data-x="-1.0505"
+             data-y="3.3195" />
+          <circle
+             id="P11-D"
+             cx="455.0481"
+             cy="433.0514"
+             r="4"
+             data-x="-2.3495"
+             data-y="2.5695" />
+        </g>
+        <text
+           id="etiquette-P11"
+           x="432.5"
+           y="244"
+           text-anchor="middle"
+           font-family="sans-serif"
+           font-size="18"
+           font-weight="bold"
+           fill="#b71c1c">P11</text>
+      </g>
+    </g>
+    <!-- 5. COTATIONS : A GENERER DEPUIS LES SOMMETS -->
+    <g
+       id="cotations"
+       inkscape:label="05 - Cotations"
+       inkscape:groupmode="layer"
+       style="display:inline">
+      <g
+         id="cotations-P0"
+         inkscape:label="P0 - Cotations"
+         style="display:none">
+        <g
+           fill="none"
+           stroke="#1976d2"
+           stroke-width="1.2"
+           stroke-dasharray="5, 3"
+           id="g1961">
+          <path
+             d="M 690,690 615,0"
+             id="path1953" />
+          <path
+             d="M 690,690 765,0"
+             id="path1955" />
+          <path
+             d="M 690,690 765,350"
+             id="path1957" />
+          <path
+             d="M 690,690 615,350"
+             id="path1959" />
+        </g>
+        <circle
+           cx="690"
+           cy="690"
+           r="3"
+           fill="#1976d2"
+           id="circle1963" />
+        <g
+           font-family="sans-serif"
+           font-size="12px"
+           fill="#1565c0"
+           id="g1973">
+          <text
+             x="500"
+             y="45"
+             id="text1965">A : X = −0,75 m ; Y = +6,90 m</text>
+          <text
+             x="775"
+             y="45"
+             id="text1967">B : X = +0,75 m ; Y = +6,90 m</text>
+          <text
+             x="775"
+             y="370"
+             id="text1969">C : X = +0,75 m ; Y = +3,40 m</text>
+          <text
+             x="400"
+             y="370"
+             id="text1971">D : X = −0,75 m ; Y = +3,40 m</text>
+        </g>
+      </g>
+      <g
+         id="cotations-P2"
+         inkscape:label="P2 - Cotations"
+         style="display:none">
+        <g
+           fill="none"
+           stroke="#1976d2"
+           stroke-width="1.2"
+           stroke-dasharray="5, 3"
+           id="lignes-cotations-P2">
+          <path
+             d="M 690,690 1247.0544,276.5481"
+             id="ligne-P2-A" />
+          <path
+             d="M 690,690 1322.0544,406.4519"
+             id="ligne-P2-B" />
+          <path
+             d="M 690,690 1018.9456,581.4519"
+             id="ligne-P2-C" />
+          <path
+             d="M 690,690 943.9456,451.5481"
+             id="ligne-P2-D" />
+        </g>
+        <circle
+           cx="690"
+           cy="690"
+           r="3"
+           fill="#1976d2"
+           id="origine-cotations-P2" />
+        <g
+           font-family="sans-serif"
+           font-size="12px"
+           fill="#1565c0"
+           id="coordonnees-P2">
+          <text
+             x="1120"
+             y="260"
+             id="texte-P2-A">A : X = +5,5705 m ; Y = +4,1345 m</text>
+          <text
+             x="1190"
+             y="405"
+             id="texte-P2-B">B : X = +6,3205 m ; Y = +2,8355 m</text>
+          <text
+             x="1025"
+             y="610"
+             id="texte-P2-C">C : X = +3,2895 m ; Y = +1,0855 m</text>
+          <text
+             x="820"
+             y="460"
+             id="texte-P2-D">D : X = +2,5395 m ; Y = +2,3845 m</text>
+        </g>
+      </g>
+      <g
+         id="cotations-P1"
+         inkscape:label="P1 - Cotations"
+         style="display:none">
+        <g
+           fill="none"
+           stroke="#1976d2"
+           stroke-width="1.2"
+           stroke-dasharray="5, 3"
+           id="lignes-cotations-P1">
+          <path
+             d="M 690,690 975.5481,54.9456"
+             id="ligne-P1-A" />
+          <path
+             d="M 690,690 1105.4519,129.9456"
+             id="ligne-P1-B" />
+          <path
+             d="M 690,690 930.4519,433.0544"
+             id="ligne-P1-C" />
+          <path
+             d="M 690,690 800.5481,358.0544"
+             id="ligne-P1-D" />
+        </g>
+        <circle
+           cx="690"
+           cy="690"
+           r="3"
+           fill="#1976d2"
+           id="origine-cotations-P1" />
+        <g
+           font-family="sans-serif"
+           font-size="12px"
+           fill="#1565c0"
+           id="coordonnees-P1">
+          <text
+             x="820"
+             y="45"
+             id="texte-P1-A">A : X = +2,8555 m ; Y = +6,3505 m</text>
+          <text
+             x="1110"
+             y="115"
+             id="texte-P1-B">B : X = +4,1545 m ; Y = +5,6054 m</text>
+          <text
+             x="935"
+             y="455"
+             id="texte-P1-C">C : X = +2,4045 m ; Y = +2,5695 m</text>
+          <text
+             x="620"
+             y="355"
+             id="texte-P1-D">D : X = +1,1055 m ; Y = +3,3195 m</text>
+        </g>
+      </g>
+      <!-- P3 -->
+      <g
+         id="cotations-P3"
+         inkscape:label="P3 - Cotations"
+         style="display:none">
+        <g
+           fill="none"
+           stroke="#1976d2"
+           stroke-width="1.2"
+           stroke-dasharray="5, 3"
+           id="g2471">
+          <path
+             d="m 690,690 690,-75"
+             id="ligne-P3-A" />
+          <path
+             d="m 690,690 690,75"
+             id="ligne-P3-B" />
+          <path
+             d="m 690,690 340,75"
+             id="ligne-P3-C" />
+          <path
+             d="m 690,690 340,-75"
+             id="ligne-P3-D" />
+        </g>
+        <circle
+           cx="690"
+           cy="690"
+           r="3"
+           fill="#1976d2"
+           id="circle2473" />
+        <g
+           font-family="sans-serif"
+           font-size="12px"
+           fill="#1565c0"
+           id="g2479">
+          <text
+             x="1180"
+             y="600"
+             id="texte-P3-A">A : X = +6,90 m ; Y = +0,75 m</text>
+          <text
+             x="1180"
+             y="785"
+             id="texte-P3-B">B : X = +6,90 m ; Y = −0,75 m</text>
+          <text
+             x="1035"
+             y="785"
+             id="texte-P3-C">C : X = +3,40 m ; Y = −0,75 m</text>
+          <text
+             x="1035"
+             y="600"
+             id="texte-P3-D">D : X = +3,40 m ; Y = +0,75 m</text>
+        </g>
+      </g>
+      <!-- P4 -->
+      <g
+         id="cotations-P4"
+         inkscape:label="P4 - Cotations"
+         style="display:none">
+        <g
+           fill="none"
+           stroke="#1976d2"
+           stroke-width="1.2"
+           stroke-dasharray="5, 3"
+           id="g2486">
+          <path
+             d="m 690,690 635.0575,280.0481"
+             id="ligne-P4-A" />
+          <path
+             d="m 690,690 560.0575,409.9519"
+             id="ligne-P4-B" />
+          <path
+             d="M 690,690 946.9486,924.9519"
+             id="ligne-P4-C" />
+          <path
+             d="m 690,690 331.9486,105.0481"
+             id="ligne-P4-D" />
+        </g>
+        <circle
+           cx="690"
+           cy="690"
+           r="3"
+           fill="#1976d2"
+           id="circle2488" />
+        <g
+           font-family="sans-serif"
+           font-size="12px"
+           fill="#1565c0"
+           id="g2494">
+          <text
+             x="1270"
+             y="960"
+             id="texte-P4-A">A : X = +6,3506 m ; Y = −2,8005 m</text>
+          <text
+             x="1190"
+             y="1120"
+             id="texte-P4-B">B : X = +5,6006 m ; Y = −4,0995 m</text>
+          <text
+             x="950"
+             y="945"
+             id="texte-P4-C">C : X = +2,5695 m ; Y = −2,3495 m</text>
+          <text
+             x="1025"
+             y="780"
+             id="texte-P4-D">D : X = +3,3195 m ; Y = −1,0505 m</text>
+        </g>
+      </g>
+      <!-- P5 -->
+      <g
+         id="cotations-P5"
+         inkscape:label="P5 - Cotations"
+         style="display:none">
+        <g
+           fill="none"
+           stroke="#1976d2"
+           stroke-width="1.2"
+           stroke-dasharray="5, 3"
+           id="g2501">
+          <path
+             d="m 690,690 409.9519,560.0575"
+             id="ligne-P5-A" />
+          <path
+             d="m 690,690 280.0481,635.0575"
+             id="ligne-P5-B" />
+          <path
+             d="m 690,690 105.0481,331.9486"
+             id="ligne-P5-C" />
+          <path
+             d="M 690,690 924.9519,946.9486"
+             id="ligne-P5-D" />
+        </g>
+        <circle
+           cx="690"
+           cy="690"
+           r="3"
+           fill="#1976d2"
+           id="circle2503" />
+        <g
+           font-family="sans-serif"
+           font-size="12px"
+           fill="#1565c0"
+           id="g2509">
+          <text
+             x="1060"
+             y="1240"
+             id="texte-P5-A">A : X = +4,0995 m ; Y = −5,6006 m</text>
+          <text
+             x="950"
+             y="1340"
+             id="texte-P5-B">B : X = +2,8005 m ; Y = −6,3506 m</text>
+          <text
+             x="800"
+             y="1040"
+             id="texte-P5-C">C : X = +1,0505 m ; Y = −3,3195 m</text>
+          <text
+             x="930"
+             y="965"
+             id="texte-P5-D">D : X = +2,3495 m ; Y = −2,5695 m</text>
+        </g>
+      </g>
+      <!-- P6 -->
+      <g
+         id="cotations-P6"
+         inkscape:label="P6 - Cotations"
+         style="display:none">
+        <g
+           fill="none"
+           stroke="#1976d2"
+           stroke-width="1.2"
+           stroke-dasharray="5, 3"
+           id="g2516">
+          <path
+             d="m 690,690 75,690"
+             id="ligne-P6-A" />
+          <path
+             d="m 690,690 -75,690"
+             id="ligne-P6-B" />
+          <path
+             d="m 690,690 -75,340"
+             id="ligne-P6-C" />
+          <path
+             d="m 690,690 75,340"
+             id="ligne-P6-D" />
+        </g>
+        <circle
+           cx="690"
+           cy="690"
+           r="3"
+           fill="#1976d2"
+           id="circle2518" />
+        <g
+           font-family="sans-serif"
+           font-size="12px"
+           fill="#1565c0"
+           id="g2524">
+          <text
+             x="775"
+             y="1370"
+             id="texte-P6-A">A : X = +0,75 m ; Y = −6,90 m</text>
+          <text
+             x="430"
+             y="1370"
+             id="texte-P6-B">B : X = −0,75 m ; Y = −6,90 m</text>
+          <text
+             x="430"
+             y="1020"
+             id="texte-P6-C">C : X = −0,75 m ; Y = −3,40 m</text>
+          <text
+             x="775"
+             y="1020"
+             id="texte-P6-D">D : X = +0,75 m ; Y = −3,40 m</text>
+        </g>
+      </g>
+      <!-- P7 -->
+      <g
+         id="cotations-P7"
+         inkscape:label="P7 - Cotations"
+         style="display:inline">
+        <g
+           fill="none"
+           stroke="#1976d2"
+           stroke-width="1.2"
+           stroke-dasharray="5, 3"
+           id="g2531">
+          <path
+             d="M 690,690 409.9519,1325.0575"
+             id="ligne-P7-A" />
+          <path
+             d="M 690,690 280.0481,1250.0575"
+             id="ligne-P7-B" />
+          <path
+             d="M 690,690 455.0481,946.9486"
+             id="ligne-P7-C" />
+          <path
+             d="M 690,690 584.9519,1021.9486"
+             id="ligne-P7-D" />
+        </g>
+        <circle
+           cx="690"
+           cy="690"
+           r="3"
+           fill="#1976d2"
+           id="circle2533" />
+        <g
+           font-family="sans-serif"
+           font-size="12px"
+           fill="#1565c0"
+           id="g2539">
+          <text
+             x="410"
+             y="1340"
+             id="texte-P7-A">A : X = −2,8005 m ; Y = −6,3506 m</text>
+          <text
+             x="120"
+             y="1260"
+             id="texte-P7-B">B : X = −4,0995 m ; Y = −5,6006 m</text>
+          <text
+             x="300"
+             y="945"
+             id="texte-P7-C">C : X = −2,3495 m ; Y = −2,5695 m</text>
+          <text
+             x="585"
+             y="1040"
+             id="texte-P7-D">D : X = −1,0505 m ; Y = −3,3195 m</text>
+        </g>
+      </g>
+      <!-- P8 -->
+      <g
+         id="cotations-P8"
+         inkscape:label="P8 - Cotations"
+         style="display:none">
+        <g
+           fill="none"
+           stroke="#1976d2"
+           stroke-width="1.2"
+           stroke-dasharray="5, 3"
+           id="g2546">
+          <path
+             d="M 690,690 129.9425,1099.9519"
+             id="ligne-P8-A" />
+          <path
+             d="M 690,690 54.9425,970.0481"
+             id="ligne-P8-B" />
+          <path
+             d="M 690,690 358.0514,795.0481"
+             id="ligne-P8-C" />
+          <path
+             d="M 690,690 433.0514,924.9519"
+             id="ligne-P8-D" />
+        </g>
+        <circle
+           cx="690"
+           cy="690"
+           r="3"
+           fill="#1976d2"
+           id="circle2548" />
+        <g
+           font-family="sans-serif"
+           font-size="12px"
+           fill="#1565c0"
+           id="g2554">
+          <text
+             x="100"
+             y="1120"
+             id="texte-P8-A">A : X = −5,6006 m ; Y = −4,0995 m</text>
+          <text
+             x="20"
+             y="960"
+             id="texte-P8-B">B : X = −6,3506 m ; Y = −2,8005 m</text>
+          <text
+             x="360"
+             y="780"
+             id="texte-P8-C">C : X = −3,3195 m ; Y = −1,0505 m</text>
+          <text
+             x="435"
+             y="945"
+             id="texte-P8-D">D : X = −2,5695 m ; Y = −2,3495 m</text>
+        </g>
+      </g>
+      <!-- P9 -->
+      <g
+         id="cotations-P9"
+         inkscape:label="P9 - Cotations"
+         style="display:none">
+        <g
+           fill="none"
+           stroke="#1976d2"
+           stroke-width="1.2"
+           stroke-dasharray="5, 3"
+           id="g2561">
+          <path
+             d="M 690,690 0,765"
+             id="ligne-P9-A" />
+          <path
+             d="M 690,690 0,615"
+             id="ligne-P9-B" />
+          <path
+             d="M 690,690 350,615"
+             id="ligne-P9-C" />
+          <path
+             d="M 690,690 350,765"
+             id="ligne-P9-D" />
+        </g>
+        <circle
+           cx="690"
+           cy="690"
+           r="3"
+           fill="#1976d2"
+           id="circle2563" />
+        <g
+           font-family="sans-serif"
+           font-size="12px"
+           fill="#1565c0"
+           id="g2569">
+          <text
+             x="10"
+             y="785"
+             id="texte-P9-A">A : X = −6,90 m ; Y = −0,75 m</text>
+          <text
+             x="10"
+             y="600"
+             id="texte-P9-B">B : X = −6,90 m ; Y = +0,75 m</text>
+          <text
+             x="355"
+             y="600"
+             id="texte-P9-C">C : X = −3,40 m ; Y = +0,75 m</text>
+          <text
+             x="355"
+             y="785"
+             id="texte-P9-D">D : X = −3,40 m ; Y = −0,75 m</text>
+        </g>
+      </g>
+      <!-- P10 -->
+      <g
+         id="cotations-P10"
+         inkscape:label="P10 - Cotations"
+         style="display:none">
+        <g
+           fill="none"
+           stroke="#1976d2"
+           stroke-width="1.2"
+           stroke-dasharray="5, 3"
+           id="g2576">
+          <path
+             d="M 690,690 54.9425,409.9519"
+             id="ligne-P10-A" />
+          <path
+             d="M 690,690 129.9425,280.0481"
+             id="ligne-P10-B" />
+          <path
+             d="M 690,690 433.0514,455.0481"
+             id="ligne-P10-C" />
+          <path
+             d="M 690,690 358.0514,584.9519"
+             id="ligne-P10-D" />
+        </g>
+        <circle
+           cx="690"
+           cy="690"
+           r="3"
+           fill="#1976d2"
+           id="circle2578" />
+        <g
+           font-family="sans-serif"
+           font-size="12px"
+           fill="#1565c0"
+           id="g2584">
+          <text
+             x="20"
+             y="405"
+             id="texte-P10-A">A : X = −6,3506 m ; Y = +2,8005 m</text>
+          <text
+             x="135"
+             y="265"
+             id="texte-P10-B">B : X = −5,6006 m ; Y = +4,0995 m</text>
+          <text
+             x="435"
+             y="445"
+             id="texte-P10-C">C : X = −2,5695 m ; Y = +2,3495 m</text>
+          <text
+             x="360"
+             y="575"
+             id="texte-P10-D">D : X = −3,3195 m ; Y = +1,0505 m</text>
+        </g>
+      </g>
+      <!-- P11 -->
+      <g
+         id="cotations-P11"
+         inkscape:label="P11 - Cotations"
+         style="display:none">
+        <g
+           fill="none"
+           stroke="#1976d2"
+           stroke-width="1.2"
+           stroke-dasharray="5, 3"
+           id="g2591">
+          <path
+             d="M 690,690 280.0481,129.9425"
+             id="ligne-P11-A" />
+          <path
+             d="M 690,690 409.9519,54.9425"
+             id="ligne-P11-B" />
+          <path
+             d="M 690,690 584.9519,358.0514"
+             id="ligne-P11-C" />
+          <path
+             d="M 690,690 455.0481,433.0514"
+             id="ligne-P11-D" />
+        </g>
+        <circle
+           cx="690"
+           cy="690"
+           r="3"
+           fill="#1976d2"
+           id="circle2593" />
+        <g
+           font-family="sans-serif"
+           font-size="12px"
+           fill="#1565c0"
+           id="g2599">
+          <text
+             x="120"
+             y="125"
+             id="texte-P11-A">A : X = −4,0995 m ; Y = +5,6006 m</text>
+          <text
+             x="410"
+             y="40"
+             id="texte-P11-B">B : X = −2,8005 m ; Y = +6,3506 m</text>
+          <text
+             x="585"
+             y="345"
+             id="texte-P11-C">C : X = −1,0505 m ; Y = +3,3195 m</text>
+          <text
+             x="455"
+             y="420"
+             id="texte-P11-D">D : X = −2,3495 m ; Y = +2,5695 m</text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <!-- 6. RESEAU D'ARROSAGE -->
+  <g
+     id="reseau-arrosage"
+     inkscape:label="06 - Réseau d'arrosage"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <g
+       id="piquetage"
+       inkscape:label="Piquetage"
+       inkscape:groupmode="layer"
+       style="display:none">
+      <g
+         inkscape:groupmode="layer"
+         id="layer1"
+         inkscape:label="02 - Arrosage"
+         style="display:inline" />
+      <g
+         id="points-remarquables"
+         inkscape:label="01 - Points remarquables"
+         inkscape:groupmode="layer"
+         style="display:inline">
+        <!-- Axes de piquetage : origine au centre -->
+        <g
+           id="axes-piquetage"
+           inkscape:label="Axes Nord-Sud / Est-Ouest"
+           fill="none"
+           stroke="#7b61a8"
+           stroke-width="1.5"
+           stroke-dasharray="10, 5"
+           style="display:inline">
+          <path
+             id="axe-nord-sud"
+             d="M 698,2 V 1382" />
+          <path
+             id="axe-est-ouest"
+             d="M 8,692 H 1388" />
+        </g>
+        <!-- ====================================================== -->
+        <!-- COTES D'IMPLANTATION DU RESEAU D'ARROSAGE              -->
+        <!-- Référence : centre géométrique du viewBox              -->
+        <!-- Unités : unités SVG, conversion terrain à calibrer     -->
+        <!-- ====================================================== -->
+        <g
+           id="cotes-reseau-arrosage"
+           inkscape:label="Cotes — Réseau d'arrosage"
+           font-family="Arial, sans-serif"
+           font-size="16px"
+           fill="#333333"
+           stroke-linecap="round"
+           style="display:inline">
+          <!-- Centre géométrique du plan -->
+          <g
+             id="origine-cotes"
+             inkscape:label="Origine des cotes"
+             style="display:none">
+            <circle
+               cx="694.5"
+               cy="692"
+               r="7"
+               fill="#1565c0"
+               stroke="#ffffff"
+               stroke-width="2"
+               id="circle1601" />
+            <line
+               x1="674.5"
+               y1="692"
+               x2="714.5"
+               y2="692"
+               stroke="#1565c0"
+               stroke-width="2"
+               id="line1603" />
+            <line
+               x1="694.5"
+               y1="672"
+               x2="694.5"
+               y2="712"
+               stroke="#1565c0"
+               stroke-width="2"
+               id="line1605" />
+            <text
+               x="710"
+               y="720"
+               fill="#1565c0"
+               stroke="none"
+               font-weight="bold"
+               id="text1607">O — Centre du plan</text>
+          </g>
+          <!-- Vanne générale : (850, 850) -->
+          <g
+             id="cotes-vanne-generale"
+             inkscape:label="Cotes — Vanne générale">
+            <path
+               d="M 694.5,692 H 850 v 158"
+               fill="none"
+               stroke="#d32f2f"
+               stroke-width="1.5"
+               stroke-dasharray="6, 4"
+               id="path1610" />
+            <circle
+               cx="850"
+               cy="850"
+               r="5"
+               fill="#d32f2f"
+               stroke="none"
+               id="circle1612" />
+            <text
+               x="755"
+               y="680"
+               fill="#d32f2f"
+               stroke="none"
+               id="text1614">E +155,5</text>
+            <text
+               x="858"
+               y="775"
+               fill="#d32f2f"
+               stroke="none"
+               id="text1616">S 158</text>
+            <text
+               x="865"
+               y="865"
+               fill="#d32f2f"
+               stroke="none"
+               font-weight="bold"
+               id="text1618">Vanne générale</text>
+          </g>
+          <!-- Collecteur AQ1 : (698, 511.19) -->
+          <g
+             id="cotes-collecteur-aq1"
+             inkscape:label="Cotes — Collecteur AQ1">
+            <path
+               d="M 694.5,692 H 698 V 511.19"
+               fill="none"
+               stroke="#00897b"
+               stroke-width="1.5"
+               stroke-dasharray="6, 4"
+               id="path1621" />
+            <circle
+               cx="698"
+               cy="511.19"
+               r="5"
+               fill="#00897b"
+               stroke="none"
+               id="circle1623" />
+            <text
+               x="710"
+               y="610"
+               fill="#00897b"
+               stroke="none"
+               id="text1625">N 180,81</text>
+            <text
+               x="708"
+               y="495"
+               fill="#00897b"
+               stroke="none"
+               font-weight="bold"
+               id="text1627">AQ1</text>
+          </g>
+          <!-- Vanne P1 : centre géométrique du symbole -->
+          <g
+             id="cotes-vanne-p1"
+             inkscape:label="Cotes — Vanne P1">
+            <path
+               d="M 694.5,692 H 516.5864 V 396.5"
+               fill="none"
+               stroke="#7b1fa2"
+               stroke-width="1.5"
+               stroke-dasharray="6, 4"
+               id="path1630" />
+            <circle
+               cx="516.58643"
+               cy="396.5"
+               r="5"
+               fill="#7b1fa2"
+               stroke="none"
+               id="circle1632" />
+            <text
+               x="535"
+               y="715"
+               fill="#7b1fa2"
+               stroke="none"
+               id="text1634">O 177,91</text>
+            <text
+               x="525"
+               y="570"
+               fill="#7b1fa2"
+               stroke="none"
+               id="text1636">N 295,5</text>
+            <text
+               x="445"
+               y="382"
+               fill="#7b1fa2"
+               stroke="none"
+               font-weight="bold"
+               id="text1638">Vanne P1</text>
+          </g>
+          <!-- Vanne P2 : centre géométrique du symbole -->
+          <g
+             id="cotes-vanne-p2"
+             inkscape:label="Cotes — Vanne P2">
+            <path
+               d="m 694.5,692 h 10.0864 V 357.125"
+               fill="none"
+               stroke="#ef6c00"
+               stroke-width="1.5"
+               stroke-dasharray="6, 4"
+               id="path1641" />
+            <circle
+               cx="704.58643"
+               cy="357.125"
+               r="5"
+               fill="#ef6c00"
+               stroke="none"
+               id="circle1643" />
+            <text
+               x="710"
+               y="675"
+               fill="#ef6c00"
+               stroke="none"
+               id="text1645">E 10,09</text>
+            <text
+               x="716"
+               y="450"
+               fill="#ef6c00"
+               stroke="none"
+               id="text1647">N 334,88</text>
+            <text
+               x="715"
+               y="345"
+               fill="#ef6c00"
+               stroke="none"
+               font-weight="bold"
+               id="text1649">Vanne P2</text>
+          </g>
+          <!-- Vanne P3 : centre géométrique du symbole -->
+          <g
+             id="cotes-vanne-p3"
+             inkscape:label="Cotes — Vanne P3">
+            <path
+               d="M 694.5,692 H 873.9199 V 396.5"
+               fill="none"
+               stroke="#1565c0"
+               stroke-width="1.5"
+               stroke-dasharray="6, 4"
+               id="path1652" />
+            <circle
+               cx="873.91992"
+               cy="396.5"
+               r="5"
+               fill="#1565c0"
+               stroke="none"
+               id="circle1654" />
+            <text
+               x="755"
+               y="715"
+               fill="#1565c0"
+               stroke="none"
+               id="text1656">E 179,42</text>
+            <text
+               x="884"
+               y="570"
+               fill="#1565c0"
+               stroke="none"
+               id="text1658">N 295,5</text>
+            <text
+               x="885"
+               y="382"
+               fill="#1565c0"
+               stroke="none"
+               font-weight="bold"
+               id="text1660">Vanne P3</text>
+          </g>
+          <!-- Point d'arrivée d'eau : (1340, 1340) -->
+          <g
+             id="cotes-arrivee-eau"
+             inkscape:label="Cotes — Arrivée d'eau">
+            <path
+               d="M 694.5,692 H 1340 v 648"
+               fill="none"
+               stroke="#616161"
+               stroke-width="1.5"
+               stroke-dasharray="6, 4"
+               id="path1663" />
+            <circle
+               cx="1340"
+               cy="1340"
+               r="5"
+               fill="#616161"
+               stroke="none"
+               id="circle1665" />
+            <text
+               x="1050"
+               y="680"
+               fill="#616161"
+               stroke="none"
+               id="text1667">E 645,5</text>
+            <text
+               x="1348"
+               y="1100"
+               fill="#616161"
+               stroke="none"
+               id="text1669">S 648</text>
+            <text
+               x="1199.6016"
+               y="1312.0004"
+               fill="#616161"
+               stroke="none"
+               font-weight="bold"
+               id="text1671">Arrivée d'eau</text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata2801">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Plan de jardin — Base géométrique</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
