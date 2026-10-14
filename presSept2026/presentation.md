@@ -375,7 +375,7 @@ références et estimations de prix.
 | Dimensions parcelles | 1,50 × 3,50 m |
 | Nombre de parcelles | 12 : P0 à P11 |
 
-**Méthode :** matérialiser l'origine O, mesurer X puis Y pour chaque point et planter un piquet. Contrôler ensuite les dimensions des parcelles.
+**Méthode :** depuis l'origine O, mesurer X puis Y pour chaque point et planter un piquet. 
 
 ---
 | Fait | Parcelle | Point | X (m) | Y (m) |
@@ -453,8 +453,8 @@ références et estimations de prix.
 
 # 5. Réseau d'arrosage
 
-| Fait | Point à implanter | X (m) | Y (m) | Remarque |
-| --- | --- | ---: | ---: | --- |
+| Fait | Point à implanter | X (m) | Y (m) |  
+| --- | --- | ---: | ---: |
 | ☐ | Origine O | 0,0000 | 0,0000 | 
 | ☐ | Vanne générale | +1,6000 | -1,6000 | 
 | ☐ | Collecteur AQ1 | +0,0800 | +1,7881 | 
